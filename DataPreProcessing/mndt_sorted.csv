@@ -1,0 +1,1637 @@
+"Classification","chnm","tgt_abbr","testname","NAS"
+"MostDILI Drugs","abacavir","AHR","TOX21_AhR_LUC_Agonist_Row256",0.307310929
+"MostDILI Drugs","abacavir","ESR1","TOX21_ERa_LUC_BG1_Agonist_Row253",0.800208652
+"MostDILI Drugs","acetaminophen","CD40","BSK_LPS_CD40_down_Row64",0.999917414
+"MostDILI Drugs","acetaminophen","F3","BSK_LPS_TissueFactor_down_Row147",0.999924075
+"MostDILI Drugs","acetaminophen","PGR","NVS_NR_hPR_Row590",0.891443229
+"MostDILI Drugs","acetaminophen","PTGER2","BSK_LPS_PGE2_down_Row146",0.866227601
+"MostDILI Drugs","acetaminophen","SOX1","ATG_Sox_CIS_up_Row451",0.354874886
+"MostDILI Drugs","acetaminophen","xtt","ATG_XTT_Cytotoxicity_up_Row1093",0.999939534
+"MostDILI Drugs","acitretin","CYP19A1","TOX21_Aromatase_Inhibition_Row119",0.637823371
+"MostDILI Drugs","acitretin","ESR1","TOX21_ERa_LUC_BG1_Antagonist_Row179",-0.003322395
+"MostDILI Drugs","acitretin","PPARG","TOX21_PPARg_BLA_Agonist_ratio_Row2",-1.336234949
+"MostDILI Drugs","acitretin","THRA","TOX21_TR_LUC_GH3_Agonist_Row273",-2.102512953
+"MostDILI Drugs","albendazole","AHR","TOX21_AhR_LUC_Agonist_Row256",-1.562636354
+"MostDILI Drugs","albendazole","ESR1","TOX21_ERa_LUC_BG1_Agonist_Row253",-1.301779731
+"MostDILI Drugs","albendazole","hmgbox","ATG_TCF_b_cat_CIS_dn_Row85",-2.449866144
+"MostDILI Drugs","albendazole","NR1H3","ATG_DR4_LXR_CIS_dn_Row28",-2.50155629
+"MostDILI Drugs","albendazole","NR1H4","TOX21_FXR_BLA_antagonist_ratio_Row183",0.239645906
+"MostDILI Drugs","albendazole","NR3C1","TOX21_GR_BLA_Agonist_ch2_Row270",-1.257992818
+"MostDILI Drugs","albendazole","THRA","TOX21_TR_LUC_GH3_Antagonist_Row97",0.64175649
+"MostDILI Drugs","albendazole","TP53","TOX21_p53_BLA_p4_ch2_Row163",0.754240488
+"MostDILI Drugs","albendazole","TP53","TOX21_p53_BLA_p4_ratio_Row126",0.749040166
+"MostDILI Drugs","albendazole","TP53","TOX21_p53_BLA_p1_ch2_Row274",0.71993392
+"MostDILI Drugs","albendazole","TP53","TOX21_p53_BLA_p3_ch2_Row92",0.690658532
+"MostDILI Drugs","albendazole","TP53","TOX21_p53_BLA_p1_ratio_Row162",0.67262346
+"MostDILI Drugs","albendazole","TP53","TOX21_p53_BLA_p2_ch2_Row77",0.662270954
+"MostDILI Drugs","albendazole","TP53","TOX21_p53_BLA_p2_ratio_Row80",0.641397762
+"MostDILI Drugs","albendazole","TP53","TOX21_p53_BLA_p3_ratio_Row118",0.621062384
+"MostDILI Drugs","albendazole","TP53","TOX21_p53_BLA_p5_ratio_Row117",0.599432315
+"MostDILI Drugs","albendazole","TP53","TOX21_p53_BLA_p5_ch2_Row151",0.5809289
+"MostDILI Drugs","alclofenac","ESR1","TOX21_ERa_LUC_BG1_Agonist_Row253",0.99955572
+"MostDILI Drugs","alclofenac","ESR1","TOX21_ERa_BLA_Agonist_ch1_Row242",0.993251185
+"MostDILI Drugs","alclofenac","ESR1","TOX21_ERa_BLA_Agonist_ch2_Row269",0.991964113
+"MostDILI Drugs","alclofenac","ESR1","TOX21_ERa_BLA_Agonist_ratio_Row246",0.987410197
+"MostDILI Drugs","alclofenac","PPARG","TOX21_PPARg_BLA_Agonist_ratio_Row2",0.96274114
+"MostDILI Drugs","alclofenac","PPARG","TOX21_PPARg_BLA_Agonist_ch2_Row1",0.910117931
+"MostDILI Drugs","allopurinol","TP53","TOX21_p53_BLA_p2_ch1_Row98",-0.006377222
+"MostDILI Drugs","allopurinol","TP53","TOX21_p53_BLA_p2_viability_Row180",-0.185329869
+"AmbiDILIDrugs","ambrisentan","TP53","TOX21_p53_BLA_p4_viability_Row177",0.999985377
+"NoDILI Drugs","amifostine","TP53","TOX21_p53_BLA_p3_ch1_Row121",0.999996513
+"NoDILI Drugs","amikacin","ESR1","TOX21_ERa_LUC_BG1_Agonist_Row253",0.406326827
+"LessDILIDrugs","ampicillin","NF1A","ATG_NFI_CIS_dn_Row415",0.32075436
+"LessDILIDrugs","ampicillin","NR3C1","ATG_GRE_CIS_dn_Row374",0.320805319
+"LessDILIDrugs","ampicillin","TP53","TOX21_p53_BLA_p3_ch2_Row92",0.612323589
+"AmbiDILIDrugs","amrinone","AR","TOX21_AR_BLA_Antagonist_viability_Row157",0.808401355
+"LessDILIDrugs","anastrozole","CYP19A1","TOX21_Aromatase_Inhibition_Row119",-2.535202452
+"LessDILIDrugs","anastrozole","ESR1","NVS_NR_bER_Row617",0.529212984
+"LessDILIDrugs","aspirin","CSF1","NVS_ENZ_hCSF1R_Row817",-0.51718543
+"LessDILIDrugs","aspirin","NPY1R","NVS_GPCR_hNPY1_Row978",-2.248698421
+"LessDILIDrugs","aspirin","PLAUR","BSK_4H_uPAR_down_Row101",0.997489725
+"LessDILIDrugs","aspirin","PTGER2","BSK_LPS_PGE2_down_Row146",0.42451609
+"LessDILIDrugs","aspirin","RXRB","ATG_RXRb_TRANS_up_Row311",-0.545466136
+"LessDILIDrugs","atenolol","intmrkr","ATG_M_19_TRANS_up_Row402",0.284073242
+"LessDILIDrugs","auranofin","AR","TOX21_AR_BLA_Antagonist_ratio_Row143",0.35066342
+"LessDILIDrugs","auranofin","AR","TOX21_AR_BLA_Antagonist_ch2_Row227",0.184417046
+"LessDILIDrugs","auranofin","AR","TOX21_AR_LUC_MDAKB2_Antagonist_Row178",-1.813733448
+"LessDILIDrugs","auranofin","CYP19A1","TOX21_Aromatase_Inhibition_Row119",-1.832348848
+"LessDILIDrugs","auranofin","NR3C1","TOX21_GR_BLA_Antagonist_ratio_Row155",0.270370017
+"LessDILIDrugs","auranofin","NR3C1","TOX21_GR_BLA_Antagonist_ch2_Row165",0.085908981
+"LessDILIDrugs","auranofin","PPARG","TOX21_PPARg_BLA_Agonist_ch2_Row1",0.328385065
+"LessDILIDrugs","auranofin","THRA","TOX21_TR_LUC_GH3_Antagonist_Row97",0.503041243
+"LessDILIDrugs","auranofin","TP53","TOX21_p53_BLA_p1_ch1_Row166",-1.748997205
+"LessDILIDrugs","auranofin","TP53","TOX21_p53_BLA_p4_ch2_Row163",-2.302919122
+"MostDILI Drugs","azathioprine","prlfrn","NCCT_HEK293T_CellTiterGLO_Row88",-3.071441021
+"LessDILIDrugs","azithromycin","TP53","TOX21_p53_BLA_p4_ch2_Row163",0.999662984
+"AmbiDILIDrugs","aztreonam","NFKB1","TOX21_NFkB_BLA_agonist_ch1_Row247",0.896742278
+"MostDILI Drugs","benzbromarone","ESR1","TOX21_ERa_BLA_Antagonist_ratio_Row156",-2.330056416
+"MostDILI Drugs","benzbromarone","HSF1","TOX21_HSE_BLA_agonist_ratio_Row172",-1.434304158
+"MostDILI Drugs","benzbromarone","NR1H4","TOX21_FXR_BLA_antagonist_ratio_Row183",-1.457278955
+"MostDILI Drugs","benzbromarone","NR3C1","TOX21_GR_BLA_Antagonist_ratio_Row155",-2.728049704
+"MostDILI Drugs","benzbromarone","NR3C1","TOX21_GR_BLA_Antagonist_ch2_Row165",-3.09510437
+"MostDILI Drugs","benzbromarone","NRF2","TOX21_ARE_BLA_agonist_ratio_Row34",-0.053999859
+"MostDILI Drugs","benzbromarone","PPARD","TOX21_PPARd_BLA_antagonist_ratio_Row221",-1.820763542
+"MostDILI Drugs","benzbromarone","PPARG","TOX21_PPARg_BLA_Agonist_ch2_Row1",0.472629457
+"MostDILI Drugs","benzbromarone","PPARG","TOX21_PPARg_BLA_Agonist_ratio_Row2",0.378642587
+"MostDILI Drugs","benzbromarone","THRA","TOX21_TR_LUC_GH3_Antagonist_Row97",-3.717666248
+"MostDILI Drugs","benzbromarone","TP53","TOX21_p53_BLA_p2_ch2_Row77",0.727014508
+"MostDILI Drugs","benzbromarone","TP53","TOX21_p53_BLA_p1_ch2_Row274",0.449370666
+"MostDILI Drugs","benzbromarone","TP53","TOX21_p53_BLA_p4_ch2_Row163",0.371124668
+"MostDILI Drugs","benzbromarone","TP53","TOX21_p53_BLA_p5_ch2_Row151",0.331379317
+"MostDILI Drugs","benzbromarone","TP53","TOX21_p53_BLA_p2_ratio_Row80",0.205433701
+"MostDILI Drugs","benzbromarone","TP53","TOX21_p53_BLA_p3_ratio_Row118",-1.546115302
+"MostDILI Drugs","benzbromarone","TP53","TOX21_p53_BLA_p5_ratio_Row117",-2.942718764
+"MostDILI Drugs","bicalutamide","AR","NVS_NR_cAR_Row619",0.750329881
+"MostDILI Drugs","bicalutamide","AR","TOX21_AR_LUC_MDAKB2_Antagonist2_Row168",0.335144035
+"MostDILI Drugs","bicalutamide","AR","NVS_NR_rAR_Row591",0.328714203
+"MostDILI Drugs","bicalutamide","AR","OT_AR_ARSRC1_0480_Row1045",-3.098394362
+"MostDILI Drugs","bicalutamide","ESR1","NVS_NR_mERa_Row618",0.984573823
+"MostDILI Drugs","bicalutamide","ESR1","OT_ER_ERbERb_1440_Row1051",-0.146211244
+"MostDILI Drugs","bicalutamide","ESR1","OT_ER_ERaERb_1440_Row1049",-1.96374502
+"MostDILI Drugs","bicalutamide","ESR1","NVS_NR_hER_Row588",-2.942595606
+"MostDILI Drugs","bicalutamide","NR1I2","ATG_PXRE_CIS_up_Row16",-1.206897861
+"MostDILI Drugs","bicalutamide","NR3C1","NVS_NR_hGR_Row589",-0.504837274
+"NoDILI Drugs","bisacodyl","AR","TOX21_AR_LUC_MDAKB2_Antagonist_Row178",-1.766834227
+"NoDILI Drugs","bisacodyl","NFKB1","TOX21_NFkB_BLA_agonist_viability_Row241",-1.381814347
+"NoDILI Drugs","bisacodyl","TP53","TOX21_p53_BLA_p1_ch2_Row274",-2.074546747
+"NoDILI Drugs","bisacodyl","TP53","TOX21_p53_BLA_p1_ratio_Row162",-2.394469153
+"MostDILI Drugs","bortezomib","AR","TOX21_AR_BLA_Antagonist_ratio_Row143",0.986148703
+"MostDILI Drugs","bortezomib","AR","TOX21_AR_LUC_MDAKB2_Antagonist_Row178",0.963102531
+"MostDILI Drugs","bortezomib","AR","TOX21_AR_LUC_MDAKB2_Antagonist2_Row168",0.917466024
+"MostDILI Drugs","bortezomib","AR","TOX21_AR_BLA_Agonist_ch2_Row254",-0.618001072
+"MostDILI Drugs","bortezomib","CYP19A1","TOX21_Aromatase_Inhibition_Row119",0.962430718
+"MostDILI Drugs","bortezomib","ESR1","TOX21_ERa_BLA_Antagonist_ratio_Row156",0.955642815
+"MostDILI Drugs","bortezomib","ESR1","TOX21_ERa_LUC_BG1_Antagonist_Row179",0.817605578
+"MostDILI Drugs","bortezomib","HSF1","TOX21_HSE_BLA_agonist_ch2_Row280",0.515325759
+"MostDILI Drugs","bortezomib","HSF1","TOX21_HSE_BLA_agonist_ratio_Row172",0.482178158
+"MostDILI Drugs","bortezomib","NR1H4","TOX21_FXR_BLA_antagonist_ratio_Row183",-0.534770317
+"MostDILI Drugs","bortezomib","NRF2","TOX21_ARE_BLA_agonist_ratio_Row34",0.915581507
+"MostDILI Drugs","bortezomib","NRF2","TOX21_ARE_BLA_Agonist_ch2_Row24",0.909791503
+"MostDILI Drugs","bortezomib","PPARD","TOX21_PPARd_BLA_antagonist_ratio_Row221",0.78370808
+"MostDILI Drugs","bortezomib","PPARG","TOX21_PPARg_BLA_antagonist_ratio_Row220",0.778604978
+"MostDILI Drugs","bortezomib","THRA","TOX21_TR_LUC_GH3_Antagonist_Row97",0.961440247
+"MostDILI Drugs","bortezomib","TP53","TOX21_p53_BLA_p1_ratio_Row162",0.974932885
+"MostDILI Drugs","bortezomib","TP53","TOX21_p53_BLA_p4_ch2_Row163",0.970420298
+"MostDILI Drugs","bortezomib","TP53","TOX21_p53_BLA_p2_ratio_Row80",0.97023815
+"MostDILI Drugs","bortezomib","TP53","TOX21_p53_BLA_p2_ch2_Row77",0.970102907
+"MostDILI Drugs","bortezomib","TP53","TOX21_p53_BLA_p4_ratio_Row126",0.969882664
+"MostDILI Drugs","bortezomib","TP53","TOX21_p53_BLA_p3_ch2_Row92",0.969530722
+"MostDILI Drugs","bortezomib","TP53","TOX21_p53_BLA_p3_ratio_Row118",0.969251584
+"MostDILI Drugs","bortezomib","TP53","TOX21_p53_BLA_p5_ratio_Row117",0.964055645
+"MostDILI Drugs","bortezomib","TP53","TOX21_p53_BLA_p1_ch2_Row274",0.961608165
+"MostDILI Drugs","bortezomib","TP53","TOX21_p53_BLA_p5_ch2_Row151",0.961599046
+"MostDILI Drugs","bortezomib","TP53","TOX21_p53_BLA_p2_ch1_Row98",0.55011479
+"MostDILI Drugs","bortezomib","TP53","TOX21_p53_BLA_p4_viability_Row177",0.546679705
+"MostDILI Drugs","bortezomib","TP53","TOX21_p53_BLA_p2_viability_Row180",0.273824488
+"MostDILI Drugs","bortezomib","TP53","TOX21_p53_BLA_p3_viability_Row184",-0.024191083
+"MostDILI Drugs","bortezomib","TP53","TOX21_p53_BLA_p1_viability_Row171",-0.105004716
+"MostDILI Drugs","bortezomib","TP53","TOX21_p53_BLA_p4_ch1_Row112",-0.198979849
+"MostDILI Drugs","bortezomib","TP53","TOX21_p53_BLA_p3_ch1_Row121",-0.227550269
+"MostDILI Drugs","bortezomib","TP53","TOX21_p53_BLA_p5_viability_Row185",-0.934999064
+"MostDILI Drugs","bortezomib","TP53","TOX21_p53_BLA_p1_ch1_Row166",-1.226923847
+"MostDILI Drugs","bortezomib","TP53","TOX21_p53_BLA_p5_ch1_Row169",-3.250135457
+"MostDILI Drugs","bortezomib","VDR","TOX21_VDR_BLA_antagonist_ratio_Row225",-0.264547008
+"NoDILI Drugs","budesonide","AR","TOX21_AR_LUC_MDAKB2_Agonist_Row252",-0.5102125
+"NoDILI Drugs","budesonide","NR3C1","TOX21_GR_BLA_Agonist_ratio_Row239",-0.137375833
+"NoDILI Drugs","budesonide","NR3C1","TOX21_GR_BLA_Agonist_ch2_Row270",-2.635855
+"MostDILI Drugs","busulfan","ESR1","NVS_NR_hER_Row588",-2.33522546
+"NoDILI Drugs","caffeine","ADORA1","NVS_GPCR_hAdoRA1_Row574",0.932849997
+"NoDILI Drugs","caffeine","ADORA2A","NVS_GPCR_hAdoRA2a_Row575",0.864354244
+"NoDILI Drugs","caffeine","ADRA1A","NVS_GPCR_bAdoR_NonSelective_Row947",0.602915663
+"NoDILI Drugs","caffeine","AR","TOX21_AR_LUC_MDAKB2_Antagonist2_Row168",0.047081793
+"NoDILI Drugs","caffeine","AR","TOX21_AR_LUC_MDAKB2_Antagonist_Row178",-0.294736374
+"NoDILI Drugs","caffeine","ESR1","ATG_ERa_TRANS_up_Row27",0.017433724
+"NoDILI Drugs","caffeine","ESR1","TOX21_ERa_LUC_BG1_Antagonist_Row179",-0.983519489
+"NoDILI Drugs","caffeine","GATA","ATG_GATA_CIS_up_Row371",0.984395538
+"NoDILI Drugs","caffeine","NRF2","TOX21_ARE_BLA_agonist_ratio_Row34",0.774977857
+"NoDILI Drugs","caffeine","NRF2","TOX21_ARE_BLA_Agonist_ch2_Row24",0.666385041
+"NoDILI Drugs","caffeine","NRF2","TOX21_ARE_BLA_Agonist_ch1_Row235",-0.911098603
+"NoDILI Drugs","caffeine","PAX6","ATG_Pax6_CIS_up_Row432",0.987853608
+"NoDILI Drugs","caffeine","PDE10A","NVS_ENZ_hPDE10_Row560",0.517494113
+"NoDILI Drugs","caffeine","PDE4A","NVS_ENZ_hPDE4A1_Row873",0.257244049
+"NoDILI Drugs","caffeine","RXRA","ATG_RXRa_TRANS_dn_Row444",0.999965106
+"NoDILI Drugs","caffeine","RXRB","ATG_RXRb_TRANS_up_Row311",-0.361000149
+"NoDILI Drugs","caffeine","SOX1","ATG_Sox_CIS_up_Row451",0.997855066
+"NoDILI Drugs","caffeine","SP1","ATG_Sp1_CIS_dn_Row452",0.863807418
+"NoDILI Drugs","caffeine","STAT3","ATG_STAT3_CIS_dn_Row448",0.864443855
+"NoDILI Drugs","caffeine","TP53","TOX21_p53_BLA_p2_viability_Row180",0.999999762
+"NoDILI Drugs","caffeine","xtt","ATG_XTT_Cytotoxicity_up_Row1093",0.999803284
+"AmbiDILIDrugs","capecitabine","TP53","TOX21_p53_BLA_p2_ratio_Row80",0.958712827
+"AmbiDILIDrugs","capecitabine","TP53","TOX21_p53_BLA_p2_viability_Row180",0.958610918
+"LessDILIDrugs","captopril","TP53","TOX21_p53_BLA_p3_ch1_Row121",0.99991984
+"MostDILI Drugs","carbamazepine","ADORA1","NVS_GPCR_hAdoRA1_Row574",0.715462476
+"MostDILI Drugs","carbamazepine","ESR1","ACEA_T47D_80hr_Positive_Row621",-1.05685138
+"MostDILI Drugs","carbamazepine","ESR1","ATG_ERE_CIS_up_Row9",-1.181874758
+"MostDILI Drugs","carbamazepine","GABRA1","NVS_LGIC_rGABAR_NonSelective_Row1025",0.80025789
+"MostDILI Drugs","carbamazepine","NR1H4","OT_FXR_FXRSRC1_1440_Row1054",0.852773935
+"MostDILI Drugs","carbamazepine","NR1I2","ATG_PXRE_CIS_up_Row16",-0.147650037
+"MostDILI Drugs","carbamazepine","RXRB","ATG_RXRb_TRANS_dn_Row446",-1.661216706
+"MostDILI Drugs","carbamazepine","zf_activityscore","Tanguay_ZF_120hpf_ActivityScore_Row1057",0.837603647
+"AmbiDILIDrugs","carbidopa","ESR1","TOX21_ERa_LUC_BG1_Agonist_Row253",0.999980995
+"LessDILIDrugs","carboplatin","NRF2","TOX21_ARE_BLA_agonist_ratio_Row34",0.559883243
+"NoDILI Drugs","carisoprodol","TP53","TOX21_p53_BLA_p2_ratio_Row80",0.73950857
+"NoDILI Drugs","carisoprodol","TP53","TOX21_p53_BLA_p2_ch1_Row98",0.737918152
+"NoDILI Drugs","carisoprodol","TP53","TOX21_p53_BLA_p2_viability_Row180",0.72886373
+"LessDILIDrugs","cefazolin","NRF2","TOX21_ARE_BLA_agonist_ratio_Row34",0.772395116
+"LessDILIDrugs","celecoxib","COX2","NVS_ENZ_oCOX2_Row931",0.918961413
+"LessDILIDrugs","celecoxib","CyP2C9","NVS_ADME_hCYP2C9_Row546",-2.326139972
+"LessDILIDrugs","celecoxib","MTF1","ATG_MRE_CIS_up_Row84",-2.773799863
+"LessDILIDrugs","celecoxib","NR1H3","ATG_DR4_LXR_CIS_dn_Row28",-3.567609544
+"LessDILIDrugs","celecoxib","NR1I2","ATG_PXRE_CIS_up_Row16",-0.22510267
+"LessDILIDrugs","celecoxib","NRF2","ATG_NRF2_ARE_CIS_up_Row48",-2.395464963
+"LessDILIDrugs","celecoxib","PTGER2","BSK_LPS_PGE2_down_Row146",0.994543867
+"LessDILIDrugs","celecoxib","SLC6A2","NVS_TR_hNET_Row595",-0.054046594
+"LessDILIDrugs","celecoxib","THBD","BSK_CASM3C_Thrombomodulin_up_Row23",0.564656054
+"LessDILIDrugs","celecoxib","TSPO","NVS_MP_rPBR_Row587",-1.009105996
+"LessDILIDrugs","celecoxib","VDR","ATG_VDRE_CIS_up_Row37",-2.264067915
+"LessDILIDrugs","celecoxib","zf_teratoscore","NHEERL_ZF_144hpf_TERATOSCORE_up_Row13",-3.755713531
+"LessDILIDrugs","cephalexin","NRF2","TOX21_ARE_BLA_agonist_ratio_Row34",0.4267896
+"LessDILIDrugs","chlorambucil","F3","BSK_LPS_TissueFactor_down_Row147",-3.906197904
+"LessDILIDrugs","chlorambucil","KDR","BSK_4H_VEGFRII_down_Row484",0.259873314
+"LessDILIDrugs","chlorambucil","LDLR","BSK_CASM3C_LDLR_down_Row501",-3.694265617
+"LessDILIDrugs","chlorambucil","PLAU","BSK_BE3C_uPA_down_Row60",-3.313474661
+"LessDILIDrugs","chlorambucil","PLAUR","BSK_4H_uPAR_down_Row101",0.492530788
+"LessDILIDrugs","chlorambucil","prlfrn","BSK_CASM3C_Proliferation_down_Row26",-0.628026818
+"LessDILIDrugs","chlorambucil","prlfrn","BSK_3C_Proliferation_down_Row100",-2.206695589
+"LessDILIDrugs","chlorambucil","prlfrn","BSK_hDFCGF_Proliferation_down_Row25",-3.006784578
+"LessDILIDrugs","chlorambucil","THBD","BSK_CASM3C_Thrombomodulin_up_Row23",-2.791095325
+"NoDILI Drugs","chloramphenicol","NR1I2","ATG_PXRE_CIS_up_Row16",-0.213993062
+"LessDILIDrugs","chlorpropamide","NR1I2","ATG_PXRE_CIS_up_Row16",0.041575217
+"LessDILIDrugs","cimetidine","TP53","TOX21_p53_BLA_p2_viability_Row180",0.999996436
+"LessDILIDrugs","cimetidine","TP53","TOX21_p53_BLA_p4_ch2_Row163",0.958573204
+"MostDILI Drugs","cinchophen","PPARG","TOX21_PPARg_BLA_Agonist_ratio_Row2",-0.852294868
+"AmbiDILIDrugs","cladribine","AR","TOX21_AR_LUC_MDAKB2_Agonist_Row252",0.998127753
+"AmbiDILIDrugs","cladribine","cellcycle","APR_HepG2_MitoMass_24h_up_Row631",0.431962775
+"AmbiDILIDrugs","cladribine","cellcycle","APR_HepG2_CellCycleArrest_72h_dn_Row623",-0.87878022
+"AmbiDILIDrugs","cladribine","cytotoxicity","APR_HepG2_CellLoss_24h_dn_Row203",-1.308380617
+"AmbiDILIDrugs","cladribine","ESR1","ACEA_T47D_80hr_Negative_Row198",-2.793861101
+"AmbiDILIDrugs","cladribine","NR1I3","NVS_NR_hCAR_Antagonist_Row1031",0.991189427
+"AmbiDILIDrugs","cladribine","nucsize","APR_HepG2_NuclearSize_24h_up_Row639",-3.333033965
+"AmbiDILIDrugs","cladribine","oxstress","APR_HepG2_OxidativeStress_72h_up_Row202",-0.657736211
+"AmbiDILIDrugs","cladribine","prlfrn","BSK_3C_Proliferation_down_Row100",0.24949163
+"AmbiDILIDrugs","cladribine","prlfrn","BSK_hDFCGF_Proliferation_down_Row25",-1.048275815
+"AmbiDILIDrugs","cladribine","prlfrn","BSK_SAg_Proliferation_down_Row54",-1.334896388
+"AmbiDILIDrugs","cladribine","THRA","TOX21_TR_LUC_GH3_Antagonist_Row97",-1.486342203
+"AmbiDILIDrugs","cladribine","TP53","APR_HepG2_p53Act_72h_up_Row173",-0.982706035
+"LessDILIDrugs","clofibrate","COX2","NVS_ENZ_oCOX2_Row931",0.97851585
+"LessDILIDrugs","clofibrate","cytotoxicity","APR_HepG2_CellLoss_24h_dn_Row203",0.715983342
+"LessDILIDrugs","clofibrate","GABRA1","NVS_LGIC_bGABARa1_Row1020",0.924830693
+"LessDILIDrugs","clofibrate","mmp","APR_HepG2_MitoMembPot_24h_dn_Row201",0.705293223
+"LessDILIDrugs","clofibrate","NR1H4","OT_FXR_FXRSRC1_0480_Row94",0.825840612
+"LessDILIDrugs","clofibrate","PPARA","ATG_PPARa_TRANS_up_Row318",0.889606129
+"LessDILIDrugs","clofibrate","PTGS1","NVS_ENZ_oCOX1_Row568",0.996741325
+"LessDILIDrugs","clofibrate","PTPN12","NVS_ENZ_hPTPN12_Row888",0.999904027
+"LessDILIDrugs","clofibrate","PTPN2","NVS_ENZ_hPTPN2_Row895",0.998685564
+"LessDILIDrugs","clofibrate","PTPRF","NVS_ENZ_hPTPRF_Activator_Row908",0.998128469
+"LessDILIDrugs","clofibrate","zf_activityscore","Tanguay_ZF_120hpf_ActivityScore_Row1057",0.898257058
+"LessDILIDrugs","clofibrate","zf_axis","Tanguay_ZF_120hpf_AXIS_up_Row1056",0.78712478
+"LessDILIDrugs","clofibrate","zf_cfin","Tanguay_ZF_120hpf_CFIN_up_Row1059",0.688527576
+"LessDILIDrugs","clofibrate","zf_nc","Tanguay_ZF_120hpf_NC_up_Row1064",0.972838019
+"LessDILIDrugs","clofibrate","zf_pe","Tanguay_ZF_120hpf_PE_up_Row1066",0.846727369
+"LessDILIDrugs","clofibrate","zf_teratoscore","NHEERL_ZF_144hpf_TERATOSCORE_up_Row13",0.992220664
+"LessDILIDrugs","clofibrate","zf_trun","Tanguay_ZF_120hpf_TRUN_up_Row1072",0.866018562
+"LessDILIDrugs","clotrimazole","androstenedione","CEETOX_H295R_ANDR_dn_Row304",-1.285276253
+"LessDILIDrugs","clotrimazole","cortisol","CEETOX_H295R_CORTISOL_dn_Row307",0.467973805
+"LessDILIDrugs","clotrimazole","cortisol","CEETOX_H295R_11DCORT_dn_Row306",-0.677760874
+"LessDILIDrugs","clotrimazole","CYP3A4","NVS_ADME_hCYP3A4_Row550",0.619542069
+"LessDILIDrugs","clotrimazole","deoxycorticosterone","CEETOX_H295R_DOC_dn_Row301",0.699435483
+"LessDILIDrugs","clotrimazole","estradiol","CEETOX_H295R_ESTRADIOL_dn_Row604",-1.10111354
+"LessDILIDrugs","clotrimazole","estrogen","CEETOX_H295R_ESTRONE_dn_Row606",-3.287829391
+"LessDILIDrugs","clotrimazole","HIF1a","ATG_HIF1a_CIS_dn_Row378",0.992747126
+"LessDILIDrugs","clotrimazole","hydroxyprogesterone","CEETOX_H295R_OHPROG_dn_Row303",-0.072384437
+"LessDILIDrugs","clotrimazole","NR1I2","ATG_PXR_TRANS_up_Row18",-1.28791746
+"LessDILIDrugs","clotrimazole","OPRM1","NVS_GPCR_hOpiate_mu_Row579",-1.078540747
+"LessDILIDrugs","clotrimazole","testosterone","CEETOX_H295R_TESTO_dn_Row305",-1.013398609
+"NoDILI Drugs","codeine","AR","TOX21_AR_LUC_MDAKB2_Agonist_Row252",0.806271017
+"NoDILI Drugs","codeine","NRF2","TOX21_ARE_BLA_agonist_ratio_Row34",0.693343271
+"AmbiDILIDrugs","colchicine","ATAD5","TOX21_ELG1_LUC_Agonist_Row616",-1.506059877
+"AmbiDILIDrugs","colchicine","CD38","BSK_SAg_CD38_down_Row86",-0.037471104
+"AmbiDILIDrugs","colchicine","CD40","BSK_SAg_CD40_down_Row57",0.386503067
+"AmbiDILIDrugs","colchicine","CD40","BSK_LPS_CD40_down_Row64",0.382094785
+"AmbiDILIDrugs","colchicine","CD69","BSK_SAg_CD69_down_Row120",-1.884277485
+"AmbiDILIDrugs","colchicine","cellcycle","APR_HepG2_MitoticArrest_72h_up_Row176",0.754149509
+"AmbiDILIDrugs","colchicine","cellcycle","APR_HepG2_CellCycleArrest_24h_dn_Row186",0.70011865
+"AmbiDILIDrugs","colchicine","cellcycle","APR_HepG2_MitoticArrest_24h_up_Row636",0.636195276
+"AmbiDILIDrugs","colchicine","cellcycle","APR_HepG2_CellCycleArrest_72h_dn_Row623",-0.588102331
+"AmbiDILIDrugs","colchicine","cellmorphology","APR_HepG2_MicrotubuleCSK_72h_dn_Row628",0.754601227
+"AmbiDILIDrugs","colchicine","cellmorphology","APR_HepG2_NuclearSize_72h_up_Row641",0.739542822
+"AmbiDILIDrugs","colchicine","cytotoxicity","APR_HepG2_CellLoss_24h_dn_Row203",0.754601227
+"AmbiDILIDrugs","colchicine","cytotoxicity","BSK_3C_Vis_down_Row62",0.349142331
+"AmbiDILIDrugs","colchicine","ESR1","ACEA_T47D_80hr_Negative_Row198",0.88696589
+"AmbiDILIDrugs","colchicine","HLA-DR","BSK_BE3C_HLADR_down_Row59",0.386503067
+"AmbiDILIDrugs","colchicine","intmrkr","ATG_CMV_CIS_up_Row39",-3.411303252
+"AmbiDILIDrugs","colchicine","JUN","APR_HepG2_StressKinase_72h_up_Row189",0.754601227
+"AmbiDILIDrugs","colchicine","JUN","APR_HepG2_StressKinase_24h_up_Row645",0.740572761
+"AmbiDILIDrugs","colchicine","NR1H4","TOX21_FXR_BLA_antagonist_ratio_Row183",0.633027607
+"AmbiDILIDrugs","colchicine","NR1I2","ATG_PXRE_CIS_dn_Row429",0.944785276
+"AmbiDILIDrugs","colchicine","NRF2","TOX21_ARE_BLA_agonist_ratio_Row34",0.186337301
+"AmbiDILIDrugs","colchicine","oxstress","APR_HepG2_OxidativeStress_24h_up_Row205",0.754601227
+"AmbiDILIDrugs","colchicine","oxstress","APR_HepG2_OxidativeStress_72h_up_Row202",-2.100407669
+"AmbiDILIDrugs","colchicine","PLAUR","BSK_4H_uPAR_down_Row101",0.287976933
+"AmbiDILIDrugs","colchicine","PLAUR","BSK_3C_uPAR_down_Row91",-1.751666442
+"AmbiDILIDrugs","colchicine","prlfrn","BSK_SAg_Proliferation_down_Row54",0.386503067
+"AmbiDILIDrugs","colchicine","prlfrn","BSK_CASM3C_Proliferation_down_Row26",0.367165951
+"AmbiDILIDrugs","colchicine","prlfrn","BSK_3C_Proliferation_down_Row100",0.168614479
+"AmbiDILIDrugs","colchicine","SERPINE1","BSK_BE3C_PAI1_down_Row56",0.351683558
+"AmbiDILIDrugs","colchicine","srb","BSK_4H_SRB_down_Row131",0.386503067
+"AmbiDILIDrugs","colchicine","srb","BSK_3C_SRB_down_Row82",-0.038450798
+"AmbiDILIDrugs","colchicine","TP53","APR_HepG2_p53Act_72h_up_Row173",0.754601227
+"LessDILIDrugs","cyproheptadine","AR","TOX21_AR_LUC_MDAKB2_Antagonist2_Row168",-0.013499696
+"LessDILIDrugs","cyproheptadine","NFKB1","TOX21_NFkB_BLA_agonist_ratio_Row250",0.89715833
+"LessDILIDrugs","cyproheptadine","NFKB1","TOX21_NFkB_BLA_agonist_ch2_Row251",-0.211801437
+"LessDILIDrugs","cyproheptadine","NR3C1","TOX21_GR_BLA_Antagonist_viability_Row231",0.688439288
+"LessDILIDrugs","cyproheptadine","NR3C1","TOX21_GR_BLA_Antagonist_ch2_Row165",0.673345488
+"LessDILIDrugs","cyproheptadine","THRA","TOX21_TR_LUC_GH3_Antagonist_Row97",0.827908234
+"LessDILIDrugs","cyproheptadine","TP53","TOX21_p53_BLA_p5_ch2_Row151",0.904725814
+"LessDILIDrugs","cyproheptadine","TP53","TOX21_p53_BLA_p2_ratio_Row80",0.608232075
+"LessDILIDrugs","cyproheptadine","TP53","TOX21_p53_BLA_p2_ch1_Row98",0.607733569
+"LessDILIDrugs","cyproheptadine","TP53","TOX21_p53_BLA_p2_viability_Row180",0.607710562
+"MostDILI Drugs","danazol","AR","TOX21_AR_LUC_MDAKB2_Agonist_Row252",0.953687875
+"MostDILI Drugs","danazol","AR","TOX21_AR_BLA_Agonist_ratio_Row249",0.843017875
+"MostDILI Drugs","danazol","AR","TOX21_AR_BLA_Agonist_ch2_Row254",0.828573709
+"MostDILI Drugs","danazol","AR","TOX21_AR_BLA_Antagonist_ratio_Row143",-1.147020055
+"MostDILI Drugs","danazol","ESR1","ATG_ERa_TRANS_up_Row27",-2.962308571
+"MostDILI Drugs","danazol","hydroxypregnenelone","CEETOX_H295R_OHPREG_up_Row609",-3.603691401
+"MostDILI Drugs","danazol","SERPINE1","BSK_hDFCGF_PAI1_up_Row537",-0.880524679
+"MostDILI Drugs","danazol","testosterone","CEETOX_H295R_TESTO_dn_Row305",-1.343922784
+"MostDILI Drugs","danazol","TNFRSF10B","ATG_DR5_CIS_up_Row335",-3.8998588
+"LessDILIDrugs","dapsone","deoxycorticosterone","CEETOX_H295R_DOC_dn_Row301",-3.715957593
+"LessDILIDrugs","dapsone","HTR6","NVS_GPCR_h5HT6_Row959",0.675871299
+"LessDILIDrugs","dapsone","hydroxyprogesterone","CEETOX_H295R_OHPROG_up_Row610",-3.328570942
+"LessDILIDrugs","dapsone","OPRL1","NVS_GPCR_rOpiate_NonSelectiveNa_Row1004",-3.760585432
+"LessDILIDrugs","dapsone","oxidoreductase","NCCT_TPO_AUR_dn_Row14",-0.041680089
+"LessDILIDrugs","dapsone","SLC6A3","NVS_TR_DAT_Row594",0.06414107
+"LessDILIDrugs","dapsone","SLC6A3","NVS_TR_DAT_Row593",-2.204828
+"LessDILIDrugs","dapsone","TSPO","NVS_MP_rPBR_Row587",0.409494677
+"LessDILIDrugs","dasatinib","AR","TOX21_ARE_BLA_agonist_ratio_Row34",-2.567569504
+"LessDILIDrugs","dasatinib","CYP19A1","TOX21_Aromatase_Inhibition_Row119",0.208342278
+"LessDILIDrugs","dasatinib","NR1H4","TOX21_FXR_BLA_antagonist_ratio_Row183",-2.039739517
+"NoDILI Drugs","daunorubicin","AR","TOX21_AR_LUC_MDAKB2_Antagonist2_Row168",-0.047803543
+"NoDILI Drugs","daunorubicin","AR","TOX21_AR_LUC_MDAKB2_Antagonist_Row178",-1.091663379
+"NoDILI Drugs","daunorubicin","AR","TOX21_AR_BLA_Agonist_ch2_Row254",-1.769634147
+"NoDILI Drugs","daunorubicin","AR","TOX21_AR_BLA_Agonist_ratio_Row249",-3.354974761
+"NoDILI Drugs","daunorubicin","ESR1","TOX21_ERa_LUC_BG1_Agonist_Row253",-2.499945365
+"NoDILI Drugs","daunorubicin","NR3C1","TOX21_GR_BLA_Agonist_ch2_Row270",-0.924854732
+"NoDILI Drugs","daunorubicin","NR3C1","TOX21_GR_BLA_Agonist_ratio_Row239",-1.512908246
+"NoDILI Drugs","daunorubicin","NRF2","TOX21_ARE_BLA_agonist_ratio_Row34",-1.646713458
+"NoDILI Drugs","daunorubicin","PPARD","TOX21_PPARd_BLA_antagonist_ratio_Row221",-3.417828945
+"NoDILI Drugs","daunorubicin","THRA","TOX21_TR_LUC_GH3_Antagonist_Row97",-0.521021519
+"NoDILI Drugs","daunorubicin","TP53","TOX21_p53_BLA_p4_ratio_Row126",-0.21294115
+"NoDILI Drugs","daunorubicin","TP53","TOX21_p53_BLA_p4_ch1_Row112",-0.368468314
+"NoDILI Drugs","daunorubicin","TP53","TOX21_p53_BLA_p4_ch2_Row163",-0.405185772
+"NoDILI Drugs","daunorubicin","TP53","TOX21_p53_BLA_p1_ch1_Row166",-0.429585455
+"NoDILI Drugs","daunorubicin","TP53","TOX21_p53_BLA_p2_ch1_Row98",-1.097387233
+"NoDILI Drugs","daunorubicin","TP53","TOX21_p53_BLA_p5_ch2_Row151",-1.524552321
+"NoDILI Drugs","daunorubicin","TP53","TOX21_p53_BLA_p5_ratio_Row117",-1.764845099
+"NoDILI Drugs","daunorubicin","TP53","TOX21_p53_BLA_p2_ch2_Row77",-1.807098747
+"NoDILI Drugs","daunorubicin","TP53","TOX21_p53_BLA_p2_ratio_Row80",-2.822679718
+"NoDILI Drugs","daunorubicin","TP53","TOX21_p53_BLA_p1_ch2_Row274",-3.011023643
+"NoDILI Drugs","daunorubicin","TP53","TOX21_p53_BLA_p1_ratio_Row162",-3.404656911
+"AmbiDILIDrugs","dexamethasone","AR","TOX21_AR_LUC_MDAKB2_Agonist_Row252",0.974729398
+"AmbiDILIDrugs","dexamethasone","NR3C1","TOX21_GR_BLA_Agonist_ratio_Row239",0.987379987
+"AmbiDILIDrugs","dexamethasone","NR3C1","TOX21_GR_BLA_Agonist_ch2_Row270",0.983807828
+"MostDILI Drugs","diflunisal","NRF2","TOX21_ARE_BLA_agonist_ratio_Row34",0.943982152
+"MostDILI Drugs","diflunisal","PPARD","TOX21_PPARd_BLA_agonist_ch2_Row208",0.887183996
+"NoDILI Drugs","digoxin","AR","TOX21_AR_BLA_Antagonist_viability_Row157",-3.665800714
+"NoDILI Drugs","digoxin","NRF1","ATG_NRF1_CIS_up_Row418",-1.612164643
+"NoDILI Drugs","digoxin","PPARD","TOX21_PPARd_BLA_agonist_ch2_Row208",-3.033999643
+"NoDILI Drugs","digoxin","PPARG","TOX21_PPARg_BLA_Agonist_ch2_Row1",-3.543989286
+"NoDILI Drugs","digoxin","TP53","TOX21_p53_BLA_p1_ch2_Row274",-2.368662857
+"NoDILI Drugs","digoxin","TP53","TOX21_p53_BLA_p3_ch2_Row92",-3.049636429
+"NoDILI Drugs","digoxin","TP53","TOX21_p53_BLA_p2_ch2_Row77",-3.312241786
+"NoDILI Drugs","digoxin","TP53","TOX21_p53_BLA_p5_ch2_Row151",-3.393733929
+"NoDILI Drugs","digoxin","TP53","TOX21_p53_BLA_p4_ch2_Row163",-3.488278214
+"AmbiDILIDrugs","dipyridamole","AR","TOX21_AR_BLA_Antagonist_ratio_Row143",-3.934247558
+"AmbiDILIDrugs","dipyridamole","esr","TOX21_ESRE_BLA_ratio_Row243",-3.311963888
+"AmbiDILIDrugs","dipyridamole","HSF1","TOX21_HSE_BLA_agonist_ratio_Row172",-0.810568431
+"AmbiDILIDrugs","dipyridamole","HSF1","TOX21_HSE_BLA_agonist_ch2_Row280",-1.592000147
+"AmbiDILIDrugs","dipyridamole","NFKB1","TOX21_NFkB_BLA_agonist_ratio_Row250",-2.407023635
+"AmbiDILIDrugs","dipyridamole","NR1H4","TOX21_FXR_BLA_antagonist_ratio_Row183",-0.368068855
+"AmbiDILIDrugs","dipyridamole","NR1H4","TOX21_FXR_BLA_Antagonist_ch1_Row215",-1.452668521
+"AmbiDILIDrugs","dipyridamole","NR1H4","TOX21_FXR_BLA_agonist_ch2_Row135",-2.280627165
+"AmbiDILIDrugs","dipyridamole","PPARG","TOX21_PPARg_BLA_Antagonist_ch1_Row285",-1.953394927
+"MostDILI Drugs","disulfiram","ADCY5","NVS_ENZ_rACFSKBinding_Row933",-0.378969967
+"MostDILI Drugs","disulfiram","ADRB1","NVS_GPCR_hAdrb1_Row964",0.50066194
+"MostDILI Drugs","disulfiram","androstenedione","CEETOX_H295R_ANDR_dn_Row304",-0.303167026
+"MostDILI Drugs","disulfiram","AR","TOX21_AR_LUC_MDAKB2_Antagonist2_Row168",0.980381077
+"MostDILI Drugs","disulfiram","AR","TOX21_AR_BLA_Antagonist_ratio_Row143",0.979756282
+"MostDILI Drugs","disulfiram","AR","TOX21_AR_BLA_Antagonist_viability_Row157",0.973079269
+"MostDILI Drugs","disulfiram","AR","TOX21_AR_LUC_MDAKB2_Antagonist_Row178",0.969443738
+"MostDILI Drugs","disulfiram","AR","OT_AR_ARSRC1_0480_Row1045",-3.130489294
+"MostDILI Drugs","disulfiram","AVPR1","NVS_GPCR_rV1_Row1007",-2.806995883
+"MostDILI Drugs","disulfiram","CCl2","BSK_3C_MCP1_down_Row106",-3.782852309
+"MostDILI Drugs","disulfiram","CCL2","BSK_KF3CT_MCP1_down_Row52",-0.520646003
+"MostDILI Drugs","disulfiram","CCL2","BSK_LPS_MCP1_down_Row105",-1.455260389
+"MostDILI Drugs","disulfiram","CCL2","BSK_4H_MCP1_down_Row36",-3.216826531
+"MostDILI Drugs","disulfiram","CCL2","BSK_SAg_MCP1_down_Row114",-3.321385698
+"MostDILI Drugs","disulfiram","CD38","BSK_SAg_CD38_down_Row86",-3.644210402
+"MostDILI Drugs","disulfiram","CD40","BSK_LPS_CD40_down_Row64",-1.940400191
+"MostDILI Drugs","disulfiram","CD69","BSK_SAg_CD69_down_Row120",-2.128516526
+"MostDILI Drugs","disulfiram","cellcycle","APR_HepG2_CellCycleArrest_72h_dn_Row623",0.328117246
+"MostDILI Drugs","disulfiram","cellcycle","APR_HepG2_CellCycleArrest_24h_dn_Row186",-0.484770982
+"MostDILI Drugs","disulfiram","cellcycle","APR_HepG2_MitoMass_72h_up_Row632",-1.272002831
+"MostDILI Drugs","disulfiram","cellcycle","APR_HepG2_MitoticArrest_72h_up_Row176",-2.554907589
+"MostDILI Drugs","disulfiram","cellcycle","APR_HepG2_MitoticArrest_24h_up_Row636",-2.841971972
+"MostDILI Drugs","disulfiram","cellcycle","APR_HepG2_MitoMass_24h_dn_Row630",-3.048575159
+"MostDILI Drugs","disulfiram","COL3A1","BSK_hDFCGF_CollagenIII_down_Row58",0.202452376
+"MostDILI Drugs","disulfiram","CSF1","BSK_hDFCGF_MCSF_down_Row42",0.79554152
+"MostDILI Drugs","disulfiram","CSF1","BSK_LPS_MCSF_down_Row141",-1.823840546
+"MostDILI Drugs","disulfiram","CSF1","BSK_CASM3C_MCSF_down_Row502",-3.374476265
+"MostDILI Drugs","disulfiram","CXCL10","BSK_hDFCGF_IP10_down_Row33",0.781089805
+"MostDILI Drugs","disulfiram","CXCL10","BSK_KF3CT_IP10_down_Row38",-0.391694003
+"MostDILI Drugs","disulfiram","CXCL10","BSK_BE3C_IP10_down_Row55",-2.803542381
+"MostDILI Drugs","disulfiram","CXCL26","BSK_4H_Eotaxin3_down_Row76",-1.886624222
+"MostDILI Drugs","disulfiram","CXCL9","BSK_hDFCGF_MIG_down_Row61",0.749354265
+"MostDILI Drugs","disulfiram","CXCL9","BSK_CASM3C_MIG_down_Row503",-2.099263893
+"MostDILI Drugs","disulfiram","CXCL9","BSK_BE3C_MIG_down_Row78",-3.811559704
+"MostDILI Drugs","disulfiram","CYP19A1","TOX21_Aromatase_Inhibition_Row119",0.986957098
+"MostDILI Drugs","disulfiram","CYP19A1","NVS_ADME_hCYP19A1_Row777",-0.209203585
+"MostDILI Drugs","disulfiram","CYP1A2","NVS_ADME_hCYP1A2_Row542",0.798321697
+"MostDILI Drugs","disulfiram","CYP2B6","NVS_ADME_hCYP2B6_Row783",0.936857814
+"MostDILI Drugs","disulfiram","CYP2C19","NVS_ADME_hCYP2C19_Row544",0.774608344
+"MostDILI Drugs","disulfiram","CYP2C9","NVS_ADME_hCYP2C9_Row546",0.524164993
+"MostDILI Drugs","disulfiram","CYSLTR1","NVS_GPCR_gLTD4_Row955",0.780976052
+"MostDILI Drugs","disulfiram","cytotoxicity","BSK_SAg_PBMCCytotoxicity_down_Row116",-2.17167753
+"MostDILI Drugs","disulfiram","cytotoxicity","APR_HepG2_CellLoss_72h_dn_Row200",-2.603515931
+"MostDILI Drugs","disulfiram","DRD1","NVS_GPCR_hDRD1_Row576",0.343020209
+"MostDILI Drugs","disulfiram","EGF","BSK_hDFCGF_EGFR_down_Row29",-0.446828814
+"MostDILI Drugs","disulfiram","ESR1","ACEA_T47D_80hr_Negative_Row198",-3.029760189
+"MostDILI Drugs","disulfiram","F3","BSK_CASM3C_TissueFactor_down_Row293",-2.561043124
+"MostDILI Drugs","disulfiram","F3","BSK_3C_TissueFactor_down_Row150",-3.027061685
+"MostDILI Drugs","disulfiram","F3","BSK_LPS_TissueFactor_down_Row147",-3.267206613
+"MostDILI Drugs","disulfiram","HLA-DR","BSK_BE3C_HLADR_down_Row59",-0.249022954
+"MostDILI Drugs","disulfiram","HLA-DR","BSK_3C_HLADR_down_Row104",-0.72794179
+"MostDILI Drugs","disulfiram","HLA-DR","BSK_CASM3C_HLADR_down_Row497",-1.510361959
+"MostDILI Drugs","disulfiram","HRH3","NVS_GPCR_rH3_Row998",-2.743349998
+"MostDILI Drugs","disulfiram","HSF1","TOX21_HSE_BLA_agonist_ratio_Row172",0.993782328
+"MostDILI Drugs","disulfiram","HSF1","TOX21_HSE_BLA_agonist_ch2_Row280",0.525602925
+"MostDILI Drugs","disulfiram","HTR4","NVS_GPCR_g5HT4_Row951",-3.343793113
+"MostDILI Drugs","disulfiram","HTR6","NVS_GPCR_h5HT6_Row959",-0.735079531
+"MostDILI Drugs","disulfiram","HTR7","NVS_GPCR_h5HT7_Row960",-1.963344791
+"MostDILI Drugs","disulfiram","ICAM1","BSK_KF3CT_ICAM1_down_Row53",-1.144292965
+"MostDILI Drugs","disulfiram","IL1a","BSK_KF3CT_IL1a_down_Row68",-0.797527685
+"MostDILI Drugs","disulfiram","IL1a","BSK_LPS_IL1a_down_Row152",-1.482884357
+"MostDILI Drugs","disulfiram","IL1a","BSK_BE3C_IL1a_down_Row69",-1.547328554
+"MostDILI Drugs","disulfiram","IL8","BSK_hDFCGF_IL8_down_Row103",0.582807545
+"MostDILI Drugs","disulfiram","IL8","BSK_LPS_IL8_down_Row160",-1.603859583
+"MostDILI Drugs","disulfiram","IL8","BSK_CASM3C_IL8_down_Row500",-3.020369243
+"MostDILI Drugs","disulfiram","JUN","ATG_AP_1_CIS_up_Row35",-3.625499815
+"MostDILI Drugs","disulfiram","KDR","BSK_4H_VEGFRII_down_Row484",-3.305523124
+"MostDILI Drugs","disulfiram","MMP1","BSK_hDFCGF_MMP1_down_Row96",0.613237955
+"MostDILI Drugs","disulfiram","MMP1","BSK_BE3C_MMP1_down_Row142",-3.218097711
+"MostDILI Drugs","disulfiram","MMP9","matrix metalloproteinase 9_down_Row46",-0.990825028
+"MostDILI Drugs","disulfiram","NFKB1","ATG_NF_kB_CIS_dn_Row330",-3.67059785
+"MostDILI Drugs","disulfiram","NPY1R","NVS_GPCR_hNPY1_Row978",-3.34567522
+"MostDILI Drugs","disulfiram","NR1H4","TOX21_FXR_BLA_antagonist_ratio_Row183",0.987201574
+"MostDILI Drugs","disulfiram","NR1H4","TOX21_FXR_BLA_Antagonist_ch2_Row228",0.986459876
+"MostDILI Drugs","disulfiram","NR1H4","TOX21_FXR_BLA_Antagonist_ch1_Row215",0.986347819
+"MostDILI Drugs","disulfiram","NR1I2","NVS_NR_hPXR_Row1035",0.796805874
+"MostDILI Drugs","disulfiram","NR1I3","NVS_NR_hCAR_Antagonist_Row1031",0.999732655
+"MostDILI Drugs","disulfiram","NRF1","ATG_NRF1_CIS_dn_Row336",-1.925931494
+"MostDILI Drugs","disulfiram","OPRK1","NVS_GPCR_gOpiateK_Row573",-2.020307944
+"MostDILI Drugs","disulfiram","OPRL1","NVS_GPCR_hORL1_Row981",-2.173774852
+"MostDILI Drugs","disulfiram","oxstress","APR_HepG2_OxidativeStress_24h_up_Row205",-0.914132994
+"MostDILI Drugs","disulfiram","oxstress","APR_HepG2_OxidativeStress_72h_up_Row202",-3.449488157
+"MostDILI Drugs","disulfiram","PLAT","BSK_BE3C_tPA_down_Row40",-0.574140816
+"MostDILI Drugs","disulfiram","PLAU","BSK_KF3CT_uPA_down_Row45",-0.782115932
+"MostDILI Drugs","disulfiram","PLAU","BSK_BE3C_uPA_down_Row60",-1.503029365
+"MostDILI Drugs","disulfiram","PLAUR","BSK_3C_uPAR_down_Row91",-1.606264937
+"MostDILI Drugs","disulfiram","PLAUR","BSK_BE3C_uPAR_down_Row71",-1.77431565
+"MostDILI Drugs","disulfiram","PLAUR","BSK_4H_uPAR_down_Row101",-3.479210861
+"MostDILI Drugs","disulfiram","PPARA","NVS_NR_hPPARa_Row1034",0.999886296
+"MostDILI Drugs","disulfiram","PPARD","TOX21_PPARd_BLA_antagonist_ratio_Row221",0.988008655
+"MostDILI Drugs","disulfiram","PPARD","TOX21_PPARd_BLA_Agonist_viability_Row222",0.984008074
+"MostDILI Drugs","disulfiram","PPARG","TOX21_PPARg_BLA_Agonist_ch2_Row1",0.98150792
+"MostDILI Drugs","disulfiram","prlfrn","BSK_hDFCGF_Proliferation_down_Row25",0.819247753
+"MostDILI Drugs","disulfiram","prlfrn","BSK_SAg_Proliferation_down_Row54",0.095846381
+"MostDILI Drugs","disulfiram","prlfrn","BSK_3C_Proliferation_down_Row100",-0.451561264
+"MostDILI Drugs","disulfiram","prlfrn","BSK_CASM3C_Proliferation_down_Row26",-0.884912128
+"MostDILI Drugs","disulfiram","PTGER2","BSK_LPS_PGE2_down_Row146",-1.680627002
+"MostDILI Drugs","disulfiram","SAA1","BSK_CASM3C_SAA_down_Row506",-1.364905267
+"MostDILI Drugs","disulfiram","SELP","BSK_4H_Pselectin_down_Row49",-2.89354323
+"MostDILI Drugs","disulfiram","SERPINE1","BSK_hDFCGF_PAI1_down_Row32",0.419336785
+"MostDILI Drugs","disulfiram","SIGMAR1","NVS_OR_gSIGMA_NonSelective_Row140",-2.998632059
+"MostDILI Drugs","disulfiram","SLC29A1","NVS_TR_hAdoT_Row1040",-2.60328107
+"MostDILI Drugs","disulfiram","SLC6A2","NVS_TR_hNET_Row595",0.943503593
+"MostDILI Drugs","disulfiram","SLC6A3","NVS_TR_DAT_Row594",-1.492187363
+"MostDILI Drugs","disulfiram","srb","BSK_hDFCGF_SRB_down_Row73",0.281220025
+"MostDILI Drugs","disulfiram","srb","BSK_KF3CT_SRB_down_Row50",-0.45372836
+"MostDILI Drugs","disulfiram","srb","BSK_BE3C_SRB_down_Row102",-1.719560891
+"MostDILI Drugs","disulfiram","srb","BSK_SAg_SRB_down_Row115",-3.407697574
+"MostDILI Drugs","disulfiram","srb","BSK_LPS_SRB_down_Row123",-3.53061245
+"MostDILI Drugs","disulfiram","srb","BSK_4H_SRB_down_Row131",-3.60403962
+"MostDILI Drugs","disulfiram","srb","BSK_3C_SRB_down_Row82",-3.671024319
+"MostDILI Drugs","disulfiram","TACR2","NVS_GPCR_hNK2_Row578",0.747756108
+"MostDILI Drugs","disulfiram","TGFB1","BSK_KF3CT_TGFb1_down_Row87",-0.499937101
+"MostDILI Drugs","disulfiram","TGFB1","BSK_BE3C_TGFb1_down_Row63",-2.200817202
+"MostDILI Drugs","disulfiram","THBD","BSK_CASM3C_Thrombomodulin_up_Row23",0.10518036
+"MostDILI Drugs","disulfiram","THBD","BSK_3C_Thrombomodulin_up_Row296",-1.320655409
+"MostDILI Drugs","disulfiram","THRA","TOX21_TR_LUC_GH3_Antagonist_Row97",0.990310514
+"MostDILI Drugs","disulfiram","TIMP1","BSK_hDFCGF_TIMP1_down_Row51",0.715319607
+"MostDILI Drugs","disulfiram","TIMP2","BSK_KF3CT_TIMP2_down_Row70",-0.711322391
+"MostDILI Drugs","disulfiram","TNF","BSK_LPS_TNFa_down_Row154",-1.206490328
+"MostDILI Drugs","disulfiram","TP53","TOX21_p53_BLA_p1_ch2_Row274",-0.192146002
+"MostDILI Drugs","disulfiram","TP53","APR_HepG2_p53Act_24h_up_Row648",-0.82389617
+"MostDILI Drugs","disulfiram","TP53","APR_HepG2_p53Act_72h_up_Row173",-0.90957263
+"MostDILI Drugs","disulfiram","TP53","TOX21_p53_BLA_p2_ch2_Row77",-2.41730505
+"MostDILI Drugs","disulfiram","TP53","TOX21_p53_BLA_p3_ch2_Row92",-3.959587509
+"MostDILI Drugs","disulfiram","TSPO","NVS_MP_rPBR_Row587",0.948805001
+"MostDILI Drugs","disulfiram","TSPO","NVS_MP_hPBR_Row586",0.347055664
+"MostDILI Drugs","disulfiram","USF1","ATG_E_Box_CIS_dn_Row362",-2.151974465
+"MostDILI Drugs","disulfiram","VCAM1","BSK_hDFCGF_VCAM1_down_Row41",0.808029139
+"MostDILI Drugs","disulfiram","VCAM1","BSK_CASM3C_VCAM1_down_Row511",-2.505286854
+"MostDILI Drugs","disulfiram","VCAM1","BSK_LPS_VCAM1_down_Row72",-3.043101413
+"MostDILI Drugs","disulfiram","VCAM1","BSK_3C_VCAM1_down_Row128",-3.180664293
+"MostDILI Drugs","disulfiram","VCAM1","BSK_4H_VCAM1_down_Row125",-3.725326681
+"MostDILI Drugs","disulfiram","VDR","TOX21_VDR_BLA_Agonist_viability_Row224",0.981196443
+"MostDILI Drugs","disulfiram","zf_activityscore","Tanguay_ZF_120hpf_ActivityScore_Row1057",0.834985872
+"MostDILI Drugs","disulfiram","zf_axis","Tanguay_ZF_120hpf_AXIS_up_Row1056",0.940437984
+"MostDILI Drugs","disulfiram","zf_brai","Tanguay_ZF_120hpf_BRAI_up_Row1058",0.860068071
+"MostDILI Drugs","disulfiram","zf_eye","Tanguay_ZF_120hpf_EYE_up_Row1061",0.85626468
+"MostDILI Drugs","disulfiram","zf_jaw","Tanguay_ZF_120hpf_JAW_up_Row1062",0.811968384
+"MostDILI Drugs","disulfiram","zf_nc","Tanguay_ZF_120hpf_NC_up_Row1064",0.979531338
+"MostDILI Drugs","disulfiram","zf_pe","Tanguay_ZF_120hpf_PE_up_Row1066",0.801345951
+"MostDILI Drugs","disulfiram","zf_snou","Tanguay_ZF_120hpf_SNOU_up_Row1069",0.775033425
+"MostDILI Drugs","disulfiram","zf_somi","Tanguay_ZF_120hpf_SOMI_up_Row1070",0.914111231
+"MostDILI Drugs","disulfiram","zf_swim","Tanguay_ZF_120hpf_SWIM_up_Row1071",0.781903442
+"MostDILI Drugs","disulfiram","zf_teratoscore","NHEERL_ZF_144hpf_TERATOSCORE_up_Row13",0.962871174
+"MostDILI Drugs","disulfiram","zf_tr","Tanguay_ZF_120hpf_TR_up_Row1073",0.654668817
+"MostDILI Drugs","disulfiram","zf_trun","Tanguay_ZF_120hpf_TRUN_up_Row1072",0.820376708
+"MostDILI Drugs","disulfiram","zf_yse","Tanguay_ZF_120hpf_YSE_up_Row1074",0.91557546
+"MostDILI Drugs","disulfiram","ZF4","Tanguay_ZF_120hpf_CIRC_up_Row1060",-0.331988948
+"LessDILIDrugs","docetaxel","AR","TOX21_AR_BLA_Antagonist_ratio_Row143",0.991991382
+"LessDILIDrugs","docetaxel","THRA","TOX21_TR_LUC_GH3_Antagonist_Row97",0.973250394
+"LessDILIDrugs","docetaxel","TP53","TOX21_p53_BLA_p4_ch2_Row163",0.996704788
+"LessDILIDrugs","docetaxel","TP53","TOX21_p53_BLA_p4_ratio_Row126",0.996672029
+"LessDILIDrugs","docetaxel","TP53","TOX21_p53_BLA_p2_ch2_Row77",0.996006245
+"LessDILIDrugs","docetaxel","TP53","TOX21_p53_BLA_p3_ch2_Row92",-1.297011544
+"LessDILIDrugs","docetaxel","TP53","TOX21_p53_BLA_p1_ratio_Row162",-1.360081571
+"LessDILIDrugs","docetaxel","TP53","TOX21_p53_BLA_p1_ch2_Row274",-1.408938314
+"LessDILIDrugs","docetaxel","TP53","TOX21_p53_BLA_p3_ratio_Row118",-1.472710836
+"LessDILIDrugs","docetaxel","TP53","TOX21_p53_BLA_p5_ch2_Row151",-1.653190935
+"LessDILIDrugs","docetaxel","TP53","TOX21_p53_BLA_p5_ratio_Row117",-1.665180778
+"LessDILIDrugs","docetaxel","TP53","TOX21_p53_BLA_p2_ratio_Row80",-1.719389126
+"NoDILI Drugs","dopamine","NRF2","TOX21_ARE_BLA_agonist_ratio_Row34",-1.764445597
+"MostDILI Drugs","efavirenz","AR","TOX21_AR_LUC_MDAKB2_Antagonist2_Row168",0.398414068
+"MostDILI Drugs","efavirenz","AR","TOX21_AR_BLA_Antagonist_ratio_Row143",-0.664699373
+"MostDILI Drugs","efavirenz","AR","TOX21_AR_LUC_MDAKB2_Antagonist_Row178",-2.254050605
+"MostDILI Drugs","efavirenz","CYP19A1","TOX21_Aromatase_Inhibition_Row119",-0.626655562
+"MostDILI Drugs","efavirenz","ESR1","TOX21_ERa_LUC_BG1_Antagonist_Row179",-1.127183701
+"MostDILI Drugs","efavirenz","ESR1","TOX21_ERa_BLA_Antagonist_ratio_Row156",-1.736356969
+"MostDILI Drugs","efavirenz","NR1H4","TOX21_FXR_BLA_antagonist_ratio_Row183",-1.449555843
+"MostDILI Drugs","efavirenz","NRF2","TOX21_ARE_BLA_Agonist_ch2_Row24",-0.284390844
+"MostDILI Drugs","efavirenz","NRF2","TOX21_ARE_BLA_agonist_ratio_Row34",-0.706652184
+"MostDILI Drugs","efavirenz","PPARD","TOX21_PPARd_BLA_Agonist_viability_Row222",-1.601309538
+"MostDILI Drugs","efavirenz","PPARG","TOX21_PPARg_BLA_antagonist_ratio_Row220",-1.507937769
+"MostDILI Drugs","efavirenz","THRA","TOX21_TR_LUC_GH3_Antagonist_Row97",-0.884480638
+"MostDILI Drugs","efavirenz","TP53","TOX21_p53_BLA_p4_viability_Row177",-1.064892715
+"MostDILI Drugs","efavirenz","TP53","TOX21_p53_BLA_p4_ratio_Row126",-2.145342269
+"MostDILI Drugs","efavirenz","TP53","TOX21_p53_BLA_p5_ratio_Row117",-2.146436405
+"MostDILI Drugs","efavirenz","TP53","TOX21_p53_BLA_p4_ch1_Row112",-2.148028432
+"MostDILI Drugs","efavirenz","TP53","TOX21_p53_BLA_p5_ch1_Row169",-2.149182741
+"MostDILI Drugs","efavirenz","TP53","TOX21_p53_BLA_p2_ch1_Row98",-2.149215765
+"AmbiDILIDrugs","emtricitabine","ESR1","TOX21_ERa_LUC_BG1_Agonist_Row253",0.999466601
+"LessDILIDrugs","entacapone","AR","TOX21_AR_LUC_MDAKB2_Antagonist2_Row168",-3.556609835
+"LessDILIDrugs","entacapone","HSF1","TOX21_HSE_BLA_agonist_ratio_Row172",-2.88470313
+"LessDILIDrugs","entacapone","HSF1","TOX21_HSE_BLA_agonist_ch2_Row280",-2.982250734
+"LessDILIDrugs","entacapone","NRF2","TOX21_ARE_BLA_agonist_ratio_Row34",-3.458178252
+"LessDILIDrugs","entacapone","TP53","TOX21_p53_BLA_p5_ratio_Row117",-3.366252014
+"NoDILI Drugs","ergocalciferol","ESR1","NVS_NR_mERa_Row618",0.1214761
+"MostDILI Drugs","erlotinib","AHR","TOX21_AhR_LUC_Agonist_Row256",0.493487271
+"MostDILI Drugs","erlotinib","AR","TOX21_AR_BLA_Antagonist_ratio_Row143",0.462428253
+"MostDILI Drugs","erlotinib","AR","TOX21_AR_LUC_MDAKB2_Agonist_Row252",-0.14714331
+"MostDILI Drugs","erlotinib","CYP19A1","TOX21_Aromatase_Inhibition_Row119",-0.055558896
+"MostDILI Drugs","erlotinib","ESR1","TOX21_ERa_BLA_Antagonist_ratio_Row156",0.708593344
+"MostDILI Drugs","erlotinib","NR3C1","TOX21_GR_BLA_Agonist_ch2_Row270",-0.078724633
+"MostDILI Drugs","erlotinib","NR3C1","TOX21_GR_BLA_Agonist_ratio_Row239",-1.901042962
+"MostDILI Drugs","erlotinib","NRF2","TOX21_ARE_BLA_agonist_ratio_Row34",0.846025217
+"MostDILI Drugs","erythromycin","HIF1a","ATG_HIF1a_CIS_dn_Row378",-2.003061133
+"MostDILI Drugs","erythromycin","SLC29A1","NVS_TR_rAdoT_Row1042",0.414089371
+"MostDILI Drugs","estramustine","AR","TOX21_AR_LUC_MDAKB2_Agonist_Row252",-1.413145869
+"MostDILI Drugs","estramustine","ESR1","TOX21_ERa_LUC_BG1_Agonist_Row253",0.996108444
+"MostDILI Drugs","estramustine","ESR1","TOX21_ERa_BLA_Agonist_ch2_Row269",0.994418381
+"MostDILI Drugs","estramustine","ESR1","TOX21_ERa_BLA_Agonist_ch1_Row242",0.993659159
+"MostDILI Drugs","estramustine","ESR1","TOX21_ERa_BLA_Agonist_ratio_Row246",0.992281955
+"AmbiDILIDrugs","estrone","AR","OT_AR_ARELUC_AG_1440_Row1044",-0.445393394
+"AmbiDILIDrugs","estrone","AR","NVS_NR_hAR_Row620",-2.953072248
+"AmbiDILIDrugs","estrone","EGF","BSK_hDFCGF_EGFR_up_Row531",-0.548296927
+"AmbiDILIDrugs","estrone","ESR1","OT_ERa_EREGFP_0480_Row1053",0.98793578
+"AmbiDILIDrugs","estrone","ESR1","TOX21_ERa_LUC_BG1_Agonist_Row253",0.982614679
+"AmbiDILIDrugs","estrone","ESR1","ATG_ERa_TRANS_up_Row27",0.958715596
+"AmbiDILIDrugs","estrone","ESR1","ATG_ERE_CIS_up_Row9",0.958715596
+"AmbiDILIDrugs","estrone","ESR1","TOX21_ERa_BLA_Agonist_ch2_Row269",0.953967798
+"AmbiDILIDrugs","estrone","ESR1","OT_ERa_EREGFP_0120_Row1052",0.949913761
+"AmbiDILIDrugs","estrone","ESR1","TOX21_ERa_BLA_Agonist_ratio_Row246",0.948103486
+"AmbiDILIDrugs","estrone","ESR1","NVS_NR_hER_Row588",0.929330275
+"AmbiDILIDrugs","estrone","ESR1","TOX21_ERa_BLA_Agonist_ch1_Row242",0.80266656
+"AmbiDILIDrugs","estrone","ESR1","NVS_NR_mERa_Row618",0.593693761
+"AmbiDILIDrugs","estrone","ESR1","ACEA_T47D_80hr_Positive_Row621",0.588289587
+"AmbiDILIDrugs","estrone","ESR1","NVS_NR_bER_Row617",0.002230688
+"AmbiDILIDrugs","estrone","ESR1","OT_ER_ERbERb_1440_Row1051",-1.18010445
+"AmbiDILIDrugs","estrone","ESR1","OT_ER_ERaERb_1440_Row1049",-2.423050596
+"AmbiDILIDrugs","estrone","ESR1","OT_ER_ERaERb_0480_Row1048",-2.868326743
+"AmbiDILIDrugs","estrone","ESR2","OT_ER_ERbERb_0480_Row1050",-1.032439954
+"AmbiDILIDrugs","ethacrynic acid","AR","TOX21_AR_LUC_MDAKB2_Agonist_Row252",0.919788048
+"AmbiDILIDrugs","ethacrynic acid","AR","TOX21_AR_LUC_MDAKB2_Antagonist_Row178",0.337229655
+"AmbiDILIDrugs","ethacrynic acid","AR","TOX21_AR_BLA_Antagonist_ratio_Row143",0.236522485
+"AmbiDILIDrugs","ethacrynic acid","AR","TOX21_AR_LUC_MDAKB2_Antagonist2_Row168",-0.142588245
+"AmbiDILIDrugs","ethacrynic acid","ESR1","TOX21_ERa_BLA_Agonist_ch2_Row269",-1.026994087
+"AmbiDILIDrugs","ethacrynic acid","ESR1","TOX21_ERa_BLA_Antagonist_ch1_Row233",-1.082192919
+"AmbiDILIDrugs","ethacrynic acid","ESR1","TOX21_ERa_BLA_Agonist_ratio_Row246",-1.207268992
+"AmbiDILIDrugs","ethacrynic acid","HSF1","TOX21_HSE_BLA_agonist_ch2_Row280",0.711359307
+"AmbiDILIDrugs","ethacrynic acid","HSF1","TOX21_HSE_BLA_agonist_ratio_Row172",0.707620489
+"AmbiDILIDrugs","ethacrynic acid","mmp","TOX21_MMP_ratio_down_Row67",-1.432720954
+"AmbiDILIDrugs","ethacrynic acid","NR1H4","TOX21_FXR_BLA_Antagonist_ch1_Row215",-0.539001378
+"AmbiDILIDrugs","ethacrynic acid","NR1H4","TOX21_FXR_BLA_antagonist_ratio_Row183",-0.697970419
+"AmbiDILIDrugs","ethacrynic acid","NR3C1","TOX21_GR_BLA_Antagonist_ch2_Row165",-0.057874614
+"AmbiDILIDrugs","ethacrynic acid","NR3C1","TOX21_GR_BLA_Antagonist_ratio_Row155",-0.072650101
+"AmbiDILIDrugs","ethacrynic acid","NRF2","TOX21_ARE_BLA_Agonist_ch2_Row24",0.99527026
+"AmbiDILIDrugs","ethacrynic acid","NRF2","TOX21_ARE_BLA_agonist_ratio_Row34",0.96910284
+"AmbiDILIDrugs","ethacrynic acid","PPARD","TOX21_PPARd_BLA_antagonist_ratio_Row221",0.205316519
+"AmbiDILIDrugs","ethacrynic acid","THRA","TOX21_TR_LUC_GH3_Antagonist_Row97",0.319363408
+"AmbiDILIDrugs","ethacrynic acid","TP53","TOX21_p53_BLA_p5_viability_Row185",0.803150459
+"AmbiDILIDrugs","ethacrynic acid","TP53","TOX21_p53_BLA_p2_ratio_Row80",0.675864631
+"AmbiDILIDrugs","ethacrynic acid","TP53","TOX21_p53_BLA_p4_ch2_Row163",0.650828266
+"AmbiDILIDrugs","ethacrynic acid","TP53","TOX21_p53_BLA_p2_ch2_Row77",0.507598541
+"AmbiDILIDrugs","ethacrynic acid","TP53","TOX21_p53_BLA_p4_ratio_Row126",0.179851186
+"AmbiDILIDrugs","ethacrynic acid","TP53","TOX21_p53_BLA_p5_ratio_Row117",0.127140279
+"AmbiDILIDrugs","ethacrynic acid","TP53","TOX21_p53_BLA_p5_ch2_Row151",0.095837823
+"AmbiDILIDrugs","ethacrynic acid","TP53","TOX21_p53_BLA_p1_ch2_Row274",0.090667735
+"AmbiDILIDrugs","ethacrynic acid","TP53","TOX21_p53_BLA_p3_ch2_Row92",0.017280926
+"AmbiDILIDrugs","ethacrynic acid","TP53","TOX21_p53_BLA_p3_ratio_Row118",-0.077266528
+"AmbiDILIDrugs","ethacrynic acid","TP53","TOX21_p53_BLA_p1_ratio_Row162",-0.092710223
+"AmbiDILIDrugs","ethacrynic acid","TP53","TOX21_p53_BLA_p4_viability_Row177",-0.274276718
+"AmbiDILIDrugs","ethacrynic acid","TP53","TOX21_p53_BLA_p3_ch1_Row121",-0.372052128
+"AmbiDILIDrugs","ethacrynic acid","TP53","TOX21_p53_BLA_p4_ch1_Row112",-0.974836024
+"AmbiDILIDrugs","ethacrynic acid","TP53","TOX21_p53_BLA_p1_viability_Row171",-1.017136365
+"AmbiDILIDrugs","ethacrynic acid","VDR","TOX21_VDR_BLA_antagonist_ratio_Row225",-0.014261565
+"AmbiDILIDrugs","ethacrynic acid","VDR","TOX21_VDR_BLA_Antagonist_ch1_Row234",-0.125570537
+"MostDILI Drugs","etodolac","NRF2","TOX21_ARE_BLA_agonist_ratio_Row34",-0.098842284
+"LessDILIDrugs","etoposide","AR","TOX21_AR_BLA_Antagonist_ratio_Row143",0.928305026
+"LessDILIDrugs","etoposide","ESR1","TOX21_ERa_BLA_Antagonist_ratio_Row156",0.778881867
+"LessDILIDrugs","etoposide","HSF1","TOX21_HSE_BLA_agonist_ratio_Row172",-2.872395262
+"LessDILIDrugs","etoposide","HSF1","TOX21_HSE_BLA_agonist_ch2_Row280",-2.986060296
+"LessDILIDrugs","etoposide","NR1I2","ATG_PXRE_CIS_dn_Row429",-0.832522895
+"LessDILIDrugs","etoposide","NR3C1","TOX21_GR_BLA_Agonist_ch2_Row270",-0.477492456
+"LessDILIDrugs","etoposide","NR3C1","TOX21_GR_BLA_Agonist_ratio_Row239",-0.791018945
+"LessDILIDrugs","etoposide","NRF1","ATG_NRF1_CIS_dn_Row336",-0.869073816
+"LessDILIDrugs","etoposide","NRF2","ATG_NRF2_ARE_CIS_dn_Row419",-2.717301552
+"LessDILIDrugs","etoposide","THRA","TOX21_TR_LUC_GH3_Antagonist_Row97",0.865246415
+"LessDILIDrugs","etoposide","TP53","TOX21_p53_BLA_p4_ch2_Row163",0.969336422
+"LessDILIDrugs","etoposide","TP53","TOX21_p53_BLA_p3_ch2_Row92",0.966154131
+"LessDILIDrugs","etoposide","TP53","TOX21_p53_BLA_p2_ch2_Row77",0.964966848
+"LessDILIDrugs","etoposide","TP53","TOX21_p53_BLA_p1_ratio_Row162",0.956279508
+"LessDILIDrugs","etoposide","TP53","TOX21_p53_BLA_p5_ch2_Row151",0.954899474
+"LessDILIDrugs","etoposide","TP53","TOX21_p53_BLA_p2_ratio_Row80",0.952135629
+"LessDILIDrugs","etoposide","TP53","TOX21_p53_BLA_p1_ch2_Row274",0.946494156
+"LessDILIDrugs","etoposide","TP53","TOX21_p53_BLA_p3_ratio_Row118",0.945471698
+"LessDILIDrugs","etoposide","TP53","TOX21_p53_BLA_p5_ratio_Row117",0.912485608
+"LessDILIDrugs","etoposide","TP53","TOX21_p53_BLA_p4_ratio_Row126",0.893661359
+"LessDILIDrugs","etoposide","VDR","TOX21_VDR_BLA_Agonist_viability_Row224",-1.811722095
+"MostDILI Drugs","exemestane","AR","TOX21_AR_LUC_MDAKB2_Agonist_Row252",0.568032124
+"MostDILI Drugs","exemestane","CYP19A1","TOX21_Aromatase_Inhibition_Row119",0.496987117
+"LessDILIDrugs","famotidine","TP53","TOX21_p53_BLA_p2_viability_Row180",-0.051768287
+"MostDILI Drugs","felbamate","FOXO3","ATG_FoxO_CIS_up_Row368",0.969428582
+"MostDILI Drugs","felbamate","intmrkr","ATG_M_19_CIS_dn_Row399",0.97657037
+"LessDILIDrugs","fenofibrate","CCL2","BSK_4H_MCP1_down_Row36",-1.807163102
+"LessDILIDrugs","fenofibrate","CCL2","BSK_SAg_MCP1_down_Row114",-2.025705183
+"LessDILIDrugs","fenofibrate","CCL2","BSK_3C_MCP1_down_Row106",-2.101431532
+"LessDILIDrugs","fenofibrate","CCL2","BSK_LPS_MCP1_down_Row105",-2.16768761
+"LessDILIDrugs","fenofibrate","CD38","BSK_SAg_CD38_down_Row86",-2.058714745
+"LessDILIDrugs","fenofibrate","CD40","BSK_LPS_CD40_down_Row64",-2.283581788
+"LessDILIDrugs","fenofibrate","CD40","BSK_SAg_CD40_down_Row57",-2.771917362
+"LessDILIDrugs","fenofibrate","CD69","BSK_SAg_CD69_down_Row120",-2.133524668
+"LessDILIDrugs","fenofibrate","COL3A1","BSK_hDFCGF_CollagenIII_down_Row58",-1.829333602
+"LessDILIDrugs","fenofibrate","CXCL10","BSK_hDFCGF_IP10_down_Row33",-2.386123969
+"LessDILIDrugs","fenofibrate","CYP2C19","NVS_ADME_hCYP2C19_Row544",-0.406050291
+"LessDILIDrugs","fenofibrate","CYP2C9","NVS_ADME_hCYP2C9_Row546",-0.619850842
+"LessDILIDrugs","fenofibrate","ESR1","ATG_ERa_TRANS_up_Row27",-3.44383109
+"LessDILIDrugs","fenofibrate","F3","BSK_3C_TissueFactor_down_Row150",-1.739363746
+"LessDILIDrugs","fenofibrate","HLA-DR","BSK_BE3C_HLADR_down_Row59",-1.343536237
+"LessDILIDrugs","fenofibrate","HLA-DR","BSK_3C_HLADR_down_Row104",-1.649747135
+"LessDILIDrugs","fenofibrate","IL8","BSK_3C_IL8_down_Row66",-1.631316462
+"LessDILIDrugs","fenofibrate","IL8","BSK_SAg_IL8_down_Row153",-2.212405566
+"LessDILIDrugs","fenofibrate","JUN","APR_HepG2_StressKinase_72h_dn_Row646",0.997548771
+"LessDILIDrugs","fenofibrate","LDLR","BSK_CASM3C_LDLR_up_Row302",-2.091435077
+"LessDILIDrugs","fenofibrate","MMP1","BSK_BE3C_MMP1_up_Row490",-1.410725438
+"LessDILIDrugs","fenofibrate","NR1H4","NVS_NR_hFXR_Antagonist_Row1033",0.993355888
+"LessDILIDrugs","fenofibrate","NR1H4","OT_FXR_FXRSRC1_0480_Row94",-1.621035567
+"LessDILIDrugs","fenofibrate","NR1I2","ATG_PXR_TRANS_up_Row18",-1.454273835
+"LessDILIDrugs","fenofibrate","NR1I2","ATG_PXRE_CIS_up_Row16",-2.303747784
+"LessDILIDrugs","fenofibrate","PLAUR","BSK_CASM3C_uPAR_up_Row512",-0.116981703
+"LessDILIDrugs","fenofibrate","PLAUR","BSK_3C_uPAR_down_Row91",-2.118472862
+"LessDILIDrugs","fenofibrate","POU2F1","ATG_POU domain protein_MLP_CIS_up_Row422",-3.356086361
+"LessDILIDrugs","fenofibrate","ppar","ATG_PPRE_CIS_up_Row5",-2.786812405
+"LessDILIDrugs","fenofibrate","PPARA","ATG_PPARa_TRANS_up_Row318",-0.302290854
+"LessDILIDrugs","fenofibrate","PPARG","ATG_PPARg_TRANS_up_Row7",-3.903508792
+"LessDILIDrugs","fenofibrate","prlfrn","BSK_3C_Proliferation_down_Row100",-1.777883828
+"LessDILIDrugs","fenofibrate","prlfrn","BSK_hDFCGF_Proliferation_down_Row25",-1.840817983
+"LessDILIDrugs","fenofibrate","prlfrn","BSK_SAg_Proliferation_down_Row54",-2.380877792
+"LessDILIDrugs","fenofibrate","SERPINE1","BSK_hDFCGF_PAI1_down_Row32",-3.765847577
+"LessDILIDrugs","fenofibrate","SIRT3","NVS_ENZ_hSIRT3_Row919",-1.477736581
+"LessDILIDrugs","fenofibrate","SLC6A3","NVS_TR_DAT_Row594",-1.871970743
+"LessDILIDrugs","fenofibrate","srb","BSK_3C_SRB_down_Row82",-1.795023171
+"LessDILIDrugs","fenofibrate","srb","BSK_SAg_SRB_down_Row115",-2.003414904
+"LessDILIDrugs","fenofibrate","srb","BSK_4H_SRB_down_Row131",-2.105115613
+"LessDILIDrugs","fenofibrate","THBD","BSK_CASM3C_Thrombomodulin_up_Row23",-2.264149537
+"LessDILIDrugs","fenofibrate","TP53","TOX21_p53_BLA_p3_viability_Row184",0.999993295
+"LessDILIDrugs","fenofibrate","TP53","APR_HepG2_p53Act_72h_dn_Row649",0.999024744
+"LessDILIDrugs","fenofibrate","VCAM1","BSK_4H_VCAM1_down_Row125",-1.442866591
+"LessDILIDrugs","fenofibrate","VCAM1","BSK_CASM3C_VCAM1_up_Row309",-3.099297542
+"LessDILIDrugs","fenofibrate","xtt","ATG_XTT_Cytotoxicity_up_Row1093",0.903671237
+"LessDILIDrugs","fenofibrate","zf_teratoscore","NHEERL_ZF_144hpf_TERATOSCORE_up_Row13",0.626109403
+"LessDILIDrugs","finasteride","hydroxyprogesterone","CEETOX_H295R_OHPROG_dn_Row303",-3.510486206
+"MostDILI Drugs","fluconazole","CYP2C19","NVS_ADME_hCYP2C19_Row544",0.840059171
+"MostDILI Drugs","fluconazole","HNF4a","ATG_HNF4a_TRANS_dn_Row380",-2.596088651
+"MostDILI Drugs","fluconazole","THRA","ATG_THRa1_TRANS_up_Row461",0.99961198
+"NoDILI Drugs","fludrocortisone","AR","TOX21_AR_BLA_Agonist_ratio_Row249",0.799883028
+"NoDILI Drugs","fludrocortisone","AR","TOX21_AR_BLA_Agonist_ch2_Row254",0.730910466
+"NoDILI Drugs","fludrocortisone","AR","TOX21_AR_LUC_MDAKB2_Agonist_Row252",0.288691413
+"NoDILI Drugs","fludrocortisone","NR3C1","TOX21_GR_BLA_Agonist_ch2_Row270",0.472937516
+"NoDILI Drugs","fludrocortisone","NR3C1","TOX21_GR_BLA_Agonist_ratio_Row239",0.352253292
+"AmbiDILIDrugs","flurbiprofen","ESR1","TOX21_ERa_LUC_BG1_Agonist_Row253",0.858138713
+"AmbiDILIDrugs","flurbiprofen","PPARD","TOX21_PPARd_BLA_Antagonist_ch1_Row281",0.99838779
+"MostDILI Drugs","flutamide","AR","NVS_NR_hAR_Row620",-0.133361481
+"MostDILI Drugs","flutamide","TSPO","NVS_MP_hPBR_Row586",-3.166189652
+"LessDILIDrugs","fluvastatin","CYP19A1","TOX21_Aromatase_Inhibition_Row119",-0.636041955
+"LessDILIDrugs","fluvastatin","NFKB1","ATG_NF_kB_CIS_dn_Row330",-1.141990509
+"LessDILIDrugs","fluvastatin","SREBF1","ATG_SREBP_CIS_up_Row17",0.694944665
+"NoDILI Drugs","folic acid","intmrkr","ATG_M_19_TRANS_up_Row402",-0.02141652
+"NoDILI Drugs","folic acid","xtt","ATG_XTT_Cytotoxicity_up_Row1093",-1.142086653
+"MostDILI Drugs","gefitinib","NRF2","TOX21_ARE_BLA_agonist_ratio_Row34",-2.05156195
+"MostDILI Drugs","gemfibrozil","CYP19A1","NVS_ADME_hCYP19A1_Row777",0.962892761
+"MostDILI Drugs","gemfibrozil","ESR1","ATG_ERa_TRANS_up_Row27",0.947412898
+"MostDILI Drugs","gemfibrozil","ESR1","ATG_ERE_CIS_up_Row9",0.759070305
+"MostDILI Drugs","gemfibrozil","HIF1a","ATG_HIF1a_CIS_dn_Row378",0.842531885
+"MostDILI Drugs","gemfibrozil","NR1I2","ATG_PXR_TRANS_up_Row18",0.949366489
+"MostDILI Drugs","gemfibrozil","NR1I2","ATG_PXRE_CIS_up_Row16",0.943812599
+"MostDILI Drugs","gemfibrozil","ppar","ATG_PPRE_CIS_up_Row5",0.910319442
+"MostDILI Drugs","gemfibrozil","PPARA","ATG_PPARa_TRANS_up_Row318",0.899692625
+"MostDILI Drugs","gemfibrozil","PPARG","ATG_PPARg_TRANS_up_Row7",0.82212511
+"LessDILIDrugs","glimepiride","PPARG","TOX21_PPARg_BLA_antagonist_ratio_Row220",-2.367036394
+"MostDILI Drugs","griseofulvin","AR","TOX21_AR_BLA_Antagonist_ratio_Row143",-1.7061169
+"MostDILI Drugs","griseofulvin","CCL2","BSK_KF3CT_MCP1_down_Row52",0.963089711
+"MostDILI Drugs","griseofulvin","CCL2","BSK_CASM3C_MCP1_down_Row295",-0.40104469
+"MostDILI Drugs","griseofulvin","CSF1","BSK_hDFCGF_MCSF_up_Row534",0.73821752
+"MostDILI Drugs","griseofulvin","CYP19A1","TOX21_Aromatase_Inhibition_Row119",-0.286103987
+"MostDILI Drugs","griseofulvin","EGF","BSK_hDFCGF_EGFR_down_Row29",-0.795227791
+"MostDILI Drugs","griseofulvin","ESR1","TOX21_ERa_BLA_Antagonist_ratio_Row156",-0.39409391
+"MostDILI Drugs","griseofulvin","F3","BSK_CASM3C_TissueFactor_down_Row293",0.508768746
+"MostDILI Drugs","griseofulvin","F3","BSK_3C_TissueFactor_down_Row150",-1.575891822
+"MostDILI Drugs","griseofulvin","HLA-DR","BSK_3C_HLADR_down_Row104",-1.693594731
+"MostDILI Drugs","griseofulvin","hmgbox","ATG_TCF_b_cat_CIS_dn_Row85",-3.101236957
+"MostDILI Drugs","griseofulvin","IL1a","BSK_KF3CT_IL1a_down_Row68",0.550762286
+"MostDILI Drugs","griseofulvin","IL6","BSK_CASM3C_IL6_down_Row499",0.903305208
+"MostDILI Drugs","griseofulvin","MMP9","matrix metalloproteinase 9_down_Row46",0.325629245
+"MostDILI Drugs","griseofulvin","NR1I2","ATG_PXRE_CIS_up_Row16",0.112390709
+"MostDILI Drugs","griseofulvin","prlfrn","BSK_CASM3C_Proliferation_down_Row26",-1.53057967
+"MostDILI Drugs","griseofulvin","prlfrn","BSK_3C_Proliferation_down_Row100",-1.819735698
+"MostDILI Drugs","griseofulvin","SERPINE1","BSK_hDFCGF_PAI1_down_Row32",0.626480206
+"MostDILI Drugs","griseofulvin","srb","BSK_CASM3C_SRB_down_Row308",0.421950954
+"MostDILI Drugs","griseofulvin","srb","BSK_3C_SRB_down_Row82",-3.742831008
+"MostDILI Drugs","griseofulvin","THBD","BSK_CASM3C_Thrombomodulin_down_Row509",0.994314833
+"MostDILI Drugs","griseofulvin","THRA","TOX21_TR_LUC_GH3_Antagonist_Row97",-2.836789018
+"MostDILI Drugs","griseofulvin","TIMP1","BSK_hDFCGF_TIMP1_down_Row51",-2.43382909
+"MostDILI Drugs","griseofulvin","TP53","ATG_p53_CIS_dn_Row467",-1.632878603
+"MostDILI Drugs","griseofulvin","TP53","TOX21_p53_BLA_p2_ratio_Row80",-3.163385078
+"MostDILI Drugs","griseofulvin","TP53","TOX21_p53_BLA_p2_ch2_Row77",-3.613406074
+"LessDILIDrugs","haloperidol","ADRA1A","NVS_GPCR_rAdra1_NonSelective_Row992",0.574687679
+"LessDILIDrugs","haloperidol","ADRA1B","NVS_GPCR_rAdra1B_Row991",-0.136423208
+"LessDILIDrugs","haloperidol","DRD1","NVS_GPCR_bDR_NonSelective_Row948",0.80145783
+"LessDILIDrugs","haloperidol","DRD1","NVS_GPCR_hDRD1_Row576",0.731062811
+"LessDILIDrugs","haloperidol","DRD2","NVS_GPCR_hDRD2s_Row968",0.992943396
+"LessDILIDrugs","haloperidol","DRD4","NVS_GPCR_hDRD4.4_Row969",0.943305849
+"LessDILIDrugs","haloperidol","SIGMAR1","NVS_OR_gSIGMA_NonSelective_Row140",0.962620623
+"LessDILIDrugs","hydrochlorothiazide","ESR1","ATG_ERE_CIS_up_Row9",-0.991638112
+"LessDILIDrugs","hydrochlorothiazide","NR1H4","ATG_IR1_CIS_up_Row387",-0.52861453
+"LessDILIDrugs","hydrochlorothiazide","NR1I2","ATG_PXRE_CIS_up_Row16",-1.668997853
+"LessDILIDrugs","hydrochlorothiazide","ppar","ATG_PPRE_CIS_up_Row5",-1.018411576
+"LessDILIDrugs","hydrochlorothiazide","TNFRSF10B","ATG_DR5_CIS_up_Row335",-1.939730498
+"LessDILIDrugs","hydrochlorothiazide","VDR","ATG_VDRE_CIS_up_Row37",-1.39723015
+"NoDILI Drugs","hydrocortisone","AR","TOX21_AR_BLA_Agonist_ratio_Row249",0.987879944
+"NoDILI Drugs","hydrocortisone","AR","TOX21_AR_BLA_Agonist_ch2_Row254",0.984881077
+"NoDILI Drugs","hydrocortisone","AR","TOX21_AR_LUC_MDAKB2_Agonist_Row252",0.880078556
+"NoDILI Drugs","hydrocortisone","NR3C1","TOX21_GR_BLA_Agonist_ratio_Row239",0.954796818
+"NoDILI Drugs","hydrocortisone","NR3C1","TOX21_GR_BLA_Agonist_ch2_Row270",0.95473816
+"NoDILI Drugs","hydrocortisone","TP53","TOX21_p53_BLA_p2_viability_Row180",0.999988116
+"NoDILI Drugs","hydrocortisone","TP53","TOX21_p53_BLA_p4_viability_Row177",0.99997041
+"MostDILI Drugs","hydroxyurea","AHR","ATG_Ahr_CIS_dn_Row313",0.790854243
+"MostDILI Drugs","hydroxyurea","AKT1","NVS_ENZ_hAKT1_Row791",0.937860981
+"MostDILI Drugs","hydroxyurea","oxidoreductase","NCCT_TPO_AUR_dn_Row14",0.937181236
+"NoDILI Drugs","hydroxyzine","AR","TOX21_AR_BLA_Antagonist_ratio_Row143",0.999893467
+"NoDILI Drugs","hydroxyzine","AR","TOX21_AR_LUC_MDAKB2_Antagonist_Row178",0.999554566
+"NoDILI Drugs","hydroxyzine","CYP19A1","TOX21_Aromatase_Inhibition_Row119",0.999967929
+"NoDILI Drugs","hydroxyzine","TP53","TOX21_p53_BLA_p2_ch2_Row77",0.999977728
+"NoDILI Drugs","hydroxyzine","TP53","TOX21_p53_BLA_p2_ratio_Row80",0.999969933
+"NoDILI Drugs","hydroxyzine","TP53","TOX21_p53_BLA_p3_ratio_Row118",0.999901633
+"NoDILI Drugs","hydroxyzine","TP53","TOX21_p53_BLA_p3_ch2_Row92",0.99989124
+"NoDILI Drugs","hydroxyzine","TP53","TOX21_p53_BLA_p5_ratio_Row117",0.999819228
+"NoDILI Drugs","hydroxyzine","TP53","TOX21_p53_BLA_p5_ch2_Row151",0.999803638
+"NoDILI Drugs","hydroxyzine","TP53","TOX21_p53_BLA_p4_ch2_Row163",0.998697105
+"NoDILI Drugs","hydroxyzine","TP53","TOX21_p53_BLA_p4_ratio_Row126",0.998337045
+"MostDILI Drugs","ibufenac","PPARG","TOX21_PPARg_BLA_Agonist_ratio_Row2",0.381204086
+"LessDILIDrugs","ibuprofen","COL3A1","BSK_hDFCGF_CollagenIII_down_Row58",0.98596319
+"LessDILIDrugs","ibuprofen","CSF1","BSK_CASM3C_MCSF_up_Row325",0.969443122
+"LessDILIDrugs","ibuprofen","ESR1","ATG_ERE_CIS_up_Row9",0.961736867
+"LessDILIDrugs","ibuprofen","ESR1","ATG_ERa_TRANS_up_Row27",0.858816889
+"LessDILIDrugs","ibuprofen","IL6","BSK_CASM3C_IL6_down_Row499",0.984090565
+"LessDILIDrugs","ibuprofen","IL8","BSK_3C_IL8_down_Row66",0.999991921
+"LessDILIDrugs","ibuprofen","LDLR","BSK_CASM3C_LDLR_down_Row501",0.969453929
+"LessDILIDrugs","ibuprofen","MMP1","BSK_BE3C_MMP1_down_Row142",0.999986427
+"LessDILIDrugs","ibuprofen","PLAUR","BSK_CASM3C_uPAR_down_Row294",0.857926121
+"LessDILIDrugs","ibuprofen","ppar","ATG_PPRE_CIS_up_Row5",0.840823423
+"LessDILIDrugs","ibuprofen","PPARA","ATG_PPARa_TRANS_up_Row318",0.868631966
+"LessDILIDrugs","ibuprofen","PPARD","TOX21_PPARd_BLA_agonist_ch2_Row208",0.895501658
+"LessDILIDrugs","ibuprofen","PPARD","ATG_PPARd_TRANS_up_Row426",0.501942938
+"LessDILIDrugs","ibuprofen","PPARG","ATG_PPARg_TRANS_up_Row7",0.841156637
+"LessDILIDrugs","ibuprofen","prlfrn","BSK_CASM3C_Proliferation_up_Row505",0.998994459
+"LessDILIDrugs","ibuprofen","PTGER2","BSK_LPS_PGE2_down_Row146",0.99518957
+"LessDILIDrugs","ibuprofen","THBD","BSK_CASM3C_Thrombomodulin_up_Row23",0.92930517
+"LessDILIDrugs","ifosfamide","ESR1","ATG_ERE_CIS_up_Row9",0.496966977
+"LessDILIDrugs","ifosfamide","IL6","BSK_CASM3C_IL6_down_Row499",0.99467396
+"LessDILIDrugs","ifosfamide","NR1I2","ATG_PXRE_CIS_up_Row16",0.709909037
+"LessDILIDrugs","ifosfamide","PLAU","BSK_BE3C_uPA_down_Row60",0.999989219
+"MostDILI Drugs","indomethacin","COL3A1","BSK_hDFCGF_CollagenIII_down_Row58",-1.373425423
+"MostDILI Drugs","indomethacin","CYP3A4","NVS_ADME_hCYP3A4_Row550",-0.698554034
+"MostDILI Drugs","indomethacin","IL6","BSK_CASM3C_IL6_down_Row499",0.876239267
+"MostDILI Drugs","indomethacin","mmp","TOX21_MMP_ratio_up_Row614",-0.058634943
+"MostDILI Drugs","indomethacin","MMP1","BSK_BE3C_MMP1_up_Row490",-0.140609962
+"MostDILI Drugs","indomethacin","ppar","ATG_PPRE_CIS_up_Row5",-0.738125912
+"MostDILI Drugs","indomethacin","PPARD","TOX21_PPARd_BLA_agonist_ch2_Row208",-2.315319879
+"MostDILI Drugs","indomethacin","PPARG","TOX21_PPARg_BLA_Agonist_ch2_Row1",0.584575758
+"MostDILI Drugs","indomethacin","PPARG","TOX21_PPARg_BLA_Agonist_ratio_Row2",0.534510218
+"MostDILI Drugs","indomethacin","PPARG","ATG_PPARg_TRANS_up_Row7",-0.154260412
+"MostDILI Drugs","indomethacin","prlfrn","BSK_hDFCGF_Proliferation_down_Row25",-0.671266595
+"MostDILI Drugs","indomethacin","PTGER2","BSK_LPS_PGE2_down_Row146",0.995744958
+"MostDILI Drugs","indomethacin","PTGS1","NVS_ENZ_oCOX1_Row568",0.987870335
+"MostDILI Drugs","indomethacin","SLC6A3","NVS_TR_DAT_Row594",-0.818610997
+"MostDILI Drugs","indomethacin","SREBF1","ATG_SREBP_CIS_up_Row17",-2.153167772
+"MostDILI Drugs","indomethacin","TNFRSF10B","ATG_DR5_CIS_dn_Row352",-2.391664003
+"LessDILIDrugs","irbesartan","PPARG","TOX21_PPARg_BLA_Agonist_ch2_Row1",-0.07599047
+"LessDILIDrugs","irbesartan","PPARG","TOX21_PPARg_BLA_Agonist_ratio_Row2",-1.232497193
+"MostDILI Drugs","isoniazid","CYP2C19","NVS_ADME_hCYP2C19_Row544",0.979422995
+"MostDILI Drugs","isoniazid","CYP3A4","NVS_ADME_hCYP3A4_Row550",0.978162991
+"MostDILI Drugs","isoniazid","cytotoxicity","BSK_SAg_PBMCCytotoxicity_up_Row527",0.920772847
+"MostDILI Drugs","isoniazid","ESR1","ATG_ERE_CIS_up_Row9",0.579629148
+"MostDILI Drugs","isoniazid","ESR1","ACEA_T47D_80hr_Positive_Row621",0.553997205
+"MostDILI Drugs","isoniazid","oxidoreductase","NCCT_TPO_AUR_dn_Row14",0.979487652
+"MostDILI Drugs","isoniazid","oxidoreductase","NCCT_TPO_GUA_dn_Row1315",0.771742836
+"MostDILI Drugs","isoniazid","RARB","ATG_RARb_TRANS_up_Row436",0.999980346
+"MostDILI Drugs","isoniazid","TACR2","NVS_GPCR_hNK2_Row578",0.972507455
+"MostDILI Drugs","itraconazole","NRF2","TOX21_ARE_BLA_agonist_ratio_Row34",-3.254118015
+"MostDILI Drugs","ketoconazole","AHR","ATG_Ahr_CIS_up_Row342",0.908589815
+"MostDILI Drugs","ketoconazole","AHR","TOX21_AhR_LUC_Agonist_Row256",0.272846546
+"MostDILI Drugs","ketoconazole","androstenedione","CEETOX_H295R_ANDR_dn_Row304",0.854002312
+"MostDILI Drugs","ketoconazole","AR","ATG_AR_TRANS_dn_Row340",0.999786842
+"MostDILI Drugs","ketoconazole","AR","TOX21_AR_BLA_Antagonist_ch2_Row227",-0.600654746
+"MostDILI Drugs","ketoconazole","AR","TOX21_AR_BLA_Antagonist_ratio_Row143",-0.894692234
+"MostDILI Drugs","ketoconazole","AR","TOX21_AR_BLA_Agonist_ratio_Row249",-1.796496536
+"MostDILI Drugs","ketoconazole","AR","TOX21_AR_BLA_Antagonist_viability_Row157",-2.097690833
+"MostDILI Drugs","ketoconazole","AR","TOX21_AR_LUC_MDAKB2_Antagonist2_Row168",-2.234079127
+"MostDILI Drugs","ketoconazole","AR","TOX21_AR_LUC_MDAKB2_Antagonist_Row178",-3.913738794
+"MostDILI Drugs","ketoconazole","BMPR2","ATG_BRE_CIS_up_Row344",-3.082935414
+"MostDILI Drugs","ketoconazole","CCL2","BSK_KF3CT_MCP1_down_Row52",-2.120832999
+"MostDILI Drugs","ketoconazole","CCL2","BSK_SAg_MCP1_down_Row114",-2.310835493
+"MostDILI Drugs","ketoconazole","CCL2","BSK_3C_MCP1_down_Row106",-2.60992232
+"MostDILI Drugs","ketoconazole","CCL2","BSK_4H_MCP1_down_Row36",-2.710303091
+"MostDILI Drugs","ketoconazole","CCL2","BSK_LPS_MCP1_down_Row105",-2.956830751
+"MostDILI Drugs","ketoconazole","CCL26","BSK_4H_Eotaxin3_down_Row76",-1.475247281
+"MostDILI Drugs","ketoconazole","CD38","BSK_SAg_CD38_down_Row86",-1.066739984
+"MostDILI Drugs","ketoconazole","CD40","BSK_LPS_CD40_down_Row64",-1.480836369
+"MostDILI Drugs","ketoconazole","CD40","BSK_SAg_CD40_down_Row57",-2.231550107
+"MostDILI Drugs","ketoconazole","CD69","BSK_SAg_CD69_down_Row120",-2.112088719
+"MostDILI Drugs","ketoconazole","COL3A1","BSK_hDFCGF_CollagenIII_down_Row58",-0.518923191
+"MostDILI Drugs","ketoconazole","cortisol","CEETOX_H295R_11DCORT_dn_Row306",0.87684134
+"MostDILI Drugs","ketoconazole","cortisol","CEETOX_H295R_CORTISOL_dn_Row307",0.857206192
+"MostDILI Drugs","ketoconazole","CREB3","ATG_CRE_CIS_up_Row348",-1.893280877
+"MostDILI Drugs","ketoconazole","CSF1","BSK_LPS_MCSF_down_Row141",-2.29534858
+"MostDILI Drugs","ketoconazole","CSF1","BSK_hDFCGF_MCSF_down_Row42",-2.727805769
+"MostDILI Drugs","ketoconazole","CXCL10","BSK_BE3C_IP10_down_Row55",-0.994829224
+"MostDILI Drugs","ketoconazole","CXCL10","BSK_KF3CT_IP10_down_Row38",-2.748445747
+"MostDILI Drugs","ketoconazole","CXCL10","BSK_hDFCGF_IP10_down_Row33",-3.515490406
+"MostDILI Drugs","ketoconazole","CXCL9","BSK_3C_MIG_down_Row90",-1.704263311
+"MostDILI Drugs","ketoconazole","CXCL9","BSK_hDFCGF_MIG_down_Row61",-3.735917731
+"MostDILI Drugs","ketoconazole","CYP19A1","TOX21_Aromatase_Inhibition_Row119",-3.115410677
+"MostDILI Drugs","ketoconazole","cytotoxicity","APR_HepG2_CellLoss_72h_dn_Row200",-1.669313613
+"MostDILI Drugs","ketoconazole","cytotoxicity","APR_HepG2_CellLoss_24h_dn_Row203",-2.302187401
+"MostDILI Drugs","ketoconazole","cytotoxicity","BSK_3C_Vis_down_Row62",-3.65757793
+"MostDILI Drugs","ketoconazole","deoxycorticosterone","CEETOX_H295R_DOC_up_Row603",0.891687367
+"MostDILI Drugs","ketoconazole","EGF","BSK_hDFCGF_EGFR_down_Row29",-1.045208991
+"MostDILI Drugs","ketoconazole","EGR1","ATG_EGR_CIS_up_Row355",-0.4523955
+"MostDILI Drugs","ketoconazole","ESR1","ACEA_T47D_80hr_Positive_Row621",0.999988771
+"MostDILI Drugs","ketoconazole","ESR1","NVS_NR_mERa_Row618",-2.186476624
+"MostDILI Drugs","ketoconazole","ESR1","TOX21_ERa_BLA_Agonist_ch1_Row242",-3.270449834
+"MostDILI Drugs","ketoconazole","ESR1","TOX21_ERa_BLA_Antagonist_ratio_Row156",-3.627785306
+"MostDILI Drugs","ketoconazole","ESR1","TOX21_ERa_BLA_Antagonist_ch2_Row230",-3.78829135
+"MostDILI Drugs","ketoconazole","ESR1","TOX21_ERa_BLA_Agonist_ratio_Row246",-3.973361273
+"MostDILI Drugs","ketoconazole","estrogen","CEETOX_H295R_ESTRONE_dn_Row606",0.873558126
+"MostDILI Drugs","ketoconazole","HIF1a","ATG_HIF1a_CIS_up_Row379",0.22928244
+"MostDILI Drugs","ketoconazole","HLA-DR","BSK_3C_HLADR_down_Row104",-1.085011306
+"MostDILI Drugs","ketoconazole","HLA-DR","BSK_CASM3C_HLADR_down_Row497",-1.311659379
+"MostDILI Drugs","ketoconazole","HLA-DR","BSK_BE3C_HLADR_down_Row59",-3.047748496
+"MostDILI Drugs","ketoconazole","hmgbox","ATG_TCF_b_cat_CIS_dn_Row85",0.310804402
+"MostDILI Drugs","ketoconazole","HSF1","TOX21_HSE_BLA_agonist_ratio_Row172",-3.244493989
+"MostDILI Drugs","ketoconazole","HSF1","TOX21_HSE_BLA_agonist_ch2_Row280",-3.772893254
+"MostDILI Drugs","ketoconazole","hydroxyprogesterone","CEETOX_H295R_OHPROG_dn_Row303",0.907589859
+"MostDILI Drugs","ketoconazole","IFNG","ATG_ISRE_CIS_dn_Row388",-1.47528561
+"MostDILI Drugs","ketoconazole","IL8","BSK_LPS_IL8_down_Row160",-1.081621947
+"MostDILI Drugs","ketoconazole","IL8","BSK_SAg_IL8_down_Row153",-1.650064796
+"MostDILI Drugs","ketoconazole","IL8","BSK_3C_IL8_down_Row66",-2.657597727
+"MostDILI Drugs","ketoconazole","IL8","BSK_hDFCGF_IL8_down_Row103",-3.152071311
+"MostDILI Drugs","ketoconazole","intmrkr","ATG_TA_CIS_up_Row457",0.140699031
+"MostDILI Drugs","ketoconazole","intmrkr","ATG_CMV_CIS_up_Row39",-2.512037199
+"MostDILI Drugs","ketoconazole","LDLR","BSK_CASM3C_LDLR_up_Row302",0.616747273
+"MostDILI Drugs","ketoconazole","MMP9","matrix metalloproteinase 9_down_Row46",-1.080741516
+"MostDILI Drugs","ketoconazole","MTF1","ATG_MRE_CIS_up_Row84",-3.468500971
+"MostDILI Drugs","ketoconazole","NF1A","ATG_NFI_CIS_up_Row416",-2.668759113
+"MostDILI Drugs","ketoconazole","NFKB1","TOX21_NFkB_BLA_agonist_ratio_Row250",0.95990275
+"MostDILI Drugs","ketoconazole","NR1H3","ATG_DR4_LXR_CIS_dn_Row28",-2.432619561
+"MostDILI Drugs","ketoconazole","NR1H4","OT_FXR_FXRSRC1_0480_Row94",0.276282492
+"MostDILI Drugs","ketoconazole","NR1H4","NVS_NR_hFXR_Antagonist_Row1033",-2.446887454
+"MostDILI Drugs","ketoconazole","NR1H4","ATG_IR1_CIS_dn_Row386",-2.57083362
+"MostDILI Drugs","ketoconazole","NR1H4","TOX21_FXR_BLA_Antagonist_ch2_Row228",-2.70397329
+"MostDILI Drugs","ketoconazole","NR1I2","ATG_PXRE_CIS_up_Row16",0.470751101
+"MostDILI Drugs","ketoconazole","NR1I3","ATG_CAR_TRANS_dn_Row345",-3.81107444
+"MostDILI Drugs","ketoconazole","NR3C1","TOX21_GR_BLA_Agonist_ch1_Row229",-3.857283373
+"MostDILI Drugs","ketoconazole","NRF2","TOX21_ARE_BLA_agonist_ratio_Row34",0.620096181
+"MostDILI Drugs","ketoconazole","NRF2","TOX21_ARE_BLA_Agonist_ch2_Row24",0.298351462
+"MostDILI Drugs","ketoconazole","NRF2","ATG_NRF2_ARE_CIS_up_Row48",-1.987030276
+"MostDILI Drugs","ketoconazole","NRF2","TOX21_ARE_BLA_Agonist_ch1_Row235",-2.441624174
+"MostDILI Drugs","ketoconazole","oxidoreductase","NCCT_QuantiLum_inhib_dn_Row182",-2.252956759
+"MostDILI Drugs","ketoconazole","oxidoreductase","NCCT_TPO_AUR_dn_Row14",-2.777105647
+"MostDILI Drugs","ketoconazole","oxstress","APR_HepG2_OxidativeStress_72h_up_Row202",-2.917189687
+"MostDILI Drugs","ketoconazole","PAX6","ATG_Pax6_CIS_up_Row432",-0.398667791
+"MostDILI Drugs","ketoconazole","PLAUR","BSK_3C_uPAR_down_Row91",-2.343869643
+"MostDILI Drugs","ketoconazole","PLAUR","BSK_4H_uPAR_down_Row101",-2.694707746
+"MostDILI Drugs","ketoconazole","POU2F1","ATG_POU domain protein_MLP_CIS_up_Row422",-0.616127141
+"MostDILI Drugs","ketoconazole","PPARD","TOX21_PPARd_BLA_Agonist_viability_Row222",-2.404282796
+"MostDILI Drugs","ketoconazole","PPARG","TOX21_PPARg_BLA_antagonist_viability_Row287",-3.93839893
+"MostDILI Drugs","ketoconazole","prlfrn","NCCT_HEK293T_CellTiterGLO_Row88",0.819392335
+"MostDILI Drugs","ketoconazole","prlfrn","BSK_CASM3C_Proliferation_down_Row26",-0.81450122
+"MostDILI Drugs","ketoconazole","prlfrn","BSK_3C_Proliferation_down_Row100",-1.086790413
+"MostDILI Drugs","ketoconazole","prlfrn","BSK_hDFCGF_Proliferation_down_Row25",-1.376339953
+"MostDILI Drugs","ketoconazole","prlfrn","BSK_SAg_Proliferation_down_Row54",-1.712216709
+"MostDILI Drugs","ketoconazole","RORA","ATG_RORE_CIS_up_Row43",0.489510014
+"MostDILI Drugs","ketoconazole","SELE","BSK_SAg_Eselectin_down_Row145",-3.865027966
+"MostDILI Drugs","ketoconazole","SELP","BSK_4H_Pselectin_down_Row49",-0.581933301
+"MostDILI Drugs","ketoconazole","SERPINE1","BSK_hDFCGF_PAI1_down_Row32",-2.760264266
+"MostDILI Drugs","ketoconazole","SIRT2","NVS_ENZ_sirtuin 2_Row917",-0.039927787
+"MostDILI Drugs","ketoconazole","SLC6A2","NVS_TR_hNET_Row595",-0.575071491
+"MostDILI Drugs","ketoconazole","SLC6A3","NVS_TR_DAT_Row594",-0.82631635
+"MostDILI Drugs","ketoconazole","SLC6A4","NVS_TR_hSERT_Row1041",0.845668269
+"MostDILI Drugs","ketoconazole","SP1","ATG_Sp1_CIS_up_Row453",-2.864163884
+"MostDILI Drugs","ketoconazole","srb","BSK_hDFCGF_SRB_down_Row73",-1.31949315
+"MostDILI Drugs","ketoconazole","srb","BSK_LPS_SRB_down_Row123",-1.398394131
+"MostDILI Drugs","ketoconazole","srb","BSK_SAg_SRB_down_Row115",-1.898373516
+"MostDILI Drugs","ketoconazole","srb","BSK_3C_SRB_down_Row82",-2.413010921
+"MostDILI Drugs","ketoconazole","srb","BSK_4H_SRB_down_Row131",-2.491243561
+"MostDILI Drugs","ketoconazole","SREBF1","ATG_SREBP_CIS_up_Row17",0.326038278
+"MostDILI Drugs","ketoconazole","testosterone","CEETOX_H295R_TESTO_dn_Row305",0.954702699
+"MostDILI Drugs","ketoconazole","TGFB1","BSK_KF3CT_TGFb1_down_Row87",-0.90163309
+"MostDILI Drugs","ketoconazole","THRA","TOX21_TR_LUC_GH3_Antagonist_Row97",-1.88984763
+"MostDILI Drugs","ketoconazole","TIMP1","BSK_hDFCGF_TIMP1_down_Row51",-3.364271983
+"MostDILI Drugs","ketoconazole","TIMP2","BSK_KF3CT_TIMP2_down_Row70",-2.580826366
+"MostDILI Drugs","ketoconazole","TNFRSF10B","NVS_NR_hCAR_Antagonist_Row1031",-3.10503203
+"MostDILI Drugs","ketoconazole","TP53","APR_HepG2_p53Act_72h_up_Row173",-0.683497883
+"MostDILI Drugs","ketoconazole","TP53","TOX21_p53_BLA_p2_ratio_Row80",-1.601593674
+"MostDILI Drugs","ketoconazole","TP53","TOX21_p53_BLA_p4_ch1_Row112",-3.614962764
+"MostDILI Drugs","ketoconazole","VCAM1","BSK_hDFCGF_VCAM1_down_Row41",-3.133883113
+"MostDILI Drugs","ketoconazole","VCAM1","BSK_LPS_VCAM1_down_Row72",-3.906653514
+"MostDILI Drugs","ketoconazole","VDR","ATG_VDRE_CIS_up_Row37",0.129552353
+"MostDILI Drugs","ketoconazole","VDR","TOX21_VDR_BLA_Agonist_viability_Row224",-2.183857387
+"MostDILI Drugs","ketoconazole","VDR","TOX21_VDR_BLA_antagonist_ratio_Row225",-2.779973584
+"MostDILI Drugs","ketoconazole","VDR","TOX21_VDR_BLA_antagonist_viability_Row223",-3.569706919
+"MostDILI Drugs","ketoconazole","XBP1","ATG_Xbp1_CIS_up_Row466",-1.21635293
+"MostDILI Drugs","ketoconazole","zf_teratoscore","NHEERL_ZF_144hpf_TERATOSCORE_up_Row13",-0.767765746
+"LessDILIDrugs","lansoprazole","AHR","ATG_Ahr_CIS_up_Row342",0.057262989
+"LessDILIDrugs","lansoprazole","AHR","TOX21_AhR_LUC_Agonist_Row256",-1.497320992
+"LessDILIDrugs","lansoprazole","NR1I2","ATG_PXRE_CIS_up_Row16",-1.715898038
+"LessDILIDrugs","lansoprazole","NR1I2","ATG_PXR_TRANS_up_Row18",-3.173224629
+"LessDILIDrugs","lansoprazole","NR1I3","ATG_PBREM_CIS_up_Row319",-2.950724528
+"MostDILI Drugs","leflunomide","AHR","TOX21_AhR_LUC_Agonist_Row256",0.953672009
+"MostDILI Drugs","leflunomide","AHR","ATG_Ahr_CIS_up_Row342",0.68318855
+"MostDILI Drugs","leflunomide","AR","TOX21_AR_BLA_Antagonist_ratio_Row143",-0.345943718
+"MostDILI Drugs","leflunomide","AR","TOX21_AR_BLA_Antagonist_viability_Row157",-1.262083974
+"MostDILI Drugs","leflunomide","BMPR2","ATG_BRE_CIS_up_Row344",-3.80716319
+"MostDILI Drugs","leflunomide","esr","TOX21_ESRE_BLA_ratio_Row243",-1.50521324
+"MostDILI Drugs","leflunomide","esr","TOX21_ESRE_BLA_viability_Row237",-1.841798146
+"MostDILI Drugs","leflunomide","ESR1","ATG_ERE_CIS_up_Row9",0.038538079
+"MostDILI Drugs","leflunomide","HIF1a","ATG_HIF1a_CIS_up_Row379",-1.67236072
+"MostDILI Drugs","leflunomide","HSF1","TOX21_HSE_BLA_agonist_ch2_Row280",-0.019510842
+"MostDILI Drugs","leflunomide","HSF1","TOX21_HSE_BLA_agonist_ratio_Row172",-0.086858084
+"MostDILI Drugs","leflunomide","JUN","ATG_AP_1_CIS_up_Row35",-2.798933772
+"MostDILI Drugs","leflunomide","mmp","TOX21_MMP_ratio_down_Row67",0.630181508
+"MostDILI Drugs","leflunomide","MTF1","ATG_MRE_CIS_up_Row84",-1.861871916
+"MostDILI Drugs","leflunomide","MYC","ATG_Myc_CIS_dn_Row413",0.979272133
+"MostDILI Drugs","leflunomide","NR1H4","TOX21_FXR_BLA_antagonist_ratio_Row183",-0.967811298
+"MostDILI Drugs","leflunomide","NRF2","TOX21_ARE_BLA_agonist_ratio_Row34",-0.060041428
+"MostDILI Drugs","leflunomide","NRF2","ATG_NRF2_ARE_CIS_up_Row48",-1.458621803
+"MostDILI Drugs","leflunomide","POU2F1","ATG_POU domain protein_MLP_CIS_up_Row422",-2.727174456
+"MostDILI Drugs","leflunomide","ppar","ATG_PPRE_CIS_up_Row5",-2.359507835
+"MostDILI Drugs","leflunomide","PPARD","TOX21_PPARd_BLA_antagonist_ratio_Row221",-0.182800526
+"MostDILI Drugs","leflunomide","PPARD","TOX21_PPARd_BLA_Agonist_viability_Row222",-0.292150284
+"MostDILI Drugs","leflunomide","PPARG","ATG_PPARg_TRANS_up_Row7",-0.689621806
+"MostDILI Drugs","leflunomide","RORA","ATG_RORE_CIS_up_Row43",-1.543734888
+"MostDILI Drugs","leflunomide","TFAP2A","ATG_AP_2_CIS_dn_Row338",0.752882873
+"MostDILI Drugs","leflunomide","THRA","TOX21_TR_LUC_GH3_Antagonist_Row97",0.868511138
+"MostDILI Drugs","leflunomide","TP53","TOX21_p53_BLA_p5_ratio_Row117",0.997842843
+"MostDILI Drugs","leflunomide","TP53","TOX21_p53_BLA_p5_ch2_Row151",0.997690269
+"MostDILI Drugs","leflunomide","TP53","TOX21_p53_BLA_p4_ch1_Row112",0.994368036
+"MostDILI Drugs","leflunomide","TP53","TOX21_p53_BLA_p4_viability_Row177",0.990109048
+"MostDILI Drugs","leflunomide","VDR","TOX21_VDR_BLA_Agonist_viability_Row224",-0.526175689
+"MostDILI Drugs","leflunomide","VDR","ATG_VDRE_CIS_up_Row37",-3.282675148
+"LessDILIDrugs","letrozole","CYP19A1","NVS_ADME_hCYP19A1_Row777",0.979854231
+"LessDILIDrugs","letrozole","CYP19A1","TOX21_Aromatase_Inhibition_Row119",0.927277777
+"LessDILIDrugs","levothyroxine","THRA","TOX21_TR_LUC_GH3_Agonist_Row273",0.959527508
+"LessDILIDrugs","levothyroxine","THRA","ATG_THRa1_TRANS_up_Row461",0.953842
+"LessDILIDrugs","lomustine","TP53","TOX21_p53_BLA_p5_ratio_Row117",0.998680596
+"NoDILI Drugs","loratadine","ESR1","NVS_NR_hER_Row588",0.559735211
+"LessDILIDrugs","lovastatin","THBD","BSK_CASM3C_Thrombomodulin_up_Row23",0.373873333
+"LessDILIDrugs","lovastatin","zf_teratoscore","NHEERL_ZF_144hpf_TERATOSCORE_up_Row13",0.891304045
+"MostDILI Drugs","lumiracoxib","PPARG","TOX21_PPARg_BLA_Agonist_ratio_Row2",0.896195143
+"LessDILIDrugs","mebendazole","THRA","TOX21_TR_LUC_GH3_Antagonist_Row97",-1.628980849
+"LessDILIDrugs","mebendazole","TP53","TOX21_p53_BLA_p1_ch2_Row274",-0.03963181
+"LessDILIDrugs","mebendazole","TP53","TOX21_p53_BLA_p1_ratio_Row162",-0.073044056
+"LessDILIDrugs","mebendazole","TP53","TOX21_p53_BLA_p2_ch2_Row77",-0.828607357
+"LessDILIDrugs","mebendazole","TP53","TOX21_p53_BLA_p4_ratio_Row126",-0.857588484
+"LessDILIDrugs","mebendazole","TP53","TOX21_p53_BLA_p3_ch2_Row92",-0.978106206
+"LessDILIDrugs","mebendazole","TP53","TOX21_p53_BLA_p4_ch2_Row163",-1.009726667
+"LessDILIDrugs","mebendazole","TP53","TOX21_p53_BLA_p3_ratio_Row118",-1.08931377
+"LessDILIDrugs","mebendazole","TP53","TOX21_p53_BLA_p2_ratio_Row80",-1.18375431
+"LessDILIDrugs","mebendazole","TP53","TOX21_p53_BLA_p5_ratio_Row117",-1.53010469
+"LessDILIDrugs","mebendazole","TP53","TOX21_p53_BLA_p5_ch2_Row151",-1.937104706
+"AmbiDILIDrugs","medroxyprogesterone","AR","TOX21_AR_BLA_Agonist_ch2_Row254",0.994663212
+"AmbiDILIDrugs","medroxyprogesterone","AR","TOX21_AR_BLA_Agonist_ratio_Row249",0.993929188
+"AmbiDILIDrugs","medroxyprogesterone","AR","TOX21_AR_LUC_MDAKB2_Agonist_Row252",0.43795443
+"AmbiDILIDrugs","medroxyprogesterone","NR3C1","TOX21_GR_BLA_Agonist_ratio_Row239",0.091303212
+"MostDILI Drugs","mefenamic acid","ESR1","ATG_ERE_CIS_up_Row9",0.851714973
+"MostDILI Drugs","mefenamic acid","ESR1","TOX21_ERa_LUC_BG1_Agonist_Row253",-0.087971027
+"MostDILI Drugs","mefenamic acid","ESR1","TOX21_ERa_BLA_Antagonist_ratio_Row156",-1.782752875
+"MostDILI Drugs","mefenamic acid","hmgbox","ATG_TCF_b_cat_CIS_dn_Row85",-0.007639745
+"MostDILI Drugs","mefenamic acid","mmp","TOX21_MMP_ratio_down_Row67",-2.005887117
+"MostDILI Drugs","mefenamic acid","MTF1","ATG_MRE_CIS_up_Row84",-1.692155124
+"MostDILI Drugs","mefenamic acid","NR1H4","TOX21_FXR_BLA_antagonist_ratio_Row183",-0.840398636
+"MostDILI Drugs","mefenamic acid","NR1I2","ATG_PXRE_CIS_up_Row16",0.28326667
+"MostDILI Drugs","mefenamic acid","NRF2","TOX21_ARE_BLA_agonist_ratio_Row34",-0.004039913
+"MostDILI Drugs","mefenamic acid","NRF2","ATG_NRF2_ARE_CIS_up_Row48",-1.847255825
+"MostDILI Drugs","mefenamic acid","ppar","ATG_PPRE_CIS_up_Row5",0.457514481
+"MostDILI Drugs","mefenamic acid","PPARA","ATG_PPARa_TRANS_up_Row318",0.543360596
+"MostDILI Drugs","mefenamic acid","PPARD","TOX21_PPARd_BLA_agonist_ch2_Row208",0.175748482
+"MostDILI Drugs","mefenamic acid","PPARD","ATG_PPARd_TRANS_up_Row426",-1.263109752
+"MostDILI Drugs","mefenamic acid","PPARG","ATG_PPARg_TRANS_up_Row7",0.534878098
+"MostDILI Drugs","mefenamic acid","PPARG","TOX21_PPARg_BLA_antagonist_ratio_Row220",0.198505388
+"MostDILI Drugs","mefenamic acid","THRA","TOX21_TR_LUC_GH3_Antagonist_Row97",0.272908899
+"MostDILI Drugs","mefenamic acid","USF1","ATG_E_Box_CIS_up_Row30",-2.243686821
+"MostDILI Drugs","mefenamic acid","VDR","ATG_VDRE_CIS_up_Row37",-1.069012691
+"LessDILIDrugs","meloxicam","NR1I2","ATG_PXR_TRANS_up_Row18",-2.502622289
+"LessDILIDrugs","melphalan","AR","TOX21_AR_BLA_Antagonist_viability_Row157",0.999990576
+"LessDILIDrugs","memantine","TP53","TOX21_p53_BLA_p5_viability_Row185",-1.361565654
+"LessDILIDrugs","metformin","ESR1","ATG_ERE_CIS_dn_Row356",0.938896794
+"LessDILIDrugs","metformin","ESR1","ATG_ERa_TRANS_dn_Row361",-0.237347786
+"MostDILI Drugs","methimazole","oxidoreductase","NCCT_TPO_AUR_dn_Row14",0.977211918
+"MostDILI Drugs","methotrexate","AR","TOX21_AR_BLA_Antagonist_viability_Row157",0.95096286
+"MostDILI Drugs","methotrexate","NR1H4","TOX21_FXR_BLA_antagonist_ratio_Row183",0.645893369
+"MostDILI Drugs","methotrexate","NRF2","TOX21_ARE_BLA_agonist_ratio_Row34",0.991178821
+"MostDILI Drugs","methotrexate","NRF2","TOX21_ARE_BLA_Agonist_ch2_Row24",0.98840949
+"MostDILI Drugs","methotrexate","oxstress","APR_HepG2_OxidativeStress_72h_up_Row202",0.99309428
+"MostDILI Drugs","methotrexate","prlfrn","NCCT_HEK293T_CellTiterGLO_Row88",0.928201814
+"MostDILI Drugs","methotrexate","prlfrn","BSK_SAg_Proliferation_down_Row54",-3.990295407
+"MostDILI Drugs","methotrexate","PTGS1","NVS_ENZ_oCOX1_Row568",-1.898792701
+"MostDILI Drugs","methotrexate","SSTR1","NVS_GPCR_rSST_Row1005",-3.047861249
+"MostDILI Drugs","methotrexate","TACR2","NVS_GPCR_hNK2_Row578",-2.240325265
+"MostDILI Drugs","methotrexate","THRA","TOX21_TR_LUC_GH3_Antagonist_Row97",0.907819472
+"MostDILI Drugs","methotrexate","TP53","TOX21_p53_BLA_p4_viability_Row177",0.986948622
+"MostDILI Drugs","methotrexate","TP53","TOX21_p53_BLA_p2_ch2_Row77",0.97413496
+"MostDILI Drugs","methotrexate","TP53","TOX21_p53_BLA_p4_ratio_Row126",0.965230642
+"MostDILI Drugs","methotrexate","TP53","TOX21_p53_BLA_p2_ratio_Row80",0.963930579
+"MostDILI Drugs","methotrexate","TP53","TOX21_p53_BLA_p3_ch2_Row92",0.908566999
+"MostDILI Drugs","methotrexate","TP53","TOX21_p53_BLA_p3_ratio_Row118",0.906520896
+"MostDILI Drugs","methotrexate","TP53","TOX21_p53_BLA_p1_viability_Row171",0.829070079
+"MostDILI Drugs","methotrexate","TP53","TOX21_p53_BLA_p3_viability_Row184",0.789341207
+"MostDILI Drugs","methotrexate","TP53","TOX21_p53_BLA_p1_ch2_Row274",0.669534358
+"MostDILI Drugs","methotrexate","TP53","TOX21_p53_BLA_p1_ratio_Row162",0.655057343
+"MostDILI Drugs","methotrexate","TP53","TOX21_p53_BLA_p5_ratio_Row117",0.322289262
+"MostDILI Drugs","methotrexate","TP53","TOX21_p53_BLA_p5_ch2_Row151",0.121567418
+"MostDILI Drugs","methotrexate","TP53","TOX21_p53_BLA_p4_ch2_Row163",0.118885151
+"LessDILIDrugs","methylprednisolone","AR","TOX21_AR_LUC_MDAKB2_Agonist_Row252",0.992708088
+"LessDILIDrugs","methylprednisolone","AR","TOX21_AR_BLA_Agonist_ratio_Row249",0.990519569
+"LessDILIDrugs","methylprednisolone","AR","TOX21_AR_BLA_Agonist_ch2_Row254",0.990252288
+"LessDILIDrugs","methylprednisolone","NR3C1","ATG_GRE_CIS_up_Row375",0.99732522
+"LessDILIDrugs","methylprednisolone","NR3C1","ATG_GR_TRANS_up_Row377",0.995576057
+"LessDILIDrugs","methylprednisolone","NR3C1","TOX21_GR_BLA_Agonist_ratio_Row239",0.993992471
+"LessDILIDrugs","methylprednisolone","NR3C1","TOX21_GR_BLA_Agonist_ch2_Row270",0.993876249
+"NoDILI Drugs","methysergide","AR","TOX21_AR_BLA_Antagonist_ratio_Row143",0.998585
+"NoDILI Drugs","methysergide","ESR1","TOX21_ERa_BLA_Antagonist_ratio_Row156",0.99873
+"NoDILI Drugs","methysergide","TP53","TOX21_p53_BLA_p5_ch2_Row151",0.996225
+"AmbiDILIDrugs","metolazone","TP53","TOX21_p53_BLA_p3_ch1_Row121",0.988314448
+"AmbiDILIDrugs","nabumetone","AHR","TOX21_AhR_LUC_Agonist_Row256",-2.690241241
+"AmbiDILIDrugs","nabumetone","ESR1","TOX21_ERa_LUC_BG1_Agonist_Row253",0.583349343
+"LessDILIDrugs","naproxen","PPARD","TOX21_PPARd_BLA_Antagonist_ch1_Row281",0.999929117
+"AmbiDILIDrugs","nateglinide","PPARD","TOX21_PPARd_BLA_agonist_ch1_Row283",0.999915492
+"LessDILIDrugs","nifedipine","TP53","TOX21_p53_BLA_p2_viability_Row180",0.853976241
+"MostDILI Drugs","nilutamide","ADRA1A","NVS_GPCR_bAdoR_NonSelective_Row947",-0.3715743
+"MostDILI Drugs","nilutamide","AR","NVS_NR_hAR_Row620",0.999278258
+"MostDILI Drugs","nilutamide","AR","TOX21_AR_LUC_MDAKB2_Antagonist2_Row168",0.946635318
+"MostDILI Drugs","nilutamide","AR","NVS_NR_cAR_Row619",0.848971302
+"MostDILI Drugs","nilutamide","AR","TOX21_AR_BLA_Antagonist_ratio_Row143",0.461452574
+"MostDILI Drugs","nilutamide","AR","TOX21_AR_LUC_MDAKB2_Antagonist_Row178",-0.239243722
+"MostDILI Drugs","nilutamide","AR","OT_AR_ARSRC1_0960_Row124",-0.592249688
+"MostDILI Drugs","nilutamide","AR","NVS_NR_rAR_Row591",-1.661620704
+"MostDILI Drugs","nilutamide","AR","OT_AR_ARSRC1_0480_Row1045",-2.155332624
+"MostDILI Drugs","nilutamide","CSF1","BSK_CASM3C_MCSF_down_Row502",-0.916274052
+"MostDILI Drugs","nilutamide","CXCL10","BSK_BE3C_IP10_down_Row55",-2.45232587
+"MostDILI Drugs","nilutamide","CYP1A2","NVS_ADME_hCYP1A2_Row542",0.336128247
+"MostDILI Drugs","nilutamide","CYP2B6","NVS_ADME_hCYP2B6_Row783",0.099356129
+"MostDILI Drugs","nilutamide","CYP2C19","NVS_ADME_hCYP2C19_Row544",0.633388134
+"MostDILI Drugs","nilutamide","CYP2C9","NVS_ADME_hCYP2C9_Row546",-0.232745845
+"MostDILI Drugs","nilutamide","cytotoxicity","APR_HepG2_CellLoss_72h_dn_Row200",-3.775047654
+"MostDILI Drugs","nilutamide","ESR1","TOX21_ERa_LUC_BG1_Antagonist_Row179",-1.493036133
+"MostDILI Drugs","nilutamide","intmrkr","ATG_CMV_CIS_up_Row39",-2.396511733
+"MostDILI Drugs","nilutamide","mmp","APR_HepG2_MitoMembPot_24h_dn_Row201",0.768292374
+"MostDILI Drugs","nilutamide","NR1I2","ATG_PXRE_CIS_up_Row16",-0.234640878
+"MostDILI Drugs","nilutamide","NR1I2","ATG_PXR_TRANS_up_Row18",-0.95306113
+"MostDILI Drugs","nilutamide","NRF2","ATG_NRF2_ARE_CIS_up_Row48",-1.932886388
+"MostDILI Drugs","nilutamide","NRF2","TOX21_ARE_BLA_Agonist_ch2_Row24",-2.627543522
+"MostDILI Drugs","nilutamide","PGR","NVS_NR_hPR_Row590",-1.498881544
+"MostDILI Drugs","nilutamide","prlfrn","BSK_CASM3C_Proliferation_down_Row26",-0.689192195
+"MostDILI Drugs","nilutamide","prlfrn","BSK_hDFCGF_Proliferation_down_Row25",-1.322794756
+"MostDILI Drugs","nilutamide","zf_teratoscore","NHEERL_ZF_144hpf_TERATOSCORE_up_Row13",-1.062419935
+"MostDILI Drugs","nimesulide","mmp","TOX21_MMP_ratio_down_Row67",0.802574483
+"MostDILI Drugs","nimesulide","mmp","TOX21_MMP_viability_Row615",-1.191069664
+"MostDILI Drugs","nimesulide","NRF2","TOX21_ARE_BLA_agonist_ratio_Row34",-1.794707677
+"MostDILI Drugs","nimesulide","PPARG","TOX21_PPARg_BLA_antagonist_ratio_Row220",-0.586683986
+"MostDILI Drugs","nitrofurantoin","AR","TOX21_AR_LUC_MDAKB2_Antagonist2_Row168",-0.88707486
+"MostDILI Drugs","nitrofurantoin","AR","TOX21_AR_LUC_MDAKB2_Antagonist_Row178",-1.338755145
+"MostDILI Drugs","nitrofurantoin","AR","TOX21_AR_BLA_Antagonist_ratio_Row143",-1.766277223
+"MostDILI Drugs","nitrofurantoin","CD40","BSK_SAg_CD40_down_Row57",-3.401952482
+"MostDILI Drugs","nitrofurantoin","CYP1A2","NVS_ADME_hCYP1A2_Row542",-0.356500952
+"MostDILI Drugs","nitrofurantoin","CYP2D6","NVS_ADME_hCYP2D6_Row548",0.107833423
+"MostDILI Drugs","nitrofurantoin","cytotoxicity","BSK_SAg_PBMCCytotoxicity_up_Row527",-0.351098697
+"MostDILI Drugs","nitrofurantoin","cytotoxicity","APR_HepG2_CellLoss_24h_dn_Row203",-3.748257362
+"MostDILI Drugs","nitrofurantoin","ESR1","ACEA_T47D_80hr_Positive_Row621",-2.63151545
+"MostDILI Drugs","nitrofurantoin","ESR1","ATG_ERa_TRANS_up_Row27",-2.97265415
+"MostDILI Drugs","nitrofurantoin","ESR1","TOX21_ERa_BLA_Antagonist_ratio_Row156",-3.219055812
+"MostDILI Drugs","nitrofurantoin","HIF1a","ATG_HIF1a_CIS_dn_Row378",-0.555098329
+"MostDILI Drugs","nitrofurantoin","HLA-DR","BSK_3C_HLADR_down_Row104",-0.730987163
+"MostDILI Drugs","nitrofurantoin","hmgbox","ATG_TCF_b_cat_CIS_dn_Row85",-3.23876175
+"MostDILI Drugs","nitrofurantoin","NOS1","NVS_ENZ_rCNOS_Row935",-2.256314212
+"MostDILI Drugs","nitrofurantoin","NRF2","TOX21_ARE_BLA_Agonist_ch2_Row24",-1.26709994
+"MostDILI Drugs","nitrofurantoin","NRF2","TOX21_ARE_BLA_agonist_ratio_Row34",-3.094037963
+"MostDILI Drugs","nitrofurantoin","prlfrn","BSK_SAg_Proliferation_down_Row54",-0.184408103
+"MostDILI Drugs","nitrofurantoin","prlfrn","BSK_3C_Proliferation_down_Row100",-0.717983933
+"MostDILI Drugs","nitrofurantoin","prlfrn","BSK_hDFCGF_Proliferation_down_Row25",-1.167838977
+"MostDILI Drugs","nitrofurantoin","PTGS1","NVS_ENZ_oCOX1_Row568",-2.480056915
+"MostDILI Drugs","nitrofurantoin","SELE","BSK_3C_Eselectin_down_Row159",-0.221381761
+"MostDILI Drugs","nitrofurantoin","SELE","BSK_SAg_Eselectin_down_Row145",-0.406343048
+"MostDILI Drugs","nitrofurantoin","VCAM1","BSK_LPS_VCAM1_down_Row72",-0.804052478
+"AmbiDILIDrugs","norethindrone","AR","OT_AR_ARELUC_AG_1440_Row1044",0.999085366
+"AmbiDILIDrugs","norethindrone","AR","NVS_NR_hAR_Row620",0.979969512
+"AmbiDILIDrugs","norethindrone","AR","TOX21_AR_BLA_Agonist_ratio_Row249",0.92886311
+"AmbiDILIDrugs","norethindrone","AR","TOX21_AR_BLA_Agonist_ch2_Row254",0.906098963
+"AmbiDILIDrugs","norethindrone","AR","NVS_NR_cAR_Row619",0.852859665
+"AmbiDILIDrugs","norethindrone","AR","OT_AR_ARSRC1_0960_Row124",0.848264634
+"AmbiDILIDrugs","norethindrone","AR","OT_AR_ARSRC1_0480_Row1045",0.801675366
+"AmbiDILIDrugs","norethindrone","AR","ATG_AR_TRANS_up_Row341",-1.846914604
+"AmbiDILIDrugs","norethindrone","AR","TOX21_AR_LUC_MDAKB2_Agonist_Row252",-2.275368384
+"AmbiDILIDrugs","norethindrone","AR","NVS_NR_rAR_Row591",-2.505432134
+"AmbiDILIDrugs","norethindrone","ESR1","ATG_ERE_CIS_up_Row9",0.872240976
+"AmbiDILIDrugs","norethindrone","ESR1","ACEA_T47D_80hr_Positive_Row621",0.816930457
+"AmbiDILIDrugs","norethindrone","ESR1","TOX21_ERa_LUC_BG1_Agonist_Row253",0.663824695
+"AmbiDILIDrugs","norethindrone","ESR1","ATG_ERa_TRANS_up_Row27",0.631598323
+"AmbiDILIDrugs","norethindrone","NR3C1","NVS_NR_hGR_Row589",-0.738832195
+"AmbiDILIDrugs","norethindrone","PGR","NVS_NR_hPR_Row590",0.704826189
+"AmbiDILIDrugs","norethindrone","PGR","NVS_NR_bPR_Row1029",0.518138445
+"LessDILIDrugs","omeprazole","AR","TOX21_AR_LUC_MDAKB2_Antagonist2_Row168",0.999994268
+"LessDILIDrugs","omeprazole","TP53","TOX21_p53_BLA_p2_viability_Row180",0.999987832
+"MostDILI Drugs","orlistat","ESR1","TOX21_ERa_BLA_Antagonist_ratio_Row156",0.898270358
+"LessDILIDrugs","oxcarbazepine","THRA","TOX21_TR_LUC_GH3_Antagonist_Row97",-0.925984068
+"LessDILIDrugs","oxcarbazepine","TP53","TOX21_p53_BLA_p5_ch2_Row151",-2.798268958
+"MostDILI Drugs","oxymetholone","AR","TOX21_AR_LUC_MDAKB2_Agonist_Row252",0.902330053
+"MostDILI Drugs","oxymetholone","AR","TOX21_AR_BLA_Agonist_ratio_Row249",-0.403688655
+"MostDILI Drugs","oxymetholone","AR","TOX21_AR_BLA_Agonist_ch2_Row254",-0.517669487
+"MostDILI Drugs","oxymetholone","ESR1","TOX21_ERa_LUC_BG1_Agonist_Row253",-0.436537628
+"AmbiDILIDrugs","oxytetracycline","AR","NVS_NR_rAR_Row591",-1.02195849
+"AmbiDILIDrugs","oxytetracycline","AR","NVS_NR_hRAR_Antagonist_Row1036",-1.447998427
+"AmbiDILIDrugs","oxytetracycline","CSF1","BSK_hDFCGF_MCSF_down_Row42",-2.515943714
+"AmbiDILIDrugs","oxytetracycline","CXCL10","BSK_hDFCGF_IP10_down_Row33",-3.268347514
+"AmbiDILIDrugs","oxytetracycline","EGF","NVS_ENZ_hVEGFR3_Row929",0.70502701
+"AmbiDILIDrugs","oxytetracycline","EPHA2","NVS_ENZ_hEphA2_Row825",-1.572029331
+"AmbiDILIDrugs","oxytetracycline","F3","BSK_LPS_TissueFactor_up_Row310",-2.461374096
+"AmbiDILIDrugs","oxytetracycline","F3","BSK_3C_TissueFactor_up_Row300",-2.644241427
+"AmbiDILIDrugs","oxytetracycline","FGFR1","NVS_ENZ_hFGFR1_Row829",-1.376880463
+"AmbiDILIDrugs","oxytetracycline","IL1a","BSK_KF3CT_IL1a_down_Row68",0.186571672
+"AmbiDILIDrugs","oxytetracycline","IL8","BSK_LPS_IL8_down_Row160",0.853549832
+"AmbiDILIDrugs","oxytetracycline","IL8","BSK_SAg_IL8_up_Row322",-1.099616567
+"AmbiDILIDrugs","oxytetracycline","MMP1","BSK_BE3C_MMP1_up_Row490",-1.703061855
+"AmbiDILIDrugs","oxytetracycline","NR1H4","NVS_NR_hFXR_Agonist_Row1032",-2.927093839
+"AmbiDILIDrugs","oxytetracycline","NR1I2","NVS_NR_hPXR_Row1035",0.357039961
+"AmbiDILIDrugs","oxytetracycline","PAK4","NVS_ENZ_hPAK4_Row871",-2.447525081
+"AmbiDILIDrugs","oxytetracycline","prlfrn","BSK_CASM3C_Proliferation_up_Row505",-1.306215248
+"AmbiDILIDrugs","oxytetracycline","PTEN","NVS_ENZ_hPTEN_Row564",0.187060059
+"AmbiDILIDrugs","oxytetracycline","PTGS1","NVS_ENZ_oCOX1_Row568",-3.774391012
+"AmbiDILIDrugs","oxytetracycline","PTPN11","NVS_ENZ_hPTPN11_Row886",-0.107930324
+"AmbiDILIDrugs","oxytetracycline","PTPN12","NVS_ENZ_hPTPN12_Row888",0.294178469
+"AmbiDILIDrugs","oxytetracycline","PTPRB","NVS_ENZ_hPTPRB_Row903",-2.878900893
+"AmbiDILIDrugs","oxytetracycline","SERPINE1","BSK_BE3C_PAI1_up_Row491",-0.042111357
+"AmbiDILIDrugs","oxytetracycline","TIE2","NVS_ENZ_hTie2_Row923",-1.97333341
+"LessDILIDrugs","paclitaxel","AR","TOX21_AR_BLA_Antagonist_ratio_Row143",0.997977844
+"LessDILIDrugs","paclitaxel","THRA","TOX21_TR_LUC_GH3_Antagonist_Row97",0.967229027
+"LessDILIDrugs","paclitaxel","TP53","TOX21_p53_BLA_p4_ch2_Row163",0.998413319
+"LessDILIDrugs","paclitaxel","TP53","TOX21_p53_BLA_p4_ratio_Row126",0.99829906
+"LessDILIDrugs","paclitaxel","TP53","TOX21_p53_BLA_p5_ch2_Row151",0.998168807
+"LessDILIDrugs","paclitaxel","TP53","TOX21_p53_BLA_p3_ratio_Row118",0.998140683
+"LessDILIDrugs","paclitaxel","TP53","TOX21_p53_BLA_p2_ch2_Row77",0.998048836
+"LessDILIDrugs","paclitaxel","TP53","TOX21_p53_BLA_p3_ch2_Row92",0.997680369
+"LessDILIDrugs","paclitaxel","TP53","TOX21_p53_BLA_p1_ratio_Row162",0.997498106
+"LessDILIDrugs","paclitaxel","TP53","TOX21_p53_BLA_p2_ratio_Row80",0.564336291
+"LessDILIDrugs","paclitaxel","TP53","TOX21_p53_BLA_p5_ratio_Row117",-0.761519978
+"LessDILIDrugs","paclitaxel","TP53","TOX21_p53_BLA_p1_ch2_Row274",-1.526733316
+"LessDILIDrugs","pantoprazole","NRF2","TOX21_ARE_BLA_agonist_ratio_Row34",-1.505535911
+"MostDILI Drugs","pazopanib","AR","TOX21_AR_LUC_MDAKB2_Antagonist_Row178",0.731970256
+"MostDILI Drugs","pazopanib","AR","TOX21_AR_LUC_MDAKB2_Antagonist2_Row168",0.724136582
+"MostDILI Drugs","pazopanib","AR","TOX21_AR_BLA_Antagonist_ratio_Row143",0.660904836
+"MostDILI Drugs","pazopanib","CYP19A1","TOX21_Aromatase_Inhibition_Row119",0.803071755
+"MostDILI Drugs","pazopanib","ESR1","TOX21_ERa_LUC_BG1_Antagonist_Row179",0.83985631
+"MostDILI Drugs","pazopanib","NR1H4","TOX21_FXR_BLA_antagonist_ratio_Row183",0.505345473
+"MostDILI Drugs","pazopanib","NRF2","TOX21_ARE_BLA_agonist_ratio_Row34",0.988394545
+"MostDILI Drugs","pazopanib","PPARG","TOX21_PPARg_BLA_antagonist_ratio_Row220",0.034649963
+"MostDILI Drugs","pazopanib","THRA","TOX21_TR_LUC_GH3_Antagonist_Row97",0.903283617
+"MostDILI Drugs","pazopanib","TP53","TOX21_p53_BLA_p2_ratio_Row80",0.65361884
+"MostDILI Drugs","pazopanib","TP53","TOX21_p53_BLA_p2_ch2_Row77",0.645321372
+"MostDILI Drugs","pazopanib","TP53","TOX21_p53_BLA_p5_ch2_Row151",0.643079928
+"MostDILI Drugs","pazopanib","TP53","TOX21_p53_BLA_p5_ratio_Row117",0.638204138
+"MostDILI Drugs","pazopanib","TP53","TOX21_p53_BLA_p3_ratio_Row118",0.635628517
+"MostDILI Drugs","pazopanib","TP53","TOX21_p53_BLA_p4_ratio_Row126",0.620511389
+"MostDILI Drugs","pazopanib","TP53","TOX21_p53_BLA_p4_ch2_Row163",0.607969398
+"MostDILI Drugs","pazopanib","TP53","TOX21_p53_BLA_p1_ch2_Row274",0.581654684
+"MostDILI Drugs","pazopanib","TP53","TOX21_p53_BLA_p1_ratio_Row162",0.570711487
+"MostDILI Drugs","pazopanib","TP53","TOX21_p53_BLA_p3_ch2_Row92",0.537643523
+"LessDILIDrugs","piroxicam","mmp","TOX21_MMP_ratio_down_Row67",-1.286689977
+"AmbiDILIDrugs","praziquantel","NR1I2","ATG_PXR_TRANS_up_Row18",-1.778568609
+"AmbiDILIDrugs","praziquantel","NR1I2","ATG_PXRE_CIS_up_Row16",-2.212935062
+"LessDILIDrugs","prednisolone","AR","TOX21_AR_BLA_Agonist_ratio_Row249",0.95947437
+"LessDILIDrugs","prednisolone","AR","TOX21_AR_BLA_Agonist_ch2_Row254",0.952121086
+"LessDILIDrugs","prednisolone","AR","TOX21_AR_LUC_MDAKB2_Agonist_Row252",0.93632261
+"LessDILIDrugs","prednisolone","NR3C1","TOX21_GR_BLA_Agonist_ch2_Row270",0.967310487
+"LessDILIDrugs","prednisolone","NR3C1","TOX21_GR_BLA_Agonist_ratio_Row239",0.96688432
+"LessDILIDrugs","prednisolone","NR3C1","ATG_GRE_CIS_up_Row375",0.391373587
+"LessDILIDrugs","prednisolone","NR3C1","ATG_GR_TRANS_up_Row377",0.105159575
+"LessDILIDrugs","prednisone","AR","TOX21_AR_BLA_Agonist_ch2_Row254",0.596959956
+"LessDILIDrugs","prednisone","AR","TOX21_AR_BLA_Agonist_ratio_Row249",0.417977442
+"LessDILIDrugs","prednisone","CSF1","BSK_CASM3C_MCSF_up_Row325",0.85380117
+"LessDILIDrugs","prednisone","IL6","BSK_CASM3C_IL6_down_Row499",-3.587943304
+"LessDILIDrugs","prednisone","IL8","BSK_CASM3C_IL8_down_Row500",-3.593596974
+"LessDILIDrugs","prednisone","NR3C2","NVS_NR_rMR_Row592",-1.552395132
+"LessDILIDrugs","pregabalin","ESR1","TOX21_ERa_LUC_BG1_Agonist_Row253",0.787712294
+"NoDILI Drugs","primidone","NR1H2","ATG_LXRb_TRANS_up_Row393",-0.223874925
+"AmbiDILIDrugs","probenecid","NR1I2","ATG_PXR_TRANS_up_Row18",0.707976524
+"AmbiDILIDrugs","probenecid","NR1I2","ATG_PXRE_CIS_up_Row16",0.507580506
+"LessDILIDrugs","progesterone","AR","NVS_NR_hAR_Row620",0.910497327
+"LessDILIDrugs","progesterone","AR","TOX21_AR_BLA_Agonist_ratio_Row249",0.838982652
+"LessDILIDrugs","progesterone","AR","TOX21_AR_BLA_Agonist_ch2_Row254",0.722403596
+"LessDILIDrugs","progesterone","AR","OT_AR_ARSRC1_0480_Row1045",0.612247494
+"LessDILIDrugs","progesterone","AR","NVS_NR_cAR_Row619",0.291172714
+"LessDILIDrugs","progesterone","AR","NVS_NR_rAR_Row591",0.201567379
+"LessDILIDrugs","progesterone","AR","OT_AR_ARELUC_AG_1440_Row1044",-0.239336694
+"LessDILIDrugs","progesterone","AR","OT_AR_ARSRC1_0960_Row124",-1.758028127
+"LessDILIDrugs","progesterone","ESR1","ACEA_T47D_80hr_Positive_Row621",-0.014679756
+"LessDILIDrugs","progesterone","ESR1","ATG_ERE_CIS_up_Row9",-3.511915153
+"LessDILIDrugs","progesterone","NR3C1","NVS_NR_hGR_Row589",-1.069391816
+"LessDILIDrugs","progesterone","NR3C1","TOX21_GR_BLA_Antagonist_ch2_Row165",-3.553423363
+"LessDILIDrugs","progesterone","NR3C1","TOX21_GR_BLA_Antagonist_ratio_Row155",-3.933541925
+"LessDILIDrugs","progesterone","NR3C2","NVS_NR_rMR_Row592",0.163944883
+"LessDILIDrugs","progesterone","PGR","NVS_NR_bPR_Row1029",0.981992039
+"LessDILIDrugs","progesterone","PGR","NVS_NR_hPR_Row590",0.852057981
+"LessDILIDrugs","progesterone","SELE","BSK_SAg_Eselectin_up_Row324",-2.151441816
+"LessDILIDrugs","propofol","intmrkr","ATG_TAL_CIS_dn_Row454",0.988531777
+"LessDILIDrugs","propofol","mmp","TOX21_MMP_ratio_down_Row67",-2.935307537
+"LessDILIDrugs","propofol","NR1I2","ATG_PXR_TRANS_up_Row18",0.788228308
+"LessDILIDrugs","propofol","NR1I2","ATG_PXRE_CIS_up_Row16",0.709593635
+"LessDILIDrugs","propofol","RXRB","ATG_RXRb_TRANS_up_Row311",-2.945437939
+"NoDILI Drugs","pyridoxine","GATA","ATG_GATA_CIS_dn_Row370",-3.362316916
+"NoDILI Drugs","pyridoxine","GLI1","ATG_GLI_CIS_dn_Row372",-3.532437549
+"NoDILI Drugs","pyridoxine","NRF1","ATG_NRF1_CIS_dn_Row336",-3.315881694
+"LessDILIDrugs","pyrimethamine","ADRA1A","NVS_GPCR_rAdra1A_Row990",-0.12524905
+"LessDILIDrugs","pyrimethamine","ADRA1A","NVS_GPCR_rAdra1_NonSelective_Row992",-2.504056435
+"LessDILIDrugs","pyrimethamine","ADRA1B","NVS_GPCR_rAdra1B_Row991",-0.609809367
+"LessDILIDrugs","pyrimethamine","ADRA2A","NVS_GPCR_hAdra2A_Row962",-1.043989601
+"LessDILIDrugs","pyrimethamine","ADRA2B","NVS_GPCR_rmAdra2B_Row1010",-0.813723801
+"LessDILIDrugs","pyrimethamine","ADRA2B","NVS_GPCR_rAdra2_NonSelective_Row581",-1.436588795
+"LessDILIDrugs","pyrimethamine","CACNA1C","NVS_IC_rCaBTZCHL_Row582",-1.858427869
+"LessDILIDrugs","pyrimethamine","CCL2","BSK_KF3CT_MCP1_down_Row52",0.284363219
+"LessDILIDrugs","pyrimethamine","CEBPB","ATG_C_EBP_CIS_up_Row350",-3.621798653
+"LessDILIDrugs","pyrimethamine","CHRNA7","NVS_LGIC_rNNR_BungSens_Row585",-2.767814035
+"LessDILIDrugs","pyrimethamine","DRD1","NVS_GPCR_hDRD1_Row576",-1.116383659
+"LessDILIDrugs","pyrimethamine","DRD4","NVS_GPCR_hDRD4.4_Row969",-0.97169475
+"LessDILIDrugs","pyrimethamine","ESR1","ATG_ERE_CIS_up_Row9",0.610451022
+"LessDILIDrugs","pyrimethamine","F3","BSK_LPS_TissueFactor_up_Row310",-1.138968079
+"LessDILIDrugs","pyrimethamine","GABRA1","NVS_LGIC_rGABAR_NonSelective_Row1025",0.980451784
+"LessDILIDrugs","pyrimethamine","GABRA1","NVS_LGIC_bGABAR_Agonist_Row1019",-1.741089753
+"LessDILIDrugs","pyrimethamine","GATA","ATG_GATA_CIS_up_Row371",0.813413923
+"LessDILIDrugs","pyrimethamine","GLRA1","NVS_LGIC_rGlyRStrySens_Row1028",0.003027905
+"LessDILIDrugs","pyrimethamine","HRH2","NVS_GPCR_gH2_Row954",-1.046591751
+"LessDILIDrugs","pyrimethamine","HTR1A","NVS_GPCR_r5HT_NonSelective_Row989",-3.648596397
+"LessDILIDrugs","pyrimethamine","HTR2A","NVS_GPCR_h5HT2A_Row957",-1.027184939
+"LessDILIDrugs","pyrimethamine","HTR2C","NVS_GPCR_p5HT2C_Row987",-1.759881274
+"LessDILIDrugs","pyrimethamine","HTR4","NVS_GPCR_g5HT4_Row951",-0.63728517
+"LessDILIDrugs","pyrimethamine","HTR7 ","NVS_GPCR_h5HT7_Row960",-0.789645993
+"LessDILIDrugs","pyrimethamine","intmrkr","ATG_M_32_TRANS_up_Row406",0.801143403
+"LessDILIDrugs","pyrimethamine","intmrkr","ATG_CMV_CIS_up_Row39",0.463736523
+"LessDILIDrugs","pyrimethamine","JUN","ATG_AP_1_CIS_up_Row35",0.373389059
+"LessDILIDrugs","pyrimethamine","NISCH","NVS_ENZ_rabI2C_Row944",-0.142530584
+"LessDILIDrugs","pyrimethamine","NRF2","ATG_NRF2_ARE_CIS_up_Row48",0.521279133
+"LessDILIDrugs","pyrimethamine","NRF2","TOX21_ARE_BLA_agonist_ratio_Row34",-0.130555648
+"LessDILIDrugs","pyrimethamine","prlfrn","BSK_hDFCGF_Proliferation_down_Row25",-2.23032548
+"LessDILIDrugs","pyrimethamine","SCN1A","NVS_IC_rNaCh_site2_Row583",-0.466335903
+"LessDILIDrugs","pyrimethamine","SIGMAR1","NVS_OR_gSIGMA_NonSelective_Row140",-0.175288995
+"LessDILIDrugs","pyrimethamine","SLC6A2","NVS_TR_hNET_Row595",0.253042976
+"LessDILIDrugs","pyrimethamine","SLC6A2","NVS_TR_rNET_Row1043",-1.893307831
+"LessDILIDrugs","pyrimethamine","SLC6A3","NVS_TR_DAT_Row594",0.771716033
+"LessDILIDrugs","pyrimethamine","SLC6A3","NVS_TR_DAT_Row593",0.614369593
+"LessDILIDrugs","pyrimethamine","SLC6A4","NVS_TR_rSERT_Row596",-2.419233707
+"LessDILIDrugs","pyrimethamine","SOX1","ATG_Sox_CIS_up_Row451",0.864941337
+"LessDILIDrugs","pyrimethamine","THRA","TOX21_TR_LUC_GH3_Antagonist_Row97",-0.813961917
+"LessDILIDrugs","pyrimethamine","TNFRSF10B","ATG_DR5_CIS_up_Row335",0.17133397
+"LessDILIDrugs","pyrimethamine","TP53","APR_HepG2_p53Act_72h_up_Row173",-0.138981566
+"LessDILIDrugs","pyrimethamine","TP53","TOX21_p53_BLA_p4_viability_Row177",-2.018914053
+"LessDILIDrugs","pyrimethamine","TSPO","NVS_MP_rPBR_Row587",-3.061138448
+"LessDILIDrugs","pyrimethamine","xtt","ATG_XTT_Cytotoxicity_up_Row1093",0.997567576
+"LessDILIDrugs","quinidine","ESR1","TOX21_ERa_LUC_BG1_Agonist_Row253",0.968676045
+"LessDILIDrugs","quinidine","ESR1","TOX21_ERa_BLA_Agonist_ch2_Row269",0.719261931
+"LessDILIDrugs","quinidine","ESR1","TOX21_ERa_BLA_Agonist_ch1_Row242",0.706858125
+"LessDILIDrugs","quinidine","ESR1","TOX21_ERa_BLA_Agonist_ratio_Row246",0.616625924
+"LessDILIDrugs","quinidine","TP53","TOX21_p53_BLA_p2_viability_Row180",0.999993846
+"LessDILIDrugs","quinine","TP53","TOX21_p53_BLA_p2_ch2_Row77",-3.423674783
+"LessDILIDrugs","quinine","TP53","TOX21_p53_BLA_p2_ratio_Row80",-3.424430913
+"NoDILI Drugs","raloxifene","CYP19A1","TOX21_Aromatase_Inhibition_Row119",-0.337996364
+"NoDILI Drugs","raloxifene","ESR1","TOX21_ERa_LUC_BG1_Antagonist_Row179",-2.063817273
+"LessDILIDrugs","ranitidine","AR","OT_AR_ARELUC_AG_1440_Row1044",0.525535169
+"LessDILIDrugs","rifabutin","PPARG","TOX21_PPARg_BLA_Agonist_ch2_Row1",0.99999392
+"MostDILI Drugs","riluzole","TP53","TOX21_p53_BLA_p1_ch2_Row274",-2.535696414
+"MostDILI Drugs","riluzole","TP53","TOX21_p53_BLA_p2_ratio_Row80",-2.616817563
+"MostDILI Drugs","riluzole","TP53","TOX21_p53_BLA_p2_ch2_Row77",-2.708772539
+"MostDILI Drugs","riluzole","TP53","TOX21_p53_BLA_p3_ch2_Row92",-3.31125198
+"MostDILI Drugs","riluzole","TP53","TOX21_p53_BLA_p1_ratio_Row162",-3.824311865
+"MostDILI Drugs","riluzole","TP53","TOX21_p53_BLA_p3_ratio_Row118",-3.870615827
+"MostDILI Drugs","ritonavir","ESR1","TOX21_ERa_BLA_Antagonist_ratio_Row156",-2.249558395
+"MostDILI Drugs","ritonavir","NFKB1","TOX21_NFkB_BLA_agonist_viability_Row241",-1.334140377
+"MostDILI Drugs","ritonavir","NR1H4","TOX21_FXR_BLA_antagonist_ratio_Row183",-2.967659989
+"MostDILI Drugs","ritonavir","NR3C1","TOX21_GR_BLA_Antagonist_ratio_Row155",-2.625760353
+"MostDILI Drugs","ritonavir","NRF2","TOX21_ARE_BLA_agonist_ratio_Row34",-2.204671158
+"MostDILI Drugs","ritonavir","PPARD","TOX21_PPARd_BLA_Agonist_viability_Row222",-1.464167516
+"MostDILI Drugs","ritonavir","TP53","TOX21_p53_BLA_p2_ch2_Row77",-3.142313141
+"LessDILIDrugs","rosiglitazone","PPARG","TOX21_PPARg_BLA_Agonist_ratio_Row2",0.98969505
+"LessDILIDrugs","rosiglitazone","PPARG","TOX21_PPARg_BLA_Agonist_ch2_Row1",0.9796886
+"LessDILIDrugs","simvastatin","CCL2","BSK_4H_MCP1_down_Row36",-1.604536614
+"LessDILIDrugs","simvastatin","cortisol","CEETOX_H295R_11DCORT_dn_Row306",-3.025789636
+"LessDILIDrugs","simvastatin","F3","BSK_LPS_TissueFactor_up_Row310",0.830330267
+"LessDILIDrugs","simvastatin","IL8","BSK_SAg_IL8_up_Row322",0.517390874
+"LessDILIDrugs","simvastatin","SELE","BSK_LPS_Eselectin_up_Row326",0.877701869
+"LessDILIDrugs","simvastatin","SELE","BSK_SAg_Eselectin_up_Row324",0.860363677
+"LessDILIDrugs","simvastatin","SREBF1","ATG_SREBP_CIS_up_Row17",0.625432949
+"LessDILIDrugs","simvastatin","THBD","BSK_CASM3C_Thrombomodulin_up_Row23",-1.297044563
+"LessDILIDrugs","simvastatin","zf_activityscore","Tanguay_ZF_120hpf_ActivityScore_Row1057",-3.380835631
+"LessDILIDrugs","simvastatin","zf_teratoscore","NHEERL_ZF_144hpf_TERATOSCORE_up_Row13",0.963751905
+"LessDILIDrugs","spironolactone","AR","OT_AR_ARELUC_AG_1440_Row1044",0.918872725
+"LessDILIDrugs","spironolactone","AR","TOX21_AR_BLA_Agonist_ratio_Row249",0.8361871
+"LessDILIDrugs","spironolactone","AR","TOX21_AR_BLA_Agonist_ch2_Row254",0.7921178
+"LessDILIDrugs","spironolactone","AR","NVS_NR_cAR_Row619",0.744868325
+"LessDILIDrugs","spironolactone","AR","NVS_NR_hAR_Row620",0.473291533
+"LessDILIDrugs","spironolactone","AR","OT_AR_ARSRC1_0480_Row1045",0.461685842
+"LessDILIDrugs","spironolactone","AR","TOX21_AR_LUC_MDAKB2_Agonist_Row252",0.375115625
+"LessDILIDrugs","spironolactone","AR","OT_AR_ARSRC1_0960_Row124",0.089509517
+"LessDILIDrugs","spironolactone","AR","NVS_NR_rAR_Row591",-1.254539667
+"LessDILIDrugs","spironolactone","ESR1","ACEA_T47D_80hr_Positive_Row621",-2.833274233
+"LessDILIDrugs","spironolactone","NR3C1","NVS_NR_hGR_Row589",-0.209592508
+"LessDILIDrugs","spironolactone","NR3C2","NVS_NR_rMR_Row592",0.197152625
+"LessDILIDrugs","spironolactone","PPARG","TOX21_PPARg_BLA_Agonist_ratio_Row2",0.998141667
+"MostDILI Drugs","stavudine","HTR3A","NVS_LGIC_h5HT3_Row1022",-2.762291394
+"MostDILI Drugs","sulfasalazine","AR","NVS_NR_hAR_Row620",0.75895004
+"MostDILI Drugs","sulfasalazine","AR","NVS_NR_cAR_Row619",0.615827409
+"MostDILI Drugs","sulfasalazine","DUSP3","NVS_ENZ_hDUSP3_Row554",0.339425358
+"MostDILI Drugs","sulfasalazine","EGF","NVS_ENZ_hEGFR_Row819",0.678889012
+"MostDILI Drugs","sulfasalazine","MMP13","NVS_ENZ_hMMP13_Row857",-0.149347609
+"MostDILI Drugs","sulfasalazine","MMP9","matrix metalloproteinase 9_Row558",0.463560073
+"MostDILI Drugs","sulfasalazine","NTRK1","NVS_ENZ_hTrkA_Activator_Row926",0.855823274
+"MostDILI Drugs","sulfasalazine","PDE10A","NVS_ENZ_hPDE10_Row560",0.630977319
+"MostDILI Drugs","sulfasalazine","PDE5A","NVS_ENZ_hPDE5_Row875",-0.341904304
+"MostDILI Drugs","sulfasalazine","PGR","NVS_NR_hPR_Row590",-0.73077238
+"MostDILI Drugs","sulfasalazine","PPARG","NVS_NR_hPPARg_Row95",0.644791969
+"MostDILI Drugs","sulfasalazine","PPARG","ATG_PPARg_TRANS_up_Row7",-3.14115727
+"MostDILI Drugs","sulfasalazine","prlfrn","BSK_CASM3C_Proliferation_down_Row26",0.130394633
+"MostDILI Drugs","sulfasalazine","PTPN1","NVS_ENZ_hPTPN1_Row885",0.999892958
+"MostDILI Drugs","sulfasalazine","PTPN14","NVS_ENZ_hPTPN4_Row897",0.989947833
+"MostDILI Drugs","sulfasalazine","TBXA2R","NVS_GPCR_hTXA2_Row580",0.210612348
+"MostDILI Drugs","sulfasalazine","TSPO","NVS_MP_rPBR_Row587",0.956656272
+"MostDILI Drugs","sulindac","AHR","ATG_Ahr_CIS_up_Row342",0.871134881
+"MostDILI Drugs","sulindac","AHR","TOX21_AhR_LUC_Agonist_Row256",0.043471516
+"MostDILI Drugs","sulindac","EGR1","ATG_EGR_CIS_up_Row355",-0.192807087
+"MostDILI Drugs","sulindac","ESR1","ATG_ERE_CIS_up_Row9",0.40993672
+"MostDILI Drugs","sulindac","ESR1","ATG_ERa_TRANS_up_Row27",-0.895491362
+"MostDILI Drugs","sulindac","HIF1a","ATG_HIF1a_CIS_up_Row379",0.031539877
+"MostDILI Drugs","sulindac","IFNG","ATG_ISRE_CIS_dn_Row388",-0.409351657
+"MostDILI Drugs","sulindac","NR1I2","ATG_PXRE_CIS_up_Row16",0.825077132
+"MostDILI Drugs","sulindac","NR1I2","ATG_PXR_TRANS_up_Row18",0.717108448
+"MostDILI Drugs","sulindac","NR1I3","ATG_PBREM_CIS_up_Row319",0.700523041
+"MostDILI Drugs","sulindac","NRF2","ATG_NRF2_ARE_CIS_up_Row48",0.083758753
+"MostDILI Drugs","sulindac","NRF2","TOX21_ARE_BLA_agonist_ratio_Row34",-0.004056632
+"MostDILI Drugs","sulindac","NRF2","TOX21_ARE_BLA_Agonist_ch2_Row24",-0.530935265
+"MostDILI Drugs","sulindac","PAX6","ATG_Pax6_CIS_up_Row432",-2.506116785
+"MostDILI Drugs","sulindac","PPARG","ATG_PPARg_TRANS_up_Row7",0.31762943
+"MostDILI Drugs","sulindac","TP53","TOX21_p53_BLA_p3_ch1_Row121",0.999976864
+"MostDILI Drugs","sulindac","TP53","TOX21_p53_BLA_p4_viability_Row177",0.993104626
+"MostDILI Drugs","sulindac","TP53","TOX21_p53_BLA_p4_ratio_Row126",0.992735321
+"MostDILI Drugs","sulindac","USF1","ATG_E_Box_CIS_dn_Row362",-0.669141528
+"MostDILI Drugs","sulindac","VDR","ATG_VDRE_CIS_up_Row37",0.698190068
+"MostDILI Drugs","tamoxifen","AR","NVS_NR_hAR_Row620",-3.909868867
+"MostDILI Drugs","tamoxifen","cortisol","CEETOX_H295R_11DCORT_dn_Row306",0.495808808
+"MostDILI Drugs","tamoxifen","deoxycorticosterone","CEETOX_H295R_DOC_dn_Row301",0.549005759
+"MostDILI Drugs","tamoxifen","ESR1","ATG_ERE_CIS_dn_Row356",0.884933954
+"MostDILI Drugs","tamoxifen","ESR1","ACEA_T47D_80hr_Positive_Row621",0.79145288
+"MostDILI Drugs","tamoxifen","ESR1","NVS_NR_hER_Row588",0.788242161
+"MostDILI Drugs","tamoxifen","ESR1","NVS_NR_bER_Row617",0.607434644
+"MostDILI Drugs","tamoxifen","ESR1","NVS_NR_mERa_Row618",0.412933043
+"MostDILI Drugs","tamoxifen","ESR1","OT_ERa_EREGFP_0480_Row1053",-0.178539632
+"MostDILI Drugs","tamoxifen","ESR1","OT_ERa_EREGFP_0120_Row1052",-0.339072623
+"MostDILI Drugs","tamoxifen","ESR1","OT_ER_ERaERb_1440_Row1049",-0.959155619
+"MostDILI Drugs","tamoxifen","ESR1","OT_ER_ERaERb_0480_Row1048",-0.983334433
+"MostDILI Drugs","tamoxifen","ESR1","OT_ER_ERaERa_0480_Row1046",-1.771646887
+"MostDILI Drugs","tamoxifen","ESR1","TOX21_ERa_BLA_Antagonist_ratio_Row156",-3.066350397
+"MostDILI Drugs","tamoxifen","ESR2","OT_ER_ERbERb_1440_Row1051",0.336342261
+"MostDILI Drugs","tamoxifen","ESR2","OT_ER_ERbERb_0480_Row1050",-1.907169638
+"MostDILI Drugs","tamoxifen","hydroxyprogesterone","CEETOX_H295R_OHPROG_up_Row610",0.972619848
+"MostDILI Drugs","tamoxifen","KCNH2","NVS_IC_hKhERGCh_Row1013",-1.30914323
+"MostDILI Drugs","tamoxifen","prlfrn","BSK_hDFCGF_Proliferation_down_Row25",0.911322225
+"MostDILI Drugs","tamoxifen","SIGMAR1","NVS_OR_gSIGMA_NonSelective_Row140",-2.009967541
+"LessDILIDrugs","telmisartan","PPARG","TOX21_PPARg_BLA_Agonist_ratio_Row2",0.3591276
+"AmbiDILIDrugs","temazepam","ESR1","TOX21_ERa_LUC_BG1_Antagonist_Row179",-1.242415216
+"MostDILI Drugs","terbinafine","NFKB1","TOX21_NFkB_BLA_agonist_ratio_Row250",-3.690554863
+"MostDILI Drugs","testosterone","AR","TOX21_AR_LUC_MDAKB2_Agonist_Row252",0.896170213
+"MostDILI Drugs","testosterone","AR","TOX21_AR_BLA_Agonist_ch2_Row254",0.687887021
+"MostDILI Drugs","testosterone","AR","TOX21_AR_BLA_Agonist_ratio_Row249",0.67132766
+"MostDILI Drugs","testosterone","ESR1","TOX21_ERa_LUC_BG1_Agonist_Row253",-0.79691234
+"LessDILIDrugs","tetracycline","AR","NVS_NR_rAR_Row591",0.296657749
+"LessDILIDrugs","tetracycline","AR","NVS_NR_cAR_Row619",0.004191665
+"LessDILIDrugs","tetracycline","CASP5","NVS_ENZ_hCASP5_Row809",0.539679368
+"LessDILIDrugs","tetracycline","CCKAR","NVS_GPCR_mCCKAPeripheral_Row985",-0.017527527
+"LessDILIDrugs","tetracycline","COMT","NVS_ENZ_rCOMT_Row937",0.89241283
+"LessDILIDrugs","tetracycline","COX2","NVS_ENZ_oCOX2_Row931",0.498267284
+"LessDILIDrugs","tetracycline","DUSP3","NVS_ENZ_hDUSP3_Row554",0.65251891
+"LessDILIDrugs","tetracycline","ELA2","NVS_ENZ_hElastase_Row823",0.123086323
+"LessDILIDrugs","tetracycline","ESR1","ATG_ERE_CIS_up_Row9",-0.281537007
+"LessDILIDrugs","tetracycline","ESR1","ATG_ERa_TRANS_up_Row27",-1.03801264
+"LessDILIDrugs","tetracycline","intmrkr","ATG_CMV_CIS_up_Row39",-2.142259871
+"LessDILIDrugs","tetracycline","MMP9","matrix metalloproteinase 9_down_Row46",0.287966284
+"LessDILIDrugs","tetracycline","NR1I2","ATG_PXRE_CIS_up_Row16",0.235998709
+"LessDILIDrugs","tetracycline","NR3C1","NVS_NR_hGR_Row589",0.122723175
+"LessDILIDrugs","tetracycline","NR3C1","NVS_ENZ_hGSK3b_Row833",-0.017737949
+"LessDILIDrugs","tetracycline","oxidoreductase","NCCT_TPO_AUR_dn_Row14",0.591890611
+"LessDILIDrugs","tetracycline","oxidoreductase","NCCT_TPO_GUA_dn_Row1315",-3.529167972
+"LessDILIDrugs","tetracycline","PLAUR","BSK_4H_uPAR_down_Row101",0.996098172
+"LessDILIDrugs","tetracycline","prlfrn","BSK_hDFCGF_Proliferation_down_Row25",0.336983048
+"LessDILIDrugs","tetracycline","PTPN6","NVS_ENZ_hPTPN6_Activator_Row900",0.412557326
+"LessDILIDrugs","tetracycline","PTPN6","NVS_ENZ_hPTPN6_Row899",0.17472612
+"LessDILIDrugs","tetracycline","PTPRC","NVS_ENZ_hPTPRC_Row905",0.688162727
+"LessDILIDrugs","tetracycline","RXRA","ATG_RXRa_TRANS_dn_Row444",0.692815844
+"LessDILIDrugs","tetracycline","TACR2","NVS_GPCR_hNK2_Row578",0.181193476
+"NoDILI Drugs","theophylline","ADORA1","NVS_GPCR_hAdoRA1_Row574",0.868277069
+"NoDILI Drugs","theophylline","ADORA2","NVS_GPCR_hAdoRA2a_Row575",0.921910989
+"NoDILI Drugs","theophylline","ADRA1A","NVS_GPCR_bAdoR_NonSelective_Row947",0.798238364
+"NoDILI Drugs","theophylline","AR","OT_AR_ARELUC_AG_1440_Row1044",0.993579541
+"NoDILI Drugs","theophylline","hmgbox","ATG_TCF_b_cat_CIS_dn_Row85",-0.347130259
+"NoDILI Drugs","theophylline","intmrkr","ATG_M_19_TRANS_up_Row402",0.999973525
+"NoDILI Drugs","theophylline","intmrkr","ATG_M_19_CIS_dn_Row399",0.970849351
+"NoDILI Drugs","theophylline","NFKB1","ATG_NF_kB_CIS_dn_Row330",-0.924336122
+"NoDILI Drugs","theophylline","PDE10A","NVS_ENZ_hPDE10_Row560",0.56336683
+"NoDILI Drugs","theophylline","SREBF1","ATG_SREBP_CIS_up_Row17",0.981031609
+"NoDILI Drugs","theophylline","USF1","ATG_E_Box_CIS_up_Row30",0.987696486
+"NoDILI Drugs","theophylline","xtt","ATG_XTT_Cytotoxicity_up_Row1093",0.999905882
+"MostDILI Drugs","ticlopidine","AR","TOX21_AR_LUC_MDAKB2_Antagonist2_Row168",-0.229068676
+"MostDILI Drugs","ticlopidine","ESR1","TOX21_ERa_LUC_BG1_Agonist_Row253",-0.575408926
+"MostDILI Drugs","ticlopidine","ESR1","TOX21_ERa_BLA_Agonist_ch2_Row269",-2.688753429
+"MostDILI Drugs","ticlopidine","THRA","TOX21_TR_LUC_GH3_Antagonist_Row97",-2.856090435
+"LessDILIDrugs","tinidazole","ESR1","TOX21_ERa_LUC_BG1_Agonist_Row253",0.966709675
+"LessDILIDrugs","tinidazole","ESR1","TOX21_ERa_BLA_Agonist_ch2_Row269",0.805328936
+"LessDILIDrugs","tinidazole","ESR1","TOX21_ERa_BLA_Agonist_ratio_Row246",0.773768936
+"MostDILI Drugs","tipranavir","ESR1","TOX21_ERa_BLA_Antagonist_ratio_Row156",-0.712463496
+"MostDILI Drugs","tipranavir","NR3C1","TOX21_GR_BLA_Antagonist_ratio_Row155",-0.546653229
+"MostDILI Drugs","tipranavir","THRA","TOX21_TR_LUC_GH3_Antagonist_Row97",-0.720475275
+"LessDILIDrugs","tolazamide","HIF1a","ATG_HIF1a_CIS_dn_Row378",0.40495348
+"LessDILIDrugs","tolazamide","JUN","ATG_AP_1_CIS_up_Row35",0.989272537
+"LessDILIDrugs","tolazamide","KCNJ11","NVS_IC_rKATPCh_Row1017",0.957411971
+"LessDILIDrugs","tolazamide","MMP1","NVS_ENZ_hMMP1_Row44",0.8831257
+"LessDILIDrugs","tolazamide","NRF2","ATG_NRF2_ARE_CIS_up_Row48",0.989639825
+"LessDILIDrugs","tolazamide","oxidoreductase","NCCT_TPO_AUR_dn_Row14",0.903271495
+"LessDILIDrugs","tolazamide","oxidoreductase","NCCT_QuantiLum_inhib_dn_Row182",0.217601905
+"MostDILI Drugs","tolcapone","AR","TOX21_AR_BLA_Antagonist_ratio_Row143",0.647152783
+"MostDILI Drugs","tolcapone","AR","TOX21_AR_BLA_Antagonist_viability_Row157",0.553656511
+"MostDILI Drugs","tolcapone","AR","TOX21_AR_LUC_MDAKB2_Antagonist2_Row168",0.522969223
+"MostDILI Drugs","tolcapone","AR","TOX21_AR_LUC_MDAKB2_Antagonist_Row178",0.00402763
+"MostDILI Drugs","tolcapone","BMPR2","ATG_BRE_CIS_up_Row344",0.185007818
+"MostDILI Drugs","tolcapone","CYP19A1","TOX21_Aromatase_Inhibition_Row119",0.317326539
+"MostDILI Drugs","tolcapone","ESR1","TOX21_ERa_BLA_Antagonist_ratio_Row156",0.684006602
+"MostDILI Drugs","tolcapone","ESR1","NVS_NR_hER_Row588",0.589642744
+"MostDILI Drugs","tolcapone","ESR1","TOX21_ERa_BLA_Antagonist_ch1_Row233",0.543965726
+"MostDILI Drugs","tolcapone","ESR1","TOX21_ERa_LUC_BG1_Antagonist_Row179",0.107861982
+"MostDILI Drugs","tolcapone","HIF1a","ATG_HIF1a_CIS_up_Row379",0.715907833
+"MostDILI Drugs","tolcapone","intmrkr","ATG_CMV_CIS_up_Row39",0.828953692
+"MostDILI Drugs","tolcapone","mmp","TOX21_MMP_ratio_down_Row67",0.926825951
+"MostDILI Drugs","tolcapone","mmp","TOX21_MMP_viability_Row615",0.690624283
+"MostDILI Drugs","tolcapone","MTF1","ATG_MRE_CIS_up_Row84",-0.602439314
+"MostDILI Drugs","tolcapone","NR1H4","TOX21_FXR_BLA_antagonist_ratio_Row183",0.896604339
+"MostDILI Drugs","tolcapone","NR1I2","ATG_PXRE_CIS_up_Row16",0.646629477
+"MostDILI Drugs","tolcapone","NR3C1","TOX21_GR_BLA_Antagonist_ratio_Row155",0.624616036
+"MostDILI Drugs","tolcapone","NR3C1","ATG_GR_TRANS_up_Row377",-0.714295105
+"MostDILI Drugs","tolcapone","ppar","ATG_PPRE_CIS_up_Row5",0.69409412
+"MostDILI Drugs","tolcapone","PPARD","TOX21_PPARd_BLA_antagonist_ratio_Row221",0.737371798
+"MostDILI Drugs","tolcapone","PPARG","TOX21_PPARg_BLA_antagonist_ratio_Row220",0.833845942
+"MostDILI Drugs","tolcapone","PPARG","ATG_PPARg_TRANS_up_Row7",0.784391952
+"MostDILI Drugs","tolcapone","TFAP2A","ATG_AP_2_CIS_dn_Row338",0.713067127
+"MostDILI Drugs","tolcapone","THRA","TOX21_TR_LUC_GH3_Antagonist_Row97",0.217716372
+"MostDILI Drugs","tolcapone","TP53","TOX21_p53_BLA_p2_ratio_Row80",0.789264937
+"MostDILI Drugs","tolcapone","TP53","TOX21_p53_BLA_p1_ch1_Row166",0.524556622
+"MostDILI Drugs","tolcapone","TP53","TOX21_p53_BLA_p3_ch1_Row121",0.498886406
+"MostDILI Drugs","tolcapone","TP53","TOX21_p53_BLA_p3_viability_Row184",0.381933819
+"MostDILI Drugs","tolcapone","TP53","TOX21_p53_BLA_p4_viability_Row177",0.329872047
+"MostDILI Drugs","tolcapone","TP53","TOX21_p53_BLA_p4_ratio_Row126",0.318353685
+"MostDILI Drugs","tolcapone","TP53","TOX21_p53_BLA_p2_viability_Row180",0.272206439
+"MostDILI Drugs","tolcapone","TP53","TOX21_p53_BLA_p1_ratio_Row162",0.164765186
+"MostDILI Drugs","tolcapone","TP53","TOX21_p53_BLA_p5_ratio_Row117",0.156287141
+"MostDILI Drugs","tolcapone","TP53","TOX21_p53_BLA_p1_viability_Row171",-0.05320228
+"MostDILI Drugs","tolcapone","TP53","TOX21_p53_BLA_p4_ch1_Row112",-0.372758876
+"MostDILI Drugs","tolcapone","USF1","ATG_E_Box_CIS_dn_Row362",0.780428617
+"MostDILI Drugs","tolcapone","VDR","ATG_VDRE_CIS_up_Row37",0.128452845
+"LessDILIDrugs","topiramate","NR1I2","ATG_PXRE_CIS_up_Row16",-2.118916091
+"AmbiDILIDrugs","trimethadione","TP53","TOX21_p53_BLA_p2_viability_Row180",0.999999237
+"MostDILI Drugs","troglitazone","AR","OT_AR_ARSRC1_0960_Row124",-3.292624061
+"MostDILI Drugs","troglitazone","CCL2","BSK_4H_MCP1_down_Row36",-0.286950319
+"MostDILI Drugs","troglitazone","CCL2","BSK_KF3CT_MCP1_down_Row52",-0.684855003
+"MostDILI Drugs","troglitazone","CCL2","BSK_LPS_MCP1_down_Row105",-2.638719826
+"MostDILI Drugs","troglitazone","CCL2","BSK_3C_MCP1_down_Row106",-2.704014536
+"MostDILI Drugs","troglitazone","CCL2","BSK_SAg_MCP1_down_Row114",-2.930355797
+"MostDILI Drugs","troglitazone","CCL26","BSK_4H_Eotaxin3_down_Row76",-1.345595815
+"MostDILI Drugs","troglitazone","CD38","BSK_SAg_CD38_down_Row86",-1.57297096
+"MostDILI Drugs","troglitazone","CD40","BSK_SAg_CD40_down_Row57",-0.781707331
+"MostDILI Drugs","troglitazone","CD40","BSK_LPS_CD40_down_Row64",-0.938222536
+"MostDILI Drugs","troglitazone","CD69","BSK_SAg_CD69_down_Row120",-3.050369377
+"MostDILI Drugs","troglitazone","COL3A1","BSK_hDFCGF_CollagenIII_down_Row58",-0.791828049
+"MostDILI Drugs","troglitazone","CSF1","BSK_hDFCGF_MCSF_down_Row42",-0.379503806
+"MostDILI Drugs","troglitazone","CXCL10","BSK_hDFCGF_IP10_down_Row33",-0.169646146
+"MostDILI Drugs","troglitazone","CXCL10","BSK_KF3CT_IP10_down_Row38",-0.311399147
+"MostDILI Drugs","troglitazone","CXCL10","BSK_BE3C_IP10_down_Row55",-0.70998621
+"MostDILI Drugs","troglitazone","CXCL9","BSK_hDFCGF_MIG_down_Row61",-0.85965813
+"MostDILI Drugs","troglitazone","CXCL9","BSK_SAg_MIG_down_Row75",-1.335126959
+"MostDILI Drugs","troglitazone","CXCL9","BSK_BE3C_MIG_down_Row78",-1.366741281
+"MostDILI Drugs","troglitazone","CXCL9","BSK_3C_MIG_down_Row90",-1.887488819
+"MostDILI Drugs","troglitazone","CYP19A1","TOX21_Aromatase_Inhibition_Row119",-3.044574975
+"MostDILI Drugs","troglitazone","cytotoxicity","BSK_3C_Vis_down_Row62",-0.864019741
+"MostDILI Drugs","troglitazone","cytotoxicity","BSK_SAg_PBMCCytotoxicity_down_Row116",-2.975518684
+"MostDILI Drugs","troglitazone","E2F1","ATG_E2F_CIS_dn_Row31",-0.027935704
+"MostDILI Drugs","troglitazone","EGF","BSK_hDFCGF_EGFR_down_Row29",0.029190254
+"MostDILI Drugs","troglitazone","ESR1","ATG_ERE_CIS_up_Row9",0.964576989
+"MostDILI Drugs","troglitazone","ESR1","ATG_ERa_TRANS_up_Row27",0.151948014
+"MostDILI Drugs","troglitazone","HLA-DR","BSK_BE3C_HLADR_down_Row59",-0.842837536
+"MostDILI Drugs","troglitazone","HLA-DR","BSK_3C_HLADR_down_Row104",-2.528594197
+"MostDILI Drugs","troglitazone","hmgbox","ATG_TCF_b_cat_CIS_dn_Row85",-1.562092461
+"MostDILI Drugs","troglitazone","ICAM1","BSK_KF3CT_ICAM1_down_Row53",-0.692241763
+"MostDILI Drugs","troglitazone","IL1a","BSK_KF3CT_IL1a_down_Row68",-1.099472783
+"MostDILI Drugs","troglitazone","IL1a","BSK_BE3C_IL1a_down_Row69",-1.102734323
+"MostDILI Drugs","troglitazone","IL8","BSK_3C_IL8_down_Row66",-1.070752019
+"MostDILI Drugs","troglitazone","IL8","BSK_hDFCGF_IL8_down_Row103",-2.488033744
+"MostDILI Drugs","troglitazone","intmrkr","ATG_CMV_CIS_up_Row39",-0.357778463
+"MostDILI Drugs","troglitazone","JUN","ATG_AP_1_CIS_up_Row35",-0.261109466
+"MostDILI Drugs","troglitazone","MAOA","NVS_ENZ_rMAOBC_Row65",-1.056361885
+"MostDILI Drugs","troglitazone","mmp","TOX21_MMP_ratio_down_Row67",-1.095856976
+"MostDILI Drugs","troglitazone","MMP1","NVS_ENZ_hMMP1_Row44",-0.431039377
+"MostDILI Drugs","troglitazone","MMP1","BSK_hDFCGF_MMP1_down_Row96",-2.197588113
+"MostDILI Drugs","troglitazone","MMP3","NVS_ENZ_hMMP3_Activator_Row0",0.999805974
+"MostDILI Drugs","troglitazone","MMP9","matrix metalloproteinase 9_down_Row46",-0.447072986
+"MostDILI Drugs","troglitazone","MTF1","ATG_MRE_CIS_up_Row84",-1.559695453
+"MostDILI Drugs","troglitazone","NR1H3","ATG_DR4_LXR_CIS_dn_Row28",0.074454923
+"MostDILI Drugs","troglitazone","NR1H4","ATG_FXR_TRANS_up_Row83",-1.540258645
+"MostDILI Drugs","troglitazone","NR1H4","OT_FXR_FXRSRC1_0480_Row94",-2.126078328
+"MostDILI Drugs","troglitazone","NR1H4","TOX21_FXR_BLA_agonist_ch2_Row135",-3.799206766
+"MostDILI Drugs","troglitazone","NR1I2","ATG_PXRE_CIS_up_Row16",0.720459024
+"MostDILI Drugs","troglitazone","NR1I2","ATG_PXR_TRANS_up_Row18",0.561565038
+"MostDILI Drugs","troglitazone","NRF2","TOX21_ARE_BLA_Agonist_ch2_Row24",0.187346134
+"MostDILI Drugs","troglitazone","NRF2","TOX21_ARE_BLA_agonist_ratio_Row34",-0.247125873
+"MostDILI Drugs","troglitazone","NRF2","ATG_NRF2_ARE_CIS_up_Row48",-0.513772544
+"MostDILI Drugs","troglitazone","oxidoreductase","NCCT_TPO_AUR_dn_Row14",0.767599599
+"MostDILI Drugs","troglitazone","PLAT","BSK_BE3C_tPA_down_Row40",-0.366829403
+"MostDILI Drugs","troglitazone","PLAU","BSK_KF3CT_uPA_down_Row45",-0.440433006
+"MostDILI Drugs","troglitazone","PLAU","BSK_BE3C_uPA_down_Row60",-0.858946129
+"MostDILI Drugs","troglitazone","PLAUR","BSK_BE3C_uPAR_down_Row71",-1.184276291
+"MostDILI Drugs","troglitazone","PLAUR","BSK_3C_uPAR_down_Row91",-2.003630319
+"MostDILI Drugs","troglitazone","PLAUR","BSK_4H_uPAR_down_Row101",-2.397096405
+"MostDILI Drugs","troglitazone","ppar","ATG_PPRE_CIS_up_Row5",0.986922501
+"MostDILI Drugs","troglitazone","PPARG","TOX21_PPARg_BLA_Agonist_ch2_Row1",0.996707147
+"MostDILI Drugs","troglitazone","PPARG","TOX21_PPARg_BLA_Agonist_ratio_Row2",0.996084615
+"MostDILI Drugs","troglitazone","PPARG","ATG_PPARg_TRANS_up_Row7",0.975776075
+"MostDILI Drugs","troglitazone","PPARG","OT_PPARg_PPARgSRC1_0480_Row21",0.392777523
+"MostDILI Drugs","troglitazone","PPARG","OT_PPARg_PPARgSRC1_1440_Row22",0.316064107
+"MostDILI Drugs","troglitazone","PPARG","NVS_NR_hPPARg_Row95",-2.156335145
+"MostDILI Drugs","troglitazone","prlfrn","BSK_hDFCGF_Proliferation_down_Row25",0.172960154
+"MostDILI Drugs","troglitazone","prlfrn","BSK_CASM3C_Proliferation_down_Row26",0.153228575
+"MostDILI Drugs","troglitazone","prlfrn","BSK_SAg_Proliferation_down_Row54",-0.700903709
+"MostDILI Drugs","troglitazone","prlfrn","NCCT_HEK293T_CellTiterGLO_Row88",-1.793219822
+"MostDILI Drugs","troglitazone","prlfrn","BSK_3C_Proliferation_down_Row100",-2.346648499
+"MostDILI Drugs","troglitazone","RORA","ATG_RORE_CIS_up_Row43",-0.414246853
+"MostDILI Drugs","troglitazone","SELE","BSK_LPS_Eselectin_down_Row81",-1.479865558
+"MostDILI Drugs","troglitazone","SELP","BSK_4H_Pselectin_down_Row49",-0.671843481
+"MostDILI Drugs","troglitazone","SERPINE1","BSK_hDFCGF_PAI1_down_Row32",-0.059195534
+"MostDILI Drugs","troglitazone","SERPINE1","BSK_BE3C_PAI1_down_Row56",-0.771294703
+"MostDILI Drugs","troglitazone","srb","BSK_KF3CT_SRB_down_Row50",-0.673380494
+"MostDILI Drugs","troglitazone","srb","BSK_hDFCGF_SRB_down_Row73",-1.264770796
+"MostDILI Drugs","troglitazone","srb","BSK_3C_SRB_down_Row82",-1.512783152
+"MostDILI Drugs","troglitazone","srb","BSK_BE3C_SRB_down_Row102",-2.480966018
+"MostDILI Drugs","troglitazone","srb","BSK_SAg_SRB_down_Row115",-2.933516217
+"MostDILI Drugs","troglitazone","srb","BSK_LPS_SRB_down_Row123",-3.169801011
+"MostDILI Drugs","troglitazone","srb","BSK_4H_SRB_down_Row131",-3.655048786
+"MostDILI Drugs","troglitazone","SREBF1","ATG_SREBP_CIS_up_Row17",0.678837781
+"MostDILI Drugs","troglitazone","TGFB1","BSK_BE3C_TGFb1_down_Row63",-0.88626489
+"MostDILI Drugs","troglitazone","TGFB1","BSK_KF3CT_TGFb1_down_Row87",-1.728572811
+"MostDILI Drugs","troglitazone","THBD","BSK_CASM3C_Thrombomodulin_up_Row23",0.28288876
+"MostDILI Drugs","troglitazone","THRA","TOX21_TR_LUC_GH3_Antagonist_Row97",-2.281566524
+"MostDILI Drugs","troglitazone","TIMP1","BSK_hDFCGF_TIMP1_down_Row51",-0.678419447
+"MostDILI Drugs","troglitazone","TIMP2","BSK_KF3CT_TIMP2_down_Row70",-1.138150132
+"MostDILI Drugs","troglitazone","TP53","TOX21_p53_BLA_p2_ch2_Row77",-1.352867569
+"MostDILI Drugs","troglitazone","TP53","TOX21_p53_BLA_p2_ratio_Row80",-1.409790339
+"MostDILI Drugs","troglitazone","TP53","TOX21_p53_BLA_p3_ch2_Row92",-2.053030546
+"MostDILI Drugs","troglitazone","TP53","TOX21_p53_BLA_p2_ch1_Row98",-2.313079606
+"MostDILI Drugs","troglitazone","TP53","TOX21_p53_BLA_p4_ch1_Row112",-2.854857753
+"MostDILI Drugs","troglitazone","TP53","TOX21_p53_BLA_p5_ratio_Row117",-2.979549617
+"MostDILI Drugs","troglitazone","TP53","TOX21_p53_BLA_p3_ratio_Row118",-3.003128968
+"MostDILI Drugs","troglitazone","TP53","TOX21_p53_BLA_p3_ch1_Row121",-3.074328096
+"MostDILI Drugs","troglitazone","TP53","TOX21_p53_BLA_p4_ratio_Row126",-3.388523078
+"MostDILI Drugs","troglitazone","USF1","ATG_E_Box_CIS_up_Row30",-0.026146398
+"MostDILI Drugs","troglitazone","VCAM1","BSK_hDFCGF_VCAM1_down_Row41",-0.375203432
+"MostDILI Drugs","troglitazone","VCAM1","BSK_LPS_VCAM1_down_Row72",-1.20481735
+"MostDILI Drugs","troglitazone","VCAM1","BSK_4H_VCAM1_down_Row125",-3.329504221
+"MostDILI Drugs","troglitazone","VCAM1","BSK_3C_VCAM1_down_Row128",-3.402958019
+"MostDILI Drugs","troglitazone","VDR","ATG_VDRE_CIS_up_Row37",-0.29735221
+"MostDILI Drugs","troglitazone","zf_teratoscore","NHEERL_ZF_144hpf_TERATOSCORE_up_Row13",0.78713642
+"MostDILI Drugs","valproic acid","AKT2","NVS_ENZ_hAKT2_Row793",0.99408475
+"MostDILI Drugs","valproic acid","CYP2C19","NVS_ADME_hCYP2C19_Row544",0.980772223
+"MostDILI Drugs","valproic acid","ESR1","ACEA_T47D_80hr_Positive_Row621",0.920641296
+"MostDILI Drugs","valproic acid","HDAC3","NVS_ENZ_hHDAC3_Activator_Row836",0.997952081
+"MostDILI Drugs","valproic acid","NR1H4","OT_FXR_FXRSRC1_0480_Row94",0.836106871
+"MostDILI Drugs","valproic acid","NURR1RXR","OT_NURR1_NURR1RXRa_0480_Row161",0.838752429
+"MostDILI Drugs","valproic acid","PTEN","NVS_ENZ_hPTEN_Row564",0.999697486
+"MostDILI Drugs","valproic acid","PTPN13","NVS_ENZ_hPTPN13_Row890",0.997221856
+"MostDILI Drugs","valproic acid","PTPN4","NVS_ENZ_hPTPN4_Activator_Row898",0.999667089
+"MostDILI Drugs","valproic acid","TP53","APR_HepG2_p53Act_72h_up_Row173",0.999992347
+"MostDILI Drugs","valproic acid","zf_teratoscore","NHEERL_ZF_144hpf_TERATOSCORE_up_Row13",0.853988902
+"LessDILIDrugs","warfarin","HIF1a","ATG_HIF1a_CIS_dn_Row378",0.095146714
+"LessDILIDrugs","warfarin","PPARG","TOX21_PPARg_BLA_Agonist_ch2_Row1",-0.122179818
+"LessDILIDrugs","warfarin","PPARG","TOX21_PPARg_BLA_Agonist_ratio_Row2",-0.285899336
+"LessDILIDrugs","warfarin","TNF","BSK_LPS_TNFa_up_Row521",0.819742864
+"MostDILI Drugs","zafirlukast","PPARG","TOX21_PPARg_BLA_Agonist_ch2_Row1",0.921658032
+"MostDILI Drugs","zafirlukast","PPARG","TOX21_PPARg_BLA_Agonist_ratio_Row2",0.864221831
+"MostDILI Drugs","zafirlukast","TP53","TOX21_p53_BLA_p1_viability_Row171",-3.505274891
+"MostDILI Drugs","zileuton","AHR","ATG_Ahr_CIS_up_Row342",-2.628375165
+"MostDILI Drugs","zileuton","AHR","TOX21_AhR_LUC_Agonist_Row256",-2.740535553
+"MostDILI Drugs","zileuton","mmp","TOX21_MMP_viability_Row615",-2.931066133
+"MostDILI Drugs","zileuton","ppar","ATG_PPRE_CIS_up_Row5",-0.163365185
+"MostDILI Drugs","zileuton","PPARG","TOX21_PPARg_BLA_Agonist_ratio_Row2",-0.115696981
+"MostDILI Drugs","zileuton","PPARG","ATG_PPARg_TRANS_up_Row7",-1.411394098
+"LessDILIDrugs","zonisamide","TP53","TOX21_p53_BLA_p4_viability_Row177",0.999990958
