@@ -6,8 +6,8 @@ The dataset used for this study consisted of 60 "mostDILI" drugs and 115 "otherD
 
 For all drugs, ML modeling for "mostDILI" vs "otherDILI" was performed using one of three different sets of predictors:
 1. Benchamrk predictors alone*: Values for LogP, molecular Weight, daily dose, Cmax, and reactive metabolites for 175 drugs in this study
-2. Toxcast predictors alone: AC50 values for up to 216 Toxcast assay targets/pathways retrieved for 175 drugs used in this study
-3. Combination of benchmark predictors and toxcast predictors for 175 drugs used in this study
+2. Toxcast predictors alone: Normalized activtion scores for up to 216 Toxcast assay targets/pathways across 175 drugs used in this study
+3. Combination of values within "benchmark predictors" and "toxcast predictors" from above across 175 drugs used in this study
 
 Results of models generated from predictor set 1 vs predictor set 3 from above were used to evaluate, what value if any, was offered by Toxcast predictors to overall model performance.
 
