@@ -9,7 +9,7 @@ For all drugs, ML modeling for "mostDILI" vs "otherDILI" was performed using one
 2. Toxcast predictors alone: Normalized activtion scores for up to 216 Toxcast assay targets/pathways across 175 drugs used in this study
 3. Combination of predictors within "benchmark predictors" and "toxcast predictors" across 175 drugs used in this study
 
-Results of models generated from predictor set 1 vs predictor set 3 from above were used to evaluate, what additive value if any, was offered by Toxcast predictors to the benchmark predictors. Final results summary - presented to FDA's DILI working group - in March 2019 are also provided as a pdf file.
+Results of models generated from predictor set 1 vs predictor set 3 from above were used to evaluate, what additive value if any, was offered by Toxcast predictors to the benchmark predictors. Final results summary - presented to FDA's DILI working group - in March 2019 are also provided as a pdf file (https://github.com/Sri-Bandhakavi/ToxCast_ValueEval_For_ML_Modeling_DILI_EBTC_Analysis/blob/master/ToxCast_ValueAdd_For_DILI_Predictions_DILIWG_Presentation.pdf).
 
 
 
